@@ -1,0 +1,2532 @@
+Year_Reference,District,Neighborhood,Value,Birth_Place_Region,Sex
+2008,Ciutat Vella,el Raval,9,Eastern Africa,Female
+2008,Ciutat Vella,el Raval,9,Eastern Africa,Male
+2008,Ciutat Vella,el Raval,19,Middle Africa,Female
+2008,Ciutat Vella,el Raval,21,Middle Africa,Male
+2008,Ciutat Vella,el Raval,768,Northern Africa,Female
+2008,Ciutat Vella,el Raval,1301,Northern Africa,Male
+2008,Ciutat Vella,el Raval,7,Southern Africa,Male
+2008,Ciutat Vella,el Raval,42,Western Africa,Female
+2008,Ciutat Vella,el Raval,116,Western Africa,Male
+2008,Ciutat Vella,el Raval,423,Caribbean,Female
+2008,Ciutat Vella,el Raval,325,Caribbean,Male
+2008,Ciutat Vella,el Raval,211,Central America,Female
+2008,Ciutat Vella,el Raval,203,Central America,Male
+2008,Ciutat Vella,el Raval,2521,South America,Female
+2008,Ciutat Vella,el Raval,2488,South America,Male
+2008,Ciutat Vella,el Raval,53,Northern America,Female
+2008,Ciutat Vella,el Raval,92,Northern America,Male
+2008,Ciutat Vella,el Raval,..,Central Asia,Female
+2008,Ciutat Vella,el Raval,..,Central Asia,Male
+2008,Ciutat Vella,el Raval,184,Eastern Asia,Female
+2008,Ciutat Vella,el Raval,164,Eastern Asia,Male
+2008,Ciutat Vella,el Raval,944,Southern Asia,Female
+2008,Ciutat Vella,el Raval,6122,Southern Asia,Male
+2008,Ciutat Vella,el Raval,2518,South-Eastern Asia,Female
+2008,Ciutat Vella,el Raval,1873,South-Eastern Asia,Male
+2008,Ciutat Vella,el Raval,72,Western Asia,Female
+2008,Ciutat Vella,el Raval,193,Western Asia,Male
+2008,Ciutat Vella,el Raval,396,Eastern Europe,Female
+2008,Ciutat Vella,el Raval,304,Eastern Europe,Male
+2008,Ciutat Vella,el Raval,281,Northern Europe,Female
+2008,Ciutat Vella,el Raval,288,Northern Europe,Male
+2008,Ciutat Vella,el Raval,12457,Southern Europe,Female
+2008,Ciutat Vella,el Raval,11688,Southern Europe,Male
+2008,Ciutat Vella,el Raval,708,Western Europe,Female
+2008,Ciutat Vella,el Raval,644,Western Europe,Male
+2008,Ciutat Vella,el Raval,13,Australia and New Zealand,Female
+2008,Ciutat Vella,el Raval,11,Australia and New Zealand,Male
+2008,Ciutat Vella,el Raval,9,Not available,Female
+2008,Ciutat Vella,el Raval,7,Not available,Male
+2008,Ciutat Vella,el Barri Gòtic,..,Eastern Africa,Female
+2008,Ciutat Vella,el Barri Gòtic,10,Eastern Africa,Male
+2008,Ciutat Vella,el Barri Gòtic,10,Middle Africa,Female
+2008,Ciutat Vella,el Barri Gòtic,24,Middle Africa,Male
+2008,Ciutat Vella,el Barri Gòtic,144,Northern Africa,Female
+2008,Ciutat Vella,el Barri Gòtic,556,Northern Africa,Male
+2008,Ciutat Vella,el Barri Gòtic,..,Southern Africa,Female
+2008,Ciutat Vella,el Barri Gòtic,7,Southern Africa,Male
+2008,Ciutat Vella,el Barri Gòtic,16,Western Africa,Female
+2008,Ciutat Vella,el Barri Gòtic,195,Western Africa,Male
+2008,Ciutat Vella,el Barri Gòtic,103,Caribbean,Female
+2008,Ciutat Vella,el Barri Gòtic,95,Caribbean,Male
+2008,Ciutat Vella,el Barri Gòtic,445,Central America,Female
+2008,Ciutat Vella,el Barri Gòtic,346,Central America,Male
+2008,Ciutat Vella,el Barri Gòtic,3283,South America,Female
+2008,Ciutat Vella,el Barri Gòtic,3248,South America,Male
+2008,Ciutat Vella,el Barri Gòtic,90,Northern America,Female
+2008,Ciutat Vella,el Barri Gòtic,76,Northern America,Male
+2008,Ciutat Vella,el Barri Gòtic,..,Central Asia,Female
+2008,Ciutat Vella,el Barri Gòtic,19,Central Asia,Male
+2008,Ciutat Vella,el Barri Gòtic,84,Eastern Asia,Female
+2008,Ciutat Vella,el Barri Gòtic,95,Eastern Asia,Male
+2008,Ciutat Vella,el Barri Gòtic,116,Southern Asia,Female
+2008,Ciutat Vella,el Barri Gòtic,1637,Southern Asia,Male
+2008,Ciutat Vella,el Barri Gòtic,199,South-Eastern Asia,Female
+2008,Ciutat Vella,el Barri Gòtic,134,South-Eastern Asia,Male
+2008,Ciutat Vella,el Barri Gòtic,95,Western Asia,Female
+2008,Ciutat Vella,el Barri Gòtic,198,Western Asia,Male
+2008,Ciutat Vella,el Barri Gòtic,459,Eastern Europe,Female
+2008,Ciutat Vella,el Barri Gòtic,543,Eastern Europe,Male
+2008,Ciutat Vella,el Barri Gòtic,295,Northern Europe,Female
+2008,Ciutat Vella,el Barri Gòtic,333,Northern Europe,Male
+2008,Ciutat Vella,el Barri Gòtic,5639,Southern Europe,Female
+2008,Ciutat Vella,el Barri Gòtic,5954,Southern Europe,Male
+2008,Ciutat Vella,el Barri Gòtic,474,Western Europe,Female
+2008,Ciutat Vella,el Barri Gòtic,535,Western Europe,Male
+2008,Ciutat Vella,el Barri Gòtic,12,Australia and New Zealand,Female
+2008,Ciutat Vella,el Barri Gòtic,9,Australia and New Zealand,Male
+2008,Ciutat Vella,el Barri Gòtic,9,Not available,Female
+2008,Ciutat Vella,el Barri Gòtic,11,Not available,Male
+2008,Ciutat Vella,la Barceloneta,..,Eastern Africa,Female
+2008,Ciutat Vella,la Barceloneta,..,Eastern Africa,Male
+2008,Ciutat Vella,la Barceloneta,5,Middle Africa,Female
+2008,Ciutat Vella,la Barceloneta,7,Middle Africa,Male
+2008,Ciutat Vella,la Barceloneta,237,Northern Africa,Female
+2008,Ciutat Vella,la Barceloneta,424,Northern Africa,Male
+2008,Ciutat Vella,la Barceloneta,..,Southern Africa,Male
+2008,Ciutat Vella,la Barceloneta,7,Western Africa,Female
+2008,Ciutat Vella,la Barceloneta,30,Western Africa,Male
+2008,Ciutat Vella,la Barceloneta,100,Caribbean,Female
+2008,Ciutat Vella,la Barceloneta,73,Caribbean,Male
+2008,Ciutat Vella,la Barceloneta,90,Central America,Female
+2008,Ciutat Vella,la Barceloneta,74,Central America,Male
+2008,Ciutat Vella,la Barceloneta,812,South America,Female
+2008,Ciutat Vella,la Barceloneta,785,South America,Male
+2008,Ciutat Vella,la Barceloneta,31,Northern America,Female
+2008,Ciutat Vella,la Barceloneta,43,Northern America,Male
+2008,Ciutat Vella,la Barceloneta,..,Central Asia,Male
+2008,Ciutat Vella,la Barceloneta,27,Eastern Asia,Female
+2008,Ciutat Vella,la Barceloneta,38,Eastern Asia,Male
+2008,Ciutat Vella,la Barceloneta,44,Southern Asia,Female
+2008,Ciutat Vella,la Barceloneta,406,Southern Asia,Male
+2008,Ciutat Vella,la Barceloneta,24,South-Eastern Asia,Female
+2008,Ciutat Vella,la Barceloneta,11,South-Eastern Asia,Male
+2008,Ciutat Vella,la Barceloneta,28,Western Asia,Female
+2008,Ciutat Vella,la Barceloneta,40,Western Asia,Male
+2008,Ciutat Vella,la Barceloneta,162,Eastern Europe,Female
+2008,Ciutat Vella,la Barceloneta,136,Eastern Europe,Male
+2008,Ciutat Vella,la Barceloneta,154,Northern Europe,Female
+2008,Ciutat Vella,la Barceloneta,165,Northern Europe,Male
+2008,Ciutat Vella,la Barceloneta,6094,Southern Europe,Female
+2008,Ciutat Vella,la Barceloneta,5566,Southern Europe,Male
+2008,Ciutat Vella,la Barceloneta,255,Western Europe,Female
+2008,Ciutat Vella,la Barceloneta,259,Western Europe,Male
+2008,Ciutat Vella,la Barceloneta,..,Australia and New Zealand,Female
+2008,Ciutat Vella,la Barceloneta,7,Australia and New Zealand,Male
+2008,Ciutat Vella,la Barceloneta,..,Not available,Female
+2008,Ciutat Vella,la Barceloneta,6,Not available,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",7,Eastern Africa,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",13,Eastern Africa,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",8,Middle Africa,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",5,Middle Africa,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",352,Northern Africa,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",797,Northern Africa,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",6,Southern Africa,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",21,Western Africa,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",131,Western Africa,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",332,Caribbean,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",244,Caribbean,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",116,Central America,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",130,Central America,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",1235,South America,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",1212,South America,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",81,Northern America,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",81,Northern America,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",..,Central Asia,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",6,Central Asia,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",155,Eastern Asia,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",178,Eastern Asia,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",71,Southern Asia,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",451,Southern Asia,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",200,South-Eastern Asia,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",135,South-Eastern Asia,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",14,Western Asia,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",36,Western Asia,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",158,Eastern Europe,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",130,Eastern Europe,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",293,Northern Europe,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",285,Northern Europe,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",7732,Southern Europe,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",6869,Southern Europe,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",542,Western Europe,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",567,Western Europe,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",17,Australia and New Zealand,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",16,Australia and New Zealand,Male
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",12,Not available,Female
+2008,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",..,Not available,Male
+2008,Eixample,el Fort Pienc,7,Eastern Africa,Female
+2008,Eixample,el Fort Pienc,6,Eastern Africa,Male
+2008,Eixample,el Fort Pienc,5,Middle Africa,Female
+2008,Eixample,el Fort Pienc,8,Middle Africa,Male
+2008,Eixample,el Fort Pienc,79,Northern Africa,Female
+2008,Eixample,el Fort Pienc,145,Northern Africa,Male
+2008,Eixample,el Fort Pienc,..,Southern Africa,Female
+2008,Eixample,el Fort Pienc,..,Southern Africa,Male
+2008,Eixample,el Fort Pienc,16,Western Africa,Female
+2008,Eixample,el Fort Pienc,60,Western Africa,Male
+2008,Eixample,el Fort Pienc,163,Caribbean,Female
+2008,Eixample,el Fort Pienc,118,Caribbean,Male
+2008,Eixample,el Fort Pienc,201,Central America,Female
+2008,Eixample,el Fort Pienc,130,Central America,Male
+2008,Eixample,el Fort Pienc,1658,South America,Female
+2008,Eixample,el Fort Pienc,1480,South America,Male
+2008,Eixample,el Fort Pienc,48,Northern America,Female
+2008,Eixample,el Fort Pienc,36,Northern America,Male
+2008,Eixample,el Fort Pienc,..,Central Asia,Female
+2008,Eixample,el Fort Pienc,5,Central Asia,Male
+2008,Eixample,el Fort Pienc,395,Eastern Asia,Female
+2008,Eixample,el Fort Pienc,403,Eastern Asia,Male
+2008,Eixample,el Fort Pienc,33,Southern Asia,Female
+2008,Eixample,el Fort Pienc,282,Southern Asia,Male
+2008,Eixample,el Fort Pienc,22,South-Eastern Asia,Female
+2008,Eixample,el Fort Pienc,15,South-Eastern Asia,Male
+2008,Eixample,el Fort Pienc,38,Western Asia,Female
+2008,Eixample,el Fort Pienc,55,Western Asia,Male
+2008,Eixample,el Fort Pienc,188,Eastern Europe,Female
+2008,Eixample,el Fort Pienc,156,Eastern Europe,Male
+2008,Eixample,el Fort Pienc,136,Northern Europe,Female
+2008,Eixample,el Fort Pienc,146,Northern Europe,Male
+2008,Eixample,el Fort Pienc,13676,Southern Europe,Female
+2008,Eixample,el Fort Pienc,11654,Southern Europe,Male
+2008,Eixample,el Fort Pienc,381,Western Europe,Female
+2008,Eixample,el Fort Pienc,367,Western Europe,Male
+2008,Eixample,el Fort Pienc,..,Australia and New Zealand,Female
+2008,Eixample,el Fort Pienc,10,Australia and New Zealand,Male
+2008,Eixample,el Fort Pienc,12,Not available,Female
+2008,Eixample,el Fort Pienc,12,Not available,Male
+2008,Eixample,la Sagrada Família,6,Eastern Africa,Female
+2008,Eixample,la Sagrada Família,..,Eastern Africa,Male
+2008,Eixample,la Sagrada Família,8,Middle Africa,Female
+2008,Eixample,la Sagrada Família,11,Middle Africa,Male
+2008,Eixample,la Sagrada Família,155,Northern Africa,Female
+2008,Eixample,la Sagrada Família,239,Northern Africa,Male
+2008,Eixample,la Sagrada Família,..,Southern Africa,Male
+2008,Eixample,la Sagrada Família,16,Western Africa,Female
+2008,Eixample,la Sagrada Família,27,Western Africa,Male
+2008,Eixample,la Sagrada Família,278,Caribbean,Female
+2008,Eixample,la Sagrada Família,188,Caribbean,Male
+2008,Eixample,la Sagrada Família,235,Central America,Female
+2008,Eixample,la Sagrada Família,159,Central America,Male
+2008,Eixample,la Sagrada Família,2982,South America,Female
+2008,Eixample,la Sagrada Família,2500,South America,Male
+2008,Eixample,la Sagrada Família,48,Northern America,Female
+2008,Eixample,la Sagrada Família,42,Northern America,Male
+2008,Eixample,la Sagrada Família,..,Central Asia,Female
+2008,Eixample,la Sagrada Família,..,Central Asia,Male
+2008,Eixample,la Sagrada Família,308,Eastern Asia,Female
+2008,Eixample,la Sagrada Família,319,Eastern Asia,Male
+2008,Eixample,la Sagrada Família,30,Southern Asia,Female
+2008,Eixample,la Sagrada Família,114,Southern Asia,Male
+2008,Eixample,la Sagrada Família,54,South-Eastern Asia,Female
+2008,Eixample,la Sagrada Família,36,South-Eastern Asia,Male
+2008,Eixample,la Sagrada Família,90,Western Asia,Female
+2008,Eixample,la Sagrada Família,155,Western Asia,Male
+2008,Eixample,la Sagrada Família,310,Eastern Europe,Female
+2008,Eixample,la Sagrada Família,262,Eastern Europe,Male
+2008,Eixample,la Sagrada Família,157,Northern Europe,Female
+2008,Eixample,la Sagrada Família,154,Northern Europe,Male
+2008,Eixample,la Sagrada Família,23311,Southern Europe,Female
+2008,Eixample,la Sagrada Família,19455,Southern Europe,Male
+2008,Eixample,la Sagrada Família,464,Western Europe,Female
+2008,Eixample,la Sagrada Família,409,Western Europe,Male
+2008,Eixample,la Sagrada Família,9,Australia and New Zealand,Female
+2008,Eixample,la Sagrada Família,7,Australia and New Zealand,Male
+2008,Eixample,la Sagrada Família,12,Not available,Female
+2008,Eixample,la Sagrada Família,12,Not available,Male
+2008,Eixample,la Dreta de l'Eixample,8,Eastern Africa,Female
+2008,Eixample,la Dreta de l'Eixample,17,Eastern Africa,Male
+2008,Eixample,la Dreta de l'Eixample,13,Middle Africa,Female
+2008,Eixample,la Dreta de l'Eixample,12,Middle Africa,Male
+2008,Eixample,la Dreta de l'Eixample,130,Northern Africa,Female
+2008,Eixample,la Dreta de l'Eixample,183,Northern Africa,Male
+2008,Eixample,la Dreta de l'Eixample,..,Southern Africa,Female
+2008,Eixample,la Dreta de l'Eixample,..,Southern Africa,Male
+2008,Eixample,la Dreta de l'Eixample,19,Western Africa,Female
+2008,Eixample,la Dreta de l'Eixample,33,Western Africa,Male
+2008,Eixample,la Dreta de l'Eixample,172,Caribbean,Female
+2008,Eixample,la Dreta de l'Eixample,102,Caribbean,Male
+2008,Eixample,la Dreta de l'Eixample,240,Central America,Female
+2008,Eixample,la Dreta de l'Eixample,193,Central America,Male
+2008,Eixample,la Dreta de l'Eixample,1889,South America,Female
+2008,Eixample,la Dreta de l'Eixample,1444,South America,Male
+2008,Eixample,la Dreta de l'Eixample,116,Northern America,Female
+2008,Eixample,la Dreta de l'Eixample,129,Northern America,Male
+2008,Eixample,la Dreta de l'Eixample,..,Central Asia,Female
+2008,Eixample,la Dreta de l'Eixample,6,Central Asia,Male
+2008,Eixample,la Dreta de l'Eixample,315,Eastern Asia,Female
+2008,Eixample,la Dreta de l'Eixample,315,Eastern Asia,Male
+2008,Eixample,la Dreta de l'Eixample,30,Southern Asia,Female
+2008,Eixample,la Dreta de l'Eixample,68,Southern Asia,Male
+2008,Eixample,la Dreta de l'Eixample,66,South-Eastern Asia,Female
+2008,Eixample,la Dreta de l'Eixample,39,South-Eastern Asia,Male
+2008,Eixample,la Dreta de l'Eixample,36,Western Asia,Female
+2008,Eixample,la Dreta de l'Eixample,59,Western Asia,Male
+2008,Eixample,la Dreta de l'Eixample,215,Eastern Europe,Female
+2008,Eixample,la Dreta de l'Eixample,127,Eastern Europe,Male
+2008,Eixample,la Dreta de l'Eixample,257,Northern Europe,Female
+2008,Eixample,la Dreta de l'Eixample,277,Northern Europe,Male
+2008,Eixample,la Dreta de l'Eixample,19007,Southern Europe,Female
+2008,Eixample,la Dreta de l'Eixample,15730,Southern Europe,Male
+2008,Eixample,la Dreta de l'Eixample,748,Western Europe,Female
+2008,Eixample,la Dreta de l'Eixample,674,Western Europe,Male
+2008,Eixample,la Dreta de l'Eixample,8,Australia and New Zealand,Female
+2008,Eixample,la Dreta de l'Eixample,12,Australia and New Zealand,Male
+2008,Eixample,la Dreta de l'Eixample,..,Melanesia,Male
+2008,Eixample,la Dreta de l'Eixample,20,Not available,Female
+2008,Eixample,la Dreta de l'Eixample,16,Not available,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,5,Eastern Africa,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,7,Eastern Africa,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,9,Middle Africa,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,9,Middle Africa,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,112,Northern Africa,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,131,Northern Africa,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,..,Southern Africa,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,..,Southern Africa,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,20,Western Africa,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,25,Western Africa,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,182,Caribbean,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,135,Caribbean,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,247,Central America,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,195,Central America,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,2060,South America,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,1557,South America,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,104,Northern America,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,122,Northern America,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,..,Central Asia,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,309,Eastern Asia,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,308,Eastern Asia,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,33,Southern Asia,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,81,Southern Asia,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,198,South-Eastern Asia,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,140,South-Eastern Asia,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,55,Western Asia,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,99,Western Asia,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,291,Eastern Europe,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,187,Eastern Europe,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,219,Northern Europe,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,270,Northern Europe,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,18231,Southern Europe,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,14907,Southern Europe,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,661,Western Europe,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,599,Western Europe,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,16,Australia and New Zealand,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,20,Australia and New Zealand,Male
+2008,Eixample,l'Antiga Esquerra de l'Eixample,12,Not available,Female
+2008,Eixample,l'Antiga Esquerra de l'Eixample,16,Not available,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,6,Eastern Africa,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,10,Eastern Africa,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,14,Middle Africa,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,12,Middle Africa,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,205,Northern Africa,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,217,Northern Africa,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,..,Southern Africa,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,..,Southern Africa,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,18,Western Africa,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,34,Western Africa,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,255,Caribbean,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,178,Caribbean,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,240,Central America,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,218,Central America,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,2968,South America,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,2481,South America,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,82,Northern America,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,54,Northern America,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,..,Central Asia,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,..,Central Asia,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,379,Eastern Asia,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,374,Eastern Asia,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,61,Southern Asia,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,190,Southern Asia,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,218,South-Eastern Asia,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,125,South-Eastern Asia,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,69,Western Asia,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,141,Western Asia,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,334,Eastern Europe,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,250,Eastern Europe,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,190,Northern Europe,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,198,Northern Europe,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,25852,Southern Europe,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,21869,Southern Europe,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,545,Western Europe,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,513,Western Europe,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,12,Australia and New Zealand,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,5,Australia and New Zealand,Male
+2008,Eixample,la Nova Esquerra de l'Eixample,14,Not available,Female
+2008,Eixample,la Nova Esquerra de l'Eixample,5,Not available,Male
+2008,Eixample,Sant Antoni,5,Eastern Africa,Female
+2008,Eixample,Sant Antoni,7,Eastern Africa,Male
+2008,Eixample,Sant Antoni,7,Middle Africa,Female
+2008,Eixample,Sant Antoni,12,Middle Africa,Male
+2008,Eixample,Sant Antoni,101,Northern Africa,Female
+2008,Eixample,Sant Antoni,180,Northern Africa,Male
+2008,Eixample,Sant Antoni,..,Southern Africa,Female
+2008,Eixample,Sant Antoni,..,Southern Africa,Male
+2008,Eixample,Sant Antoni,15,Western Africa,Female
+2008,Eixample,Sant Antoni,26,Western Africa,Male
+2008,Eixample,Sant Antoni,225,Caribbean,Female
+2008,Eixample,Sant Antoni,159,Caribbean,Male
+2008,Eixample,Sant Antoni,173,Central America,Female
+2008,Eixample,Sant Antoni,131,Central America,Male
+2008,Eixample,Sant Antoni,1736,South America,Female
+2008,Eixample,Sant Antoni,1581,South America,Male
+2008,Eixample,Sant Antoni,70,Northern America,Female
+2008,Eixample,Sant Antoni,70,Northern America,Male
+2008,Eixample,Sant Antoni,..,Central Asia,Female
+2008,Eixample,Sant Antoni,..,Central Asia,Male
+2008,Eixample,Sant Antoni,206,Eastern Asia,Female
+2008,Eixample,Sant Antoni,193,Eastern Asia,Male
+2008,Eixample,Sant Antoni,95,Southern Asia,Female
+2008,Eixample,Sant Antoni,325,Southern Asia,Male
+2008,Eixample,Sant Antoni,148,South-Eastern Asia,Female
+2008,Eixample,Sant Antoni,141,South-Eastern Asia,Male
+2008,Eixample,Sant Antoni,30,Western Asia,Female
+2008,Eixample,Sant Antoni,47,Western Asia,Male
+2008,Eixample,Sant Antoni,210,Eastern Europe,Female
+2008,Eixample,Sant Antoni,155,Eastern Europe,Male
+2008,Eixample,Sant Antoni,170,Northern Europe,Female
+2008,Eixample,Sant Antoni,158,Northern Europe,Male
+2008,Eixample,Sant Antoni,16936,Southern Europe,Female
+2008,Eixample,Sant Antoni,14041,Southern Europe,Male
+2008,Eixample,Sant Antoni,437,Western Europe,Female
+2008,Eixample,Sant Antoni,418,Western Europe,Male
+2008,Eixample,Sant Antoni,6,Australia and New Zealand,Female
+2008,Eixample,Sant Antoni,8,Australia and New Zealand,Male
+2008,Eixample,Sant Antoni,9,Not available,Female
+2008,Eixample,Sant Antoni,5,Not available,Male
+2008,Sants-Montjuïc,el Poble-sec,..,Eastern Africa,Female
+2008,Sants-Montjuïc,el Poble-sec,6,Eastern Africa,Male
+2008,Sants-Montjuïc,el Poble-sec,11,Middle Africa,Female
+2008,Sants-Montjuïc,el Poble-sec,14,Middle Africa,Male
+2008,Sants-Montjuïc,el Poble-sec,460,Northern Africa,Female
+2008,Sants-Montjuïc,el Poble-sec,774,Northern Africa,Male
+2008,Sants-Montjuïc,el Poble-sec,..,Southern Africa,Male
+2008,Sants-Montjuïc,el Poble-sec,25,Western Africa,Female
+2008,Sants-Montjuïc,el Poble-sec,40,Western Africa,Male
+2008,Sants-Montjuïc,el Poble-sec,656,Caribbean,Female
+2008,Sants-Montjuïc,el Poble-sec,422,Caribbean,Male
+2008,Sants-Montjuïc,el Poble-sec,177,Central America,Female
+2008,Sants-Montjuïc,el Poble-sec,115,Central America,Male
+2008,Sants-Montjuïc,el Poble-sec,2203,South America,Female
+2008,Sants-Montjuïc,el Poble-sec,1986,South America,Male
+2008,Sants-Montjuïc,el Poble-sec,46,Northern America,Female
+2008,Sants-Montjuïc,el Poble-sec,58,Northern America,Male
+2008,Sants-Montjuïc,el Poble-sec,5,Central Asia,Female
+2008,Sants-Montjuïc,el Poble-sec,..,Central Asia,Male
+2008,Sants-Montjuïc,el Poble-sec,201,Eastern Asia,Female
+2008,Sants-Montjuïc,el Poble-sec,218,Eastern Asia,Male
+2008,Sants-Montjuïc,el Poble-sec,247,Southern Asia,Female
+2008,Sants-Montjuïc,el Poble-sec,1534,Southern Asia,Male
+2008,Sants-Montjuïc,el Poble-sec,595,South-Eastern Asia,Female
+2008,Sants-Montjuïc,el Poble-sec,524,South-Eastern Asia,Male
+2008,Sants-Montjuïc,el Poble-sec,48,Western Asia,Female
+2008,Sants-Montjuïc,el Poble-sec,70,Western Asia,Male
+2008,Sants-Montjuïc,el Poble-sec,289,Eastern Europe,Female
+2008,Sants-Montjuïc,el Poble-sec,245,Eastern Europe,Male
+2008,Sants-Montjuïc,el Poble-sec,158,Northern Europe,Female
+2008,Sants-Montjuïc,el Poble-sec,164,Northern Europe,Male
+2008,Sants-Montjuïc,el Poble-sec,14949,Southern Europe,Female
+2008,Sants-Montjuïc,el Poble-sec,13257,Southern Europe,Male
+2008,Sants-Montjuïc,el Poble-sec,415,Western Europe,Female
+2008,Sants-Montjuïc,el Poble-sec,397,Western Europe,Male
+2008,Sants-Montjuïc,el Poble-sec,9,Australia and New Zealand,Female
+2008,Sants-Montjuïc,el Poble-sec,6,Australia and New Zealand,Male
+2008,Sants-Montjuïc,el Poble-sec,..,Not available,Female
+2008,Sants-Montjuïc,el Poble-sec,..,Not available,Male
+2008,Sants-Montjuïc,la Marina del Prat Vermell,11,Northern Africa,Female
+2008,Sants-Montjuïc,la Marina del Prat Vermell,16,Northern Africa,Male
+2008,Sants-Montjuïc,la Marina del Prat Vermell,..,Western Africa,Female
+2008,Sants-Montjuïc,la Marina del Prat Vermell,..,Caribbean,Female
+2008,Sants-Montjuïc,la Marina del Prat Vermell,..,Caribbean,Male
+2008,Sants-Montjuïc,la Marina del Prat Vermell,..,Central America,Female
+2008,Sants-Montjuïc,la Marina del Prat Vermell,..,Central America,Male
+2008,Sants-Montjuïc,la Marina del Prat Vermell,22,South America,Female
+2008,Sants-Montjuïc,la Marina del Prat Vermell,21,South America,Male
+2008,Sants-Montjuïc,la Marina del Prat Vermell,..,Eastern Asia,Female
+2008,Sants-Montjuïc,la Marina del Prat Vermell,..,Eastern Asia,Male
+2008,Sants-Montjuïc,la Marina del Prat Vermell,..,Eastern Europe,Female
+2008,Sants-Montjuïc,la Marina del Prat Vermell,..,Eastern Europe,Male
+2008,Sants-Montjuïc,la Marina del Prat Vermell,..,Northern Europe,Male
+2008,Sants-Montjuïc,la Marina del Prat Vermell,560,Southern Europe,Female
+2008,Sants-Montjuïc,la Marina del Prat Vermell,529,Southern Europe,Male
+2008,Sants-Montjuïc,la Marina del Prat Vermell,7,Western Europe,Female
+2008,Sants-Montjuïc,la Marina del Prat Vermell,7,Western Europe,Male
+2008,Sants-Montjuïc,la Marina de Port,..,Eastern Africa,Female
+2008,Sants-Montjuïc,la Marina de Port,13,Middle Africa,Female
+2008,Sants-Montjuïc,la Marina de Port,..,Middle Africa,Male
+2008,Sants-Montjuïc,la Marina de Port,154,Northern Africa,Female
+2008,Sants-Montjuïc,la Marina de Port,196,Northern Africa,Male
+2008,Sants-Montjuïc,la Marina de Port,..,Southern Africa,Female
+2008,Sants-Montjuïc,la Marina de Port,..,Southern Africa,Male
+2008,Sants-Montjuïc,la Marina de Port,15,Western Africa,Female
+2008,Sants-Montjuïc,la Marina de Port,31,Western Africa,Male
+2008,Sants-Montjuïc,la Marina de Port,133,Caribbean,Female
+2008,Sants-Montjuïc,la Marina de Port,113,Caribbean,Male
+2008,Sants-Montjuïc,la Marina de Port,107,Central America,Female
+2008,Sants-Montjuïc,la Marina de Port,66,Central America,Male
+2008,Sants-Montjuïc,la Marina de Port,1292,South America,Female
+2008,Sants-Montjuïc,la Marina de Port,1107,South America,Male
+2008,Sants-Montjuïc,la Marina de Port,8,Northern America,Female
+2008,Sants-Montjuïc,la Marina de Port,..,Northern America,Male
+2008,Sants-Montjuïc,la Marina de Port,..,Central Asia,Female
+2008,Sants-Montjuïc,la Marina de Port,..,Central Asia,Male
+2008,Sants-Montjuïc,la Marina de Port,133,Eastern Asia,Female
+2008,Sants-Montjuïc,la Marina de Port,132,Eastern Asia,Male
+2008,Sants-Montjuïc,la Marina de Port,55,Southern Asia,Female
+2008,Sants-Montjuïc,la Marina de Port,243,Southern Asia,Male
+2008,Sants-Montjuïc,la Marina de Port,225,South-Eastern Asia,Female
+2008,Sants-Montjuïc,la Marina de Port,178,South-Eastern Asia,Male
+2008,Sants-Montjuïc,la Marina de Port,9,Western Asia,Female
+2008,Sants-Montjuïc,la Marina de Port,9,Western Asia,Male
+2008,Sants-Montjuïc,la Marina de Port,195,Eastern Europe,Female
+2008,Sants-Montjuïc,la Marina de Port,169,Eastern Europe,Male
+2008,Sants-Montjuïc,la Marina de Port,15,Northern Europe,Female
+2008,Sants-Montjuïc,la Marina de Port,23,Northern Europe,Male
+2008,Sants-Montjuïc,la Marina de Port,12780,Southern Europe,Female
+2008,Sants-Montjuïc,la Marina de Port,12078,Southern Europe,Male
+2008,Sants-Montjuïc,la Marina de Port,105,Western Europe,Female
+2008,Sants-Montjuïc,la Marina de Port,99,Western Europe,Male
+2008,Sants-Montjuïc,la Marina de Port,..,Australia and New Zealand,Female
+2008,Sants-Montjuïc,la Marina de Port,..,Australia and New Zealand,Male
+2008,Sants-Montjuïc,la Marina de Port,..,Not available,Female
+2008,Sants-Montjuïc,la Marina de Port,..,Not available,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,..,Eastern Africa,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,..,Middle Africa,Female
+2008,Sants-Montjuïc,la Font de la Guatlla,..,Middle Africa,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,38,Northern Africa,Female
+2008,Sants-Montjuïc,la Font de la Guatlla,42,Northern Africa,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,..,Southern Africa,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,..,Western Africa,Female
+2008,Sants-Montjuïc,la Font de la Guatlla,23,Western Africa,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,47,Caribbean,Female
+2008,Sants-Montjuïc,la Font de la Guatlla,39,Caribbean,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,47,Central America,Female
+2008,Sants-Montjuïc,la Font de la Guatlla,36,Central America,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,539,South America,Female
+2008,Sants-Montjuïc,la Font de la Guatlla,434,South America,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,8,Northern America,Female
+2008,Sants-Montjuïc,la Font de la Guatlla,..,Northern America,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,..,Central Asia,Female
+2008,Sants-Montjuïc,la Font de la Guatlla,42,Eastern Asia,Female
+2008,Sants-Montjuïc,la Font de la Guatlla,42,Eastern Asia,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,17,Southern Asia,Female
+2008,Sants-Montjuïc,la Font de la Guatlla,76,Southern Asia,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,6,South-Eastern Asia,Female
+2008,Sants-Montjuïc,la Font de la Guatlla,5,South-Eastern Asia,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,35,Western Asia,Female
+2008,Sants-Montjuïc,la Font de la Guatlla,36,Western Asia,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,127,Eastern Europe,Female
+2008,Sants-Montjuïc,la Font de la Guatlla,59,Eastern Europe,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,16,Northern Europe,Female
+2008,Sants-Montjuïc,la Font de la Guatlla,33,Northern Europe,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,4337,Southern Europe,Female
+2008,Sants-Montjuïc,la Font de la Guatlla,3794,Southern Europe,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,89,Western Europe,Female
+2008,Sants-Montjuïc,la Font de la Guatlla,86,Western Europe,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,..,Australia and New Zealand,Male
+2008,Sants-Montjuïc,la Font de la Guatlla,..,Not available,Female
+2008,Sants-Montjuïc,Hostafrancs,..,Eastern Africa,Male
+2008,Sants-Montjuïc,Hostafrancs,7,Middle Africa,Female
+2008,Sants-Montjuïc,Hostafrancs,..,Middle Africa,Male
+2008,Sants-Montjuïc,Hostafrancs,94,Northern Africa,Female
+2008,Sants-Montjuïc,Hostafrancs,139,Northern Africa,Male
+2008,Sants-Montjuïc,Hostafrancs,..,Southern Africa,Male
+2008,Sants-Montjuïc,Hostafrancs,6,Western Africa,Female
+2008,Sants-Montjuïc,Hostafrancs,22,Western Africa,Male
+2008,Sants-Montjuïc,Hostafrancs,100,Caribbean,Female
+2008,Sants-Montjuïc,Hostafrancs,69,Caribbean,Male
+2008,Sants-Montjuïc,Hostafrancs,50,Central America,Female
+2008,Sants-Montjuïc,Hostafrancs,46,Central America,Male
+2008,Sants-Montjuïc,Hostafrancs,834,South America,Female
+2008,Sants-Montjuïc,Hostafrancs,760,South America,Male
+2008,Sants-Montjuïc,Hostafrancs,16,Northern America,Female
+2008,Sants-Montjuïc,Hostafrancs,13,Northern America,Male
+2008,Sants-Montjuïc,Hostafrancs,..,Central Asia,Female
+2008,Sants-Montjuïc,Hostafrancs,..,Central Asia,Male
+2008,Sants-Montjuïc,Hostafrancs,107,Eastern Asia,Female
+2008,Sants-Montjuïc,Hostafrancs,128,Eastern Asia,Male
+2008,Sants-Montjuïc,Hostafrancs,53,Southern Asia,Female
+2008,Sants-Montjuïc,Hostafrancs,268,Southern Asia,Male
+2008,Sants-Montjuïc,Hostafrancs,34,South-Eastern Asia,Female
+2008,Sants-Montjuïc,Hostafrancs,21,South-Eastern Asia,Male
+2008,Sants-Montjuïc,Hostafrancs,19,Western Asia,Female
+2008,Sants-Montjuïc,Hostafrancs,43,Western Asia,Male
+2008,Sants-Montjuïc,Hostafrancs,146,Eastern Europe,Female
+2008,Sants-Montjuïc,Hostafrancs,145,Eastern Europe,Male
+2008,Sants-Montjuïc,Hostafrancs,38,Northern Europe,Female
+2008,Sants-Montjuïc,Hostafrancs,48,Northern Europe,Male
+2008,Sants-Montjuïc,Hostafrancs,6537,Southern Europe,Female
+2008,Sants-Montjuïc,Hostafrancs,5908,Southern Europe,Male
+2008,Sants-Montjuïc,Hostafrancs,148,Western Europe,Female
+2008,Sants-Montjuïc,Hostafrancs,123,Western Europe,Male
+2008,Sants-Montjuïc,Hostafrancs,..,Australia and New Zealand,Female
+2008,Sants-Montjuïc,Hostafrancs,..,Australia and New Zealand,Male
+2008,Sants-Montjuïc,Hostafrancs,..,Not available,Female
+2008,Sants-Montjuïc,Hostafrancs,..,Not available,Male
+2008,Sants-Montjuïc,la Bordeta,..,Eastern Africa,Female
+2008,Sants-Montjuïc,la Bordeta,6,Eastern Africa,Male
+2008,Sants-Montjuïc,la Bordeta,15,Middle Africa,Female
+2008,Sants-Montjuïc,la Bordeta,16,Middle Africa,Male
+2008,Sants-Montjuïc,la Bordeta,77,Northern Africa,Female
+2008,Sants-Montjuïc,la Bordeta,120,Northern Africa,Male
+2008,Sants-Montjuïc,la Bordeta,7,Western Africa,Female
+2008,Sants-Montjuïc,la Bordeta,18,Western Africa,Male
+2008,Sants-Montjuïc,la Bordeta,132,Caribbean,Female
+2008,Sants-Montjuïc,la Bordeta,67,Caribbean,Male
+2008,Sants-Montjuïc,la Bordeta,51,Central America,Female
+2008,Sants-Montjuïc,la Bordeta,50,Central America,Male
+2008,Sants-Montjuïc,la Bordeta,786,South America,Female
+2008,Sants-Montjuïc,la Bordeta,687,South America,Male
+2008,Sants-Montjuïc,la Bordeta,8,Northern America,Female
+2008,Sants-Montjuïc,la Bordeta,14,Northern America,Male
+2008,Sants-Montjuïc,la Bordeta,..,Central Asia,Female
+2008,Sants-Montjuïc,la Bordeta,..,Central Asia,Male
+2008,Sants-Montjuïc,la Bordeta,67,Eastern Asia,Female
+2008,Sants-Montjuïc,la Bordeta,86,Eastern Asia,Male
+2008,Sants-Montjuïc,la Bordeta,35,Southern Asia,Female
+2008,Sants-Montjuïc,la Bordeta,105,Southern Asia,Male
+2008,Sants-Montjuïc,la Bordeta,11,South-Eastern Asia,Female
+2008,Sants-Montjuïc,la Bordeta,10,South-Eastern Asia,Male
+2008,Sants-Montjuïc,la Bordeta,16,Western Asia,Female
+2008,Sants-Montjuïc,la Bordeta,33,Western Asia,Male
+2008,Sants-Montjuïc,la Bordeta,100,Eastern Europe,Female
+2008,Sants-Montjuïc,la Bordeta,110,Eastern Europe,Male
+2008,Sants-Montjuïc,la Bordeta,22,Northern Europe,Female
+2008,Sants-Montjuïc,la Bordeta,31,Northern Europe,Male
+2008,Sants-Montjuïc,la Bordeta,8336,Southern Europe,Female
+2008,Sants-Montjuïc,la Bordeta,7514,Southern Europe,Male
+2008,Sants-Montjuïc,la Bordeta,96,Western Europe,Female
+2008,Sants-Montjuïc,la Bordeta,89,Western Europe,Male
+2008,Sants-Montjuïc,la Bordeta,..,Australia and New Zealand,Female
+2008,Sants-Montjuïc,la Bordeta,..,Not available,Female
+2008,Sants-Montjuïc,Sants - Badal,..,Eastern Africa,Female
+2008,Sants-Montjuïc,Sants - Badal,5,Eastern Africa,Male
+2008,Sants-Montjuïc,Sants - Badal,12,Middle Africa,Female
+2008,Sants-Montjuïc,Sants - Badal,13,Middle Africa,Male
+2008,Sants-Montjuïc,Sants - Badal,98,Northern Africa,Female
+2008,Sants-Montjuïc,Sants - Badal,152,Northern Africa,Male
+2008,Sants-Montjuïc,Sants - Badal,19,Western Africa,Female
+2008,Sants-Montjuïc,Sants - Badal,19,Western Africa,Male
+2008,Sants-Montjuïc,Sants - Badal,212,Caribbean,Female
+2008,Sants-Montjuïc,Sants - Badal,99,Caribbean,Male
+2008,Sants-Montjuïc,Sants - Badal,71,Central America,Female
+2008,Sants-Montjuïc,Sants - Badal,43,Central America,Male
+2008,Sants-Montjuïc,Sants - Badal,1313,South America,Female
+2008,Sants-Montjuïc,Sants - Badal,1054,South America,Male
+2008,Sants-Montjuïc,Sants - Badal,10,Northern America,Female
+2008,Sants-Montjuïc,Sants - Badal,14,Northern America,Male
+2008,Sants-Montjuïc,Sants - Badal,..,Central Asia,Female
+2008,Sants-Montjuïc,Sants - Badal,104,Eastern Asia,Female
+2008,Sants-Montjuïc,Sants - Badal,124,Eastern Asia,Male
+2008,Sants-Montjuïc,Sants - Badal,33,Southern Asia,Female
+2008,Sants-Montjuïc,Sants - Badal,166,Southern Asia,Male
+2008,Sants-Montjuïc,Sants - Badal,45,South-Eastern Asia,Female
+2008,Sants-Montjuïc,Sants - Badal,28,South-Eastern Asia,Male
+2008,Sants-Montjuïc,Sants - Badal,28,Western Asia,Female
+2008,Sants-Montjuïc,Sants - Badal,45,Western Asia,Male
+2008,Sants-Montjuïc,Sants - Badal,184,Eastern Europe,Female
+2008,Sants-Montjuïc,Sants - Badal,170,Eastern Europe,Male
+2008,Sants-Montjuïc,Sants - Badal,33,Northern Europe,Female
+2008,Sants-Montjuïc,Sants - Badal,32,Northern Europe,Male
+2008,Sants-Montjuïc,Sants - Badal,10619,Southern Europe,Female
+2008,Sants-Montjuïc,Sants - Badal,9249,Southern Europe,Male
+2008,Sants-Montjuïc,Sants - Badal,125,Western Europe,Female
+2008,Sants-Montjuïc,Sants - Badal,134,Western Europe,Male
+2008,Sants-Montjuïc,Sants - Badal,..,Not available,Female
+2008,Sants-Montjuïc,Sants - Badal,8,Not available,Male
+2008,Sants-Montjuïc,Sants,5,Eastern Africa,Female
+2008,Sants-Montjuïc,Sants,6,Eastern Africa,Male
+2008,Sants-Montjuïc,Sants,11,Middle Africa,Female
+2008,Sants-Montjuïc,Sants,14,Middle Africa,Male
+2008,Sants-Montjuïc,Sants,207,Northern Africa,Female
+2008,Sants-Montjuïc,Sants,300,Northern Africa,Male
+2008,Sants-Montjuïc,Sants,..,Southern Africa,Male
+2008,Sants-Montjuïc,Sants,10,Western Africa,Female
+2008,Sants-Montjuïc,Sants,65,Western Africa,Male
+2008,Sants-Montjuïc,Sants,262,Caribbean,Female
+2008,Sants-Montjuïc,Sants,171,Caribbean,Male
+2008,Sants-Montjuïc,Sants,139,Central America,Female
+2008,Sants-Montjuïc,Sants,137,Central America,Male
+2008,Sants-Montjuïc,Sants,2122,South America,Female
+2008,Sants-Montjuïc,Sants,1947,South America,Male
+2008,Sants-Montjuïc,Sants,38,Northern America,Female
+2008,Sants-Montjuïc,Sants,30,Northern America,Male
+2008,Sants-Montjuïc,Sants,7,Central Asia,Female
+2008,Sants-Montjuïc,Sants,9,Central Asia,Male
+2008,Sants-Montjuïc,Sants,211,Eastern Asia,Female
+2008,Sants-Montjuïc,Sants,239,Eastern Asia,Male
+2008,Sants-Montjuïc,Sants,80,Southern Asia,Female
+2008,Sants-Montjuïc,Sants,530,Southern Asia,Male
+2008,Sants-Montjuïc,Sants,52,South-Eastern Asia,Female
+2008,Sants-Montjuïc,Sants,37,South-Eastern Asia,Male
+2008,Sants-Montjuïc,Sants,34,Western Asia,Female
+2008,Sants-Montjuïc,Sants,71,Western Asia,Male
+2008,Sants-Montjuïc,Sants,293,Eastern Europe,Female
+2008,Sants-Montjuïc,Sants,272,Eastern Europe,Male
+2008,Sants-Montjuïc,Sants,89,Northern Europe,Female
+2008,Sants-Montjuïc,Sants,92,Northern Europe,Male
+2008,Sants-Montjuïc,Sants,17637,Southern Europe,Female
+2008,Sants-Montjuïc,Sants,15280,Southern Europe,Male
+2008,Sants-Montjuïc,Sants,331,Western Europe,Female
+2008,Sants-Montjuïc,Sants,274,Western Europe,Male
+2008,Sants-Montjuïc,Sants,6,Australia and New Zealand,Female
+2008,Sants-Montjuïc,Sants,..,Australia and New Zealand,Male
+2008,Sants-Montjuïc,Sants,7,Not available,Female
+2008,Sants-Montjuïc,Sants,8,Not available,Male
+2008,Les Corts,les Corts,7,Eastern Africa,Female
+2008,Les Corts,les Corts,..,Eastern Africa,Male
+2008,Les Corts,les Corts,11,Middle Africa,Female
+2008,Les Corts,les Corts,11,Middle Africa,Male
+2008,Les Corts,les Corts,128,Northern Africa,Female
+2008,Les Corts,les Corts,135,Northern Africa,Male
+2008,Les Corts,les Corts,..,Southern Africa,Female
+2008,Les Corts,les Corts,..,Southern Africa,Male
+2008,Les Corts,les Corts,30,Western Africa,Female
+2008,Les Corts,les Corts,32,Western Africa,Male
+2008,Les Corts,les Corts,165,Caribbean,Female
+2008,Les Corts,les Corts,118,Caribbean,Male
+2008,Les Corts,les Corts,234,Central America,Female
+2008,Les Corts,les Corts,187,Central America,Male
+2008,Les Corts,les Corts,1589,South America,Female
+2008,Les Corts,les Corts,1231,South America,Male
+2008,Les Corts,les Corts,72,Northern America,Female
+2008,Les Corts,les Corts,58,Northern America,Male
+2008,Les Corts,les Corts,..,Central Asia,Female
+2008,Les Corts,les Corts,7,Central Asia,Male
+2008,Les Corts,les Corts,204,Eastern Asia,Female
+2008,Les Corts,les Corts,209,Eastern Asia,Male
+2008,Les Corts,les Corts,31,Southern Asia,Female
+2008,Les Corts,les Corts,245,Southern Asia,Male
+2008,Les Corts,les Corts,29,South-Eastern Asia,Female
+2008,Les Corts,les Corts,11,South-Eastern Asia,Male
+2008,Les Corts,les Corts,49,Western Asia,Female
+2008,Les Corts,les Corts,65,Western Asia,Male
+2008,Les Corts,les Corts,278,Eastern Europe,Female
+2008,Les Corts,les Corts,226,Eastern Europe,Male
+2008,Les Corts,les Corts,89,Northern Europe,Female
+2008,Les Corts,les Corts,113,Northern Europe,Male
+2008,Les Corts,les Corts,21693,Southern Europe,Female
+2008,Les Corts,les Corts,18984,Southern Europe,Male
+2008,Les Corts,les Corts,361,Western Europe,Female
+2008,Les Corts,les Corts,292,Western Europe,Male
+2008,Les Corts,les Corts,5,Australia and New Zealand,Female
+2008,Les Corts,les Corts,7,Australia and New Zealand,Male
+2008,Les Corts,les Corts,5,Not available,Female
+2008,Les Corts,les Corts,6,Not available,Male
+2008,Les Corts,la Maternitat i Sant Ramon,..,Eastern Africa,Female
+2008,Les Corts,la Maternitat i Sant Ramon,..,Eastern Africa,Male
+2008,Les Corts,la Maternitat i Sant Ramon,..,Middle Africa,Female
+2008,Les Corts,la Maternitat i Sant Ramon,12,Middle Africa,Male
+2008,Les Corts,la Maternitat i Sant Ramon,65,Northern Africa,Female
+2008,Les Corts,la Maternitat i Sant Ramon,79,Northern Africa,Male
+2008,Les Corts,la Maternitat i Sant Ramon,..,Southern Africa,Female
+2008,Les Corts,la Maternitat i Sant Ramon,5,Western Africa,Female
+2008,Les Corts,la Maternitat i Sant Ramon,10,Western Africa,Male
+2008,Les Corts,la Maternitat i Sant Ramon,104,Caribbean,Female
+2008,Les Corts,la Maternitat i Sant Ramon,55,Caribbean,Male
+2008,Les Corts,la Maternitat i Sant Ramon,100,Central America,Female
+2008,Les Corts,la Maternitat i Sant Ramon,87,Central America,Male
+2008,Les Corts,la Maternitat i Sant Ramon,893,South America,Female
+2008,Les Corts,la Maternitat i Sant Ramon,677,South America,Male
+2008,Les Corts,la Maternitat i Sant Ramon,27,Northern America,Female
+2008,Les Corts,la Maternitat i Sant Ramon,23,Northern America,Male
+2008,Les Corts,la Maternitat i Sant Ramon,..,Central Asia,Female
+2008,Les Corts,la Maternitat i Sant Ramon,75,Eastern Asia,Female
+2008,Les Corts,la Maternitat i Sant Ramon,67,Eastern Asia,Male
+2008,Les Corts,la Maternitat i Sant Ramon,13,Southern Asia,Female
+2008,Les Corts,la Maternitat i Sant Ramon,32,Southern Asia,Male
+2008,Les Corts,la Maternitat i Sant Ramon,10,South-Eastern Asia,Female
+2008,Les Corts,la Maternitat i Sant Ramon,9,South-Eastern Asia,Male
+2008,Les Corts,la Maternitat i Sant Ramon,15,Western Asia,Female
+2008,Les Corts,la Maternitat i Sant Ramon,27,Western Asia,Male
+2008,Les Corts,la Maternitat i Sant Ramon,154,Eastern Europe,Female
+2008,Les Corts,la Maternitat i Sant Ramon,88,Eastern Europe,Male
+2008,Les Corts,la Maternitat i Sant Ramon,31,Northern Europe,Female
+2008,Les Corts,la Maternitat i Sant Ramon,59,Northern Europe,Male
+2008,Les Corts,la Maternitat i Sant Ramon,11000,Southern Europe,Female
+2008,Les Corts,la Maternitat i Sant Ramon,9736,Southern Europe,Male
+2008,Les Corts,la Maternitat i Sant Ramon,199,Western Europe,Female
+2008,Les Corts,la Maternitat i Sant Ramon,121,Western Europe,Male
+2008,Les Corts,la Maternitat i Sant Ramon,..,Not available,Male
+2008,Les Corts,Pedralbes,..,Eastern Africa,Female
+2008,Les Corts,Pedralbes,..,Eastern Africa,Male
+2008,Les Corts,Pedralbes,..,Middle Africa,Female
+2008,Les Corts,Pedralbes,..,Middle Africa,Male
+2008,Les Corts,Pedralbes,42,Northern Africa,Female
+2008,Les Corts,Pedralbes,42,Northern Africa,Male
+2008,Les Corts,Pedralbes,..,Southern Africa,Female
+2008,Les Corts,Pedralbes,5,Western Africa,Female
+2008,Les Corts,Pedralbes,..,Western Africa,Male
+2008,Les Corts,Pedralbes,37,Caribbean,Female
+2008,Les Corts,Pedralbes,17,Caribbean,Male
+2008,Les Corts,Pedralbes,62,Central America,Female
+2008,Les Corts,Pedralbes,45,Central America,Male
+2008,Les Corts,Pedralbes,373,South America,Female
+2008,Les Corts,Pedralbes,208,South America,Male
+2008,Les Corts,Pedralbes,40,Northern America,Female
+2008,Les Corts,Pedralbes,31,Northern America,Male
+2008,Les Corts,Pedralbes,..,Central Asia,Male
+2008,Les Corts,Pedralbes,80,Eastern Asia,Female
+2008,Les Corts,Pedralbes,91,Eastern Asia,Male
+2008,Les Corts,Pedralbes,18,Southern Asia,Female
+2008,Les Corts,Pedralbes,22,Southern Asia,Male
+2008,Les Corts,Pedralbes,48,South-Eastern Asia,Female
+2008,Les Corts,Pedralbes,21,South-Eastern Asia,Male
+2008,Les Corts,Pedralbes,22,Western Asia,Female
+2008,Les Corts,Pedralbes,31,Western Asia,Male
+2008,Les Corts,Pedralbes,74,Eastern Europe,Female
+2008,Les Corts,Pedralbes,48,Eastern Europe,Male
+2008,Les Corts,Pedralbes,34,Northern Europe,Female
+2008,Les Corts,Pedralbes,37,Northern Europe,Male
+2008,Les Corts,Pedralbes,4972,Southern Europe,Female
+2008,Les Corts,Pedralbes,4486,Southern Europe,Male
+2008,Les Corts,Pedralbes,328,Western Europe,Female
+2008,Les Corts,Pedralbes,294,Western Europe,Male
+2008,Les Corts,Pedralbes,..,Not available,Female
+2008,Les Corts,Pedralbes,..,Not available,Male
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Eastern Africa,Female
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Eastern Africa,Male
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Middle Africa,Male
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",7,Northern Africa,Female
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",7,Northern Africa,Male
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Southern Africa,Female
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Southern Africa,Male
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",6,Caribbean,Female
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Caribbean,Male
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",15,Central America,Female
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",9,Central America,Male
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",101,South America,Female
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",72,South America,Male
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,Northern America,Female
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",18,Northern America,Male
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",6,Eastern Asia,Female
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Eastern Asia,Male
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Southern Asia,Male
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",6,South-Eastern Asia,Female
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,South-Eastern Asia,Male
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Western Asia,Female
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Western Asia,Male
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",25,Eastern Europe,Female
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",13,Eastern Europe,Male
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",36,Northern Europe,Female
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",40,Northern Europe,Male
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",1804,Southern Europe,Female
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",1701,Southern Europe,Male
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",92,Western Europe,Female
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",76,Western Europe,Male
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Australia and New Zealand,Male
+2008,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Not available,Female
+2008,Sarrià-Sant Gervasi,Sarrià,18,Eastern Africa,Female
+2008,Sarrià-Sant Gervasi,Sarrià,8,Eastern Africa,Male
+2008,Sarrià-Sant Gervasi,Sarrià,5,Middle Africa,Female
+2008,Sarrià-Sant Gervasi,Sarrià,7,Middle Africa,Male
+2008,Sarrià-Sant Gervasi,Sarrià,49,Northern Africa,Female
+2008,Sarrià-Sant Gervasi,Sarrià,36,Northern Africa,Male
+2008,Sarrià-Sant Gervasi,Sarrià,6,Southern Africa,Female
+2008,Sarrià-Sant Gervasi,Sarrià,5,Southern Africa,Male
+2008,Sarrià-Sant Gervasi,Sarrià,8,Western Africa,Female
+2008,Sarrià-Sant Gervasi,Sarrià,6,Western Africa,Male
+2008,Sarrià-Sant Gervasi,Sarrià,39,Caribbean,Female
+2008,Sarrià-Sant Gervasi,Sarrià,21,Caribbean,Male
+2008,Sarrià-Sant Gervasi,Sarrià,126,Central America,Female
+2008,Sarrià-Sant Gervasi,Sarrià,70,Central America,Male
+2008,Sarrià-Sant Gervasi,Sarrià,604,South America,Female
+2008,Sarrià-Sant Gervasi,Sarrià,340,South America,Male
+2008,Sarrià-Sant Gervasi,Sarrià,105,Northern America,Female
+2008,Sarrià-Sant Gervasi,Sarrià,97,Northern America,Male
+2008,Sarrià-Sant Gervasi,Sarrià,..,Central Asia,Female
+2008,Sarrià-Sant Gervasi,Sarrià,147,Eastern Asia,Female
+2008,Sarrià-Sant Gervasi,Sarrià,168,Eastern Asia,Male
+2008,Sarrià-Sant Gervasi,Sarrià,17,Southern Asia,Female
+2008,Sarrià-Sant Gervasi,Sarrià,22,Southern Asia,Male
+2008,Sarrià-Sant Gervasi,Sarrià,28,South-Eastern Asia,Female
+2008,Sarrià-Sant Gervasi,Sarrià,8,South-Eastern Asia,Male
+2008,Sarrià-Sant Gervasi,Sarrià,22,Western Asia,Female
+2008,Sarrià-Sant Gervasi,Sarrià,30,Western Asia,Male
+2008,Sarrià-Sant Gervasi,Sarrià,86,Eastern Europe,Female
+2008,Sarrià-Sant Gervasi,Sarrià,67,Eastern Europe,Male
+2008,Sarrià-Sant Gervasi,Sarrià,68,Northern Europe,Female
+2008,Sarrià-Sant Gervasi,Sarrià,85,Northern Europe,Male
+2008,Sarrià-Sant Gervasi,Sarrià,10807,Southern Europe,Female
+2008,Sarrià-Sant Gervasi,Sarrià,9385,Southern Europe,Male
+2008,Sarrià-Sant Gervasi,Sarrià,441,Western Europe,Female
+2008,Sarrià-Sant Gervasi,Sarrià,426,Western Europe,Male
+2008,Sarrià-Sant Gervasi,Sarrià,..,Australia and New Zealand,Female
+2008,Sarrià-Sant Gervasi,Sarrià,..,Australia and New Zealand,Male
+2008,Sarrià-Sant Gervasi,Sarrià,5,Not available,Female
+2008,Sarrià-Sant Gervasi,Sarrià,..,Not available,Male
+2008,Sarrià-Sant Gervasi,les Tres Torres,..,Eastern Africa,Male
+2008,Sarrià-Sant Gervasi,les Tres Torres,9,Middle Africa,Female
+2008,Sarrià-Sant Gervasi,les Tres Torres,5,Middle Africa,Male
+2008,Sarrià-Sant Gervasi,les Tres Torres,23,Northern Africa,Female
+2008,Sarrià-Sant Gervasi,les Tres Torres,19,Northern Africa,Male
+2008,Sarrià-Sant Gervasi,les Tres Torres,..,Southern Africa,Male
+2008,Sarrià-Sant Gervasi,les Tres Torres,..,Western Africa,Female
+2008,Sarrià-Sant Gervasi,les Tres Torres,..,Western Africa,Male
+2008,Sarrià-Sant Gervasi,les Tres Torres,35,Caribbean,Female
+2008,Sarrià-Sant Gervasi,les Tres Torres,9,Caribbean,Male
+2008,Sarrià-Sant Gervasi,les Tres Torres,81,Central America,Female
+2008,Sarrià-Sant Gervasi,les Tres Torres,44,Central America,Male
+2008,Sarrià-Sant Gervasi,les Tres Torres,407,South America,Female
+2008,Sarrià-Sant Gervasi,les Tres Torres,216,South America,Male
+2008,Sarrià-Sant Gervasi,les Tres Torres,44,Northern America,Female
+2008,Sarrià-Sant Gervasi,les Tres Torres,38,Northern America,Male
+2008,Sarrià-Sant Gervasi,les Tres Torres,47,Eastern Asia,Female
+2008,Sarrià-Sant Gervasi,les Tres Torres,55,Eastern Asia,Male
+2008,Sarrià-Sant Gervasi,les Tres Torres,6,Southern Asia,Female
+2008,Sarrià-Sant Gervasi,les Tres Torres,9,Southern Asia,Male
+2008,Sarrià-Sant Gervasi,les Tres Torres,43,South-Eastern Asia,Female
+2008,Sarrià-Sant Gervasi,les Tres Torres,11,South-Eastern Asia,Male
+2008,Sarrià-Sant Gervasi,les Tres Torres,20,Western Asia,Female
+2008,Sarrià-Sant Gervasi,les Tres Torres,16,Western Asia,Male
+2008,Sarrià-Sant Gervasi,les Tres Torres,61,Eastern Europe,Female
+2008,Sarrià-Sant Gervasi,les Tres Torres,28,Eastern Europe,Male
+2008,Sarrià-Sant Gervasi,les Tres Torres,44,Northern Europe,Female
+2008,Sarrià-Sant Gervasi,les Tres Torres,53,Northern Europe,Male
+2008,Sarrià-Sant Gervasi,les Tres Torres,7168,Southern Europe,Female
+2008,Sarrià-Sant Gervasi,les Tres Torres,6416,Southern Europe,Male
+2008,Sarrià-Sant Gervasi,les Tres Torres,245,Western Europe,Female
+2008,Sarrià-Sant Gervasi,les Tres Torres,186,Western Europe,Male
+2008,Sarrià-Sant Gervasi,les Tres Torres,..,Australia and New Zealand,Female
+2008,Sarrià-Sant Gervasi,les Tres Torres,..,Not available,Female
+2008,Sarrià-Sant Gervasi,les Tres Torres,..,Not available,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,..,Eastern Africa,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,..,Eastern Africa,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,6,Middle Africa,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,9,Middle Africa,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,51,Northern Africa,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,59,Northern Africa,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,14,Western Africa,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,23,Western Africa,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,55,Caribbean,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,19,Caribbean,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,127,Central America,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,84,Central America,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,874,South America,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,571,South America,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,52,Northern America,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,45,Northern America,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,..,Central Asia,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,..,Central Asia,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,68,Eastern Asia,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,52,Eastern Asia,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,16,Southern Asia,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,213,Southern Asia,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,50,South-Eastern Asia,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,17,South-Eastern Asia,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,26,Western Asia,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,40,Western Asia,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,123,Eastern Europe,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,90,Eastern Europe,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,75,Northern Europe,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,74,Northern Europe,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,11346,Southern Europe,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,9675,Southern Europe,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,289,Western Europe,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,236,Western Europe,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,..,Australia and New Zealand,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,..,Australia and New Zealand,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,5,Not available,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,..,Not available,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,10,Eastern Africa,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,10,Eastern Africa,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,11,Middle Africa,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,11,Middle Africa,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,123,Northern Africa,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,97,Northern Africa,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,..,Southern Africa,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,..,Southern Africa,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,16,Western Africa,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,10,Western Africa,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,164,Caribbean,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,84,Caribbean,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,258,Central America,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,151,Central America,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,1522,South America,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,932,South America,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,124,Northern America,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,126,Northern America,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,..,Central Asia,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,162,Eastern Asia,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,156,Eastern Asia,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,36,Southern Asia,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,52,Southern Asia,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,150,South-Eastern Asia,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,71,South-Eastern Asia,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,61,Western Asia,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,70,Western Asia,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,224,Eastern Europe,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,120,Eastern Europe,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,171,Northern Europe,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,172,Northern Europe,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,21859,Southern Europe,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,18267,Southern Europe,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,681,Western Europe,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,551,Western Europe,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,6,Australia and New Zealand,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,10,Australia and New Zealand,Male
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,12,Not available,Female
+2008,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,10,Not available,Male
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,5,Eastern Africa,Female
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,..,Eastern Africa,Male
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,8,Middle Africa,Male
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,91,Northern Africa,Female
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,99,Northern Africa,Male
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,12,Western Africa,Female
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,16,Western Africa,Male
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,69,Caribbean,Female
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,36,Caribbean,Male
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,144,Central America,Female
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,116,Central America,Male
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,1209,South America,Female
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,907,South America,Male
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,79,Northern America,Female
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,79,Northern America,Male
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,95,Eastern Asia,Female
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,80,Eastern Asia,Male
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,15,Southern Asia,Female
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,31,Southern Asia,Male
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,28,South-Eastern Asia,Female
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,11,South-Eastern Asia,Male
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,28,Western Asia,Female
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,32,Western Asia,Male
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,171,Eastern Europe,Female
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,108,Eastern Europe,Male
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,127,Northern Europe,Female
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,133,Northern Europe,Male
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,13233,Southern Europe,Female
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,11028,Southern Europe,Male
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,402,Western Europe,Female
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,333,Western Europe,Male
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,..,Australia and New Zealand,Female
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,..,Australia and New Zealand,Male
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,14,Not available,Female
+2008,Sarrià-Sant Gervasi,el Putxet i el Farró,8,Not available,Male
+2008,Gràcia,Vallcarca i els Penitents,..,Eastern Africa,Female
+2008,Gràcia,Vallcarca i els Penitents,..,Eastern Africa,Male
+2008,Gràcia,Vallcarca i els Penitents,..,Middle Africa,Female
+2008,Gràcia,Vallcarca i els Penitents,5,Middle Africa,Male
+2008,Gràcia,Vallcarca i els Penitents,40,Northern Africa,Female
+2008,Gràcia,Vallcarca i els Penitents,40,Northern Africa,Male
+2008,Gràcia,Vallcarca i els Penitents,7,Western Africa,Female
+2008,Gràcia,Vallcarca i els Penitents,12,Western Africa,Male
+2008,Gràcia,Vallcarca i els Penitents,59,Caribbean,Female
+2008,Gràcia,Vallcarca i els Penitents,29,Caribbean,Male
+2008,Gràcia,Vallcarca i els Penitents,54,Central America,Female
+2008,Gràcia,Vallcarca i els Penitents,62,Central America,Male
+2008,Gràcia,Vallcarca i els Penitents,746,South America,Female
+2008,Gràcia,Vallcarca i els Penitents,599,South America,Male
+2008,Gràcia,Vallcarca i els Penitents,25,Northern America,Female
+2008,Gràcia,Vallcarca i els Penitents,19,Northern America,Male
+2008,Gràcia,Vallcarca i els Penitents,38,Eastern Asia,Female
+2008,Gràcia,Vallcarca i els Penitents,30,Eastern Asia,Male
+2008,Gràcia,Vallcarca i els Penitents,9,Southern Asia,Female
+2008,Gràcia,Vallcarca i els Penitents,20,Southern Asia,Male
+2008,Gràcia,Vallcarca i els Penitents,14,South-Eastern Asia,Female
+2008,Gràcia,Vallcarca i els Penitents,7,South-Eastern Asia,Male
+2008,Gràcia,Vallcarca i els Penitents,10,Western Asia,Female
+2008,Gràcia,Vallcarca i els Penitents,22,Western Asia,Male
+2008,Gràcia,Vallcarca i els Penitents,87,Eastern Europe,Female
+2008,Gràcia,Vallcarca i els Penitents,76,Eastern Europe,Male
+2008,Gràcia,Vallcarca i els Penitents,49,Northern Europe,Female
+2008,Gràcia,Vallcarca i els Penitents,59,Northern Europe,Male
+2008,Gràcia,Vallcarca i els Penitents,6983,Southern Europe,Female
+2008,Gràcia,Vallcarca i els Penitents,6006,Southern Europe,Male
+2008,Gràcia,Vallcarca i els Penitents,189,Western Europe,Female
+2008,Gràcia,Vallcarca i els Penitents,153,Western Europe,Male
+2008,Gràcia,Vallcarca i els Penitents,..,Australia and New Zealand,Female
+2008,Gràcia,Vallcarca i els Penitents,5,Australia and New Zealand,Male
+2008,Gràcia,Vallcarca i els Penitents,..,Not available,Female
+2008,Gràcia,Vallcarca i els Penitents,6,Not available,Male
+2008,Gràcia,el Coll,..,Eastern Africa,Male
+2008,Gràcia,el Coll,..,Middle Africa,Female
+2008,Gràcia,el Coll,..,Middle Africa,Male
+2008,Gràcia,el Coll,34,Northern Africa,Female
+2008,Gràcia,el Coll,57,Northern Africa,Male
+2008,Gràcia,el Coll,5,Western Africa,Female
+2008,Gràcia,el Coll,..,Western Africa,Male
+2008,Gràcia,el Coll,30,Caribbean,Female
+2008,Gràcia,el Coll,19,Caribbean,Male
+2008,Gràcia,el Coll,33,Central America,Female
+2008,Gràcia,el Coll,25,Central America,Male
+2008,Gràcia,el Coll,290,South America,Female
+2008,Gràcia,el Coll,255,South America,Male
+2008,Gràcia,el Coll,9,Northern America,Female
+2008,Gràcia,el Coll,..,Northern America,Male
+2008,Gràcia,el Coll,12,Eastern Asia,Female
+2008,Gràcia,el Coll,9,Eastern Asia,Male
+2008,Gràcia,el Coll,6,Southern Asia,Female
+2008,Gràcia,el Coll,25,Southern Asia,Male
+2008,Gràcia,el Coll,8,South-Eastern Asia,Female
+2008,Gràcia,el Coll,..,South-Eastern Asia,Male
+2008,Gràcia,el Coll,..,Western Asia,Female
+2008,Gràcia,el Coll,14,Western Asia,Male
+2008,Gràcia,el Coll,44,Eastern Europe,Female
+2008,Gràcia,el Coll,31,Eastern Europe,Male
+2008,Gràcia,el Coll,16,Northern Europe,Female
+2008,Gràcia,el Coll,13,Northern Europe,Male
+2008,Gràcia,el Coll,3268,Southern Europe,Female
+2008,Gràcia,el Coll,2921,Southern Europe,Male
+2008,Gràcia,el Coll,83,Western Europe,Female
+2008,Gràcia,el Coll,67,Western Europe,Male
+2008,Gràcia,el Coll,..,Australia and New Zealand,Female
+2008,Gràcia,el Coll,..,Australia and New Zealand,Male
+2008,Gràcia,el Coll,..,Not available,Female
+2008,Gràcia,el Coll,..,Not available,Male
+2008,Gràcia,la Salut,..,Eastern Africa,Female
+2008,Gràcia,la Salut,5,Eastern Africa,Male
+2008,Gràcia,la Salut,7,Middle Africa,Female
+2008,Gràcia,la Salut,..,Middle Africa,Male
+2008,Gràcia,la Salut,31,Northern Africa,Female
+2008,Gràcia,la Salut,32,Northern Africa,Male
+2008,Gràcia,la Salut,..,Western Africa,Female
+2008,Gràcia,la Salut,7,Western Africa,Male
+2008,Gràcia,la Salut,32,Caribbean,Female
+2008,Gràcia,la Salut,25,Caribbean,Male
+2008,Gràcia,la Salut,60,Central America,Female
+2008,Gràcia,la Salut,44,Central America,Male
+2008,Gràcia,la Salut,479,South America,Female
+2008,Gràcia,la Salut,371,South America,Male
+2008,Gràcia,la Salut,23,Northern America,Female
+2008,Gràcia,la Salut,19,Northern America,Male
+2008,Gràcia,la Salut,..,Central Asia,Female
+2008,Gràcia,la Salut,33,Eastern Asia,Female
+2008,Gràcia,la Salut,21,Eastern Asia,Male
+2008,Gràcia,la Salut,8,Southern Asia,Female
+2008,Gràcia,la Salut,11,Southern Asia,Male
+2008,Gràcia,la Salut,8,South-Eastern Asia,Female
+2008,Gràcia,la Salut,..,South-Eastern Asia,Male
+2008,Gràcia,la Salut,11,Western Asia,Female
+2008,Gràcia,la Salut,23,Western Asia,Male
+2008,Gràcia,la Salut,72,Eastern Europe,Female
+2008,Gràcia,la Salut,65,Eastern Europe,Male
+2008,Gràcia,la Salut,45,Northern Europe,Female
+2008,Gràcia,la Salut,41,Northern Europe,Male
+2008,Gràcia,la Salut,6197,Southern Europe,Female
+2008,Gràcia,la Salut,5251,Southern Europe,Male
+2008,Gràcia,la Salut,132,Western Europe,Female
+2008,Gràcia,la Salut,105,Western Europe,Male
+2008,Gràcia,la Salut,..,Australia and New Zealand,Female
+2008,Gràcia,la Salut,..,Not available,Female
+2008,Gràcia,la Salut,..,Not available,Male
+2008,Gràcia,la Vila de Gràcia,17,Eastern Africa,Female
+2008,Gràcia,la Vila de Gràcia,20,Eastern Africa,Male
+2008,Gràcia,la Vila de Gràcia,11,Middle Africa,Female
+2008,Gràcia,la Vila de Gràcia,12,Middle Africa,Male
+2008,Gràcia,la Vila de Gràcia,174,Northern Africa,Female
+2008,Gràcia,la Vila de Gràcia,235,Northern Africa,Male
+2008,Gràcia,la Vila de Gràcia,..,Southern Africa,Female
+2008,Gràcia,la Vila de Gràcia,5,Southern Africa,Male
+2008,Gràcia,la Vila de Gràcia,19,Western Africa,Female
+2008,Gràcia,la Vila de Gràcia,55,Western Africa,Male
+2008,Gràcia,la Vila de Gràcia,177,Caribbean,Female
+2008,Gràcia,la Vila de Gràcia,147,Caribbean,Male
+2008,Gràcia,la Vila de Gràcia,305,Central America,Female
+2008,Gràcia,la Vila de Gràcia,206,Central America,Male
+2008,Gràcia,la Vila de Gràcia,2546,South America,Female
+2008,Gràcia,la Vila de Gràcia,2215,South America,Male
+2008,Gràcia,la Vila de Gràcia,134,Northern America,Female
+2008,Gràcia,la Vila de Gràcia,128,Northern America,Male
+2008,Gràcia,la Vila de Gràcia,..,Central Asia,Female
+2008,Gràcia,la Vila de Gràcia,..,Central Asia,Male
+2008,Gràcia,la Vila de Gràcia,193,Eastern Asia,Female
+2008,Gràcia,la Vila de Gràcia,140,Eastern Asia,Male
+2008,Gràcia,la Vila de Gràcia,59,Southern Asia,Female
+2008,Gràcia,la Vila de Gràcia,396,Southern Asia,Male
+2008,Gràcia,la Vila de Gràcia,49,South-Eastern Asia,Female
+2008,Gràcia,la Vila de Gràcia,30,South-Eastern Asia,Male
+2008,Gràcia,la Vila de Gràcia,84,Western Asia,Female
+2008,Gràcia,la Vila de Gràcia,166,Western Asia,Male
+2008,Gràcia,la Vila de Gràcia,271,Eastern Europe,Female
+2008,Gràcia,la Vila de Gràcia,209,Eastern Europe,Male
+2008,Gràcia,la Vila de Gràcia,313,Northern Europe,Female
+2008,Gràcia,la Vila de Gràcia,303,Northern Europe,Male
+2008,Gràcia,la Vila de Gràcia,22787,Southern Europe,Female
+2008,Gràcia,la Vila de Gràcia,18304,Southern Europe,Male
+2008,Gràcia,la Vila de Gràcia,775,Western Europe,Female
+2008,Gràcia,la Vila de Gràcia,734,Western Europe,Male
+2008,Gràcia,la Vila de Gràcia,19,Australia and New Zealand,Female
+2008,Gràcia,la Vila de Gràcia,15,Australia and New Zealand,Male
+2008,Gràcia,la Vila de Gràcia,19,Not available,Female
+2008,Gràcia,la Vila de Gràcia,15,Not available,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,5,Eastern Africa,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,..,Eastern Africa,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,6,Middle Africa,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,7,Middle Africa,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,81,Northern Africa,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,99,Northern Africa,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,..,Southern Africa,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,5,Southern Africa,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,8,Western Africa,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,14,Western Africa,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,101,Caribbean,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,70,Caribbean,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,142,Central America,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,87,Central America,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,1356,South America,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,1047,South America,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,42,Northern America,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,38,Northern America,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,..,Central Asia,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,122,Eastern Asia,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,146,Eastern Asia,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,29,Southern Asia,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,94,Southern Asia,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,25,South-Eastern Asia,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,16,South-Eastern Asia,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,55,Western Asia,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,90,Western Asia,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,179,Eastern Europe,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,147,Eastern Europe,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,105,Northern Europe,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,129,Northern Europe,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,16157,Southern Europe,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,13575,Southern Europe,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,378,Western Europe,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,318,Western Europe,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,5,Australia and New Zealand,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,..,Australia and New Zealand,Male
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,6,Not available,Female
+2008,Gràcia,el Camp d'en Grassot i Gràcia Nova,..,Not available,Male
+2008,Horta-Guinardó,el Baix Guinardó,8,Eastern Africa,Female
+2008,Horta-Guinardó,el Baix Guinardó,6,Eastern Africa,Male
+2008,Horta-Guinardó,el Baix Guinardó,5,Middle Africa,Female
+2008,Horta-Guinardó,el Baix Guinardó,7,Middle Africa,Male
+2008,Horta-Guinardó,el Baix Guinardó,64,Northern Africa,Female
+2008,Horta-Guinardó,el Baix Guinardó,58,Northern Africa,Male
+2008,Horta-Guinardó,el Baix Guinardó,..,Southern Africa,Male
+2008,Horta-Guinardó,el Baix Guinardó,15,Western Africa,Female
+2008,Horta-Guinardó,el Baix Guinardó,23,Western Africa,Male
+2008,Horta-Guinardó,el Baix Guinardó,94,Caribbean,Female
+2008,Horta-Guinardó,el Baix Guinardó,74,Caribbean,Male
+2008,Horta-Guinardó,el Baix Guinardó,89,Central America,Female
+2008,Horta-Guinardó,el Baix Guinardó,79,Central America,Male
+2008,Horta-Guinardó,el Baix Guinardó,1390,South America,Female
+2008,Horta-Guinardó,el Baix Guinardó,1100,South America,Male
+2008,Horta-Guinardó,el Baix Guinardó,14,Northern America,Female
+2008,Horta-Guinardó,el Baix Guinardó,20,Northern America,Male
+2008,Horta-Guinardó,el Baix Guinardó,..,Central Asia,Female
+2008,Horta-Guinardó,el Baix Guinardó,..,Central Asia,Male
+2008,Horta-Guinardó,el Baix Guinardó,83,Eastern Asia,Female
+2008,Horta-Guinardó,el Baix Guinardó,76,Eastern Asia,Male
+2008,Horta-Guinardó,el Baix Guinardó,20,Southern Asia,Female
+2008,Horta-Guinardó,el Baix Guinardó,75,Southern Asia,Male
+2008,Horta-Guinardó,el Baix Guinardó,13,South-Eastern Asia,Female
+2008,Horta-Guinardó,el Baix Guinardó,6,South-Eastern Asia,Male
+2008,Horta-Guinardó,el Baix Guinardó,35,Western Asia,Female
+2008,Horta-Guinardó,el Baix Guinardó,76,Western Asia,Male
+2008,Horta-Guinardó,el Baix Guinardó,185,Eastern Europe,Female
+2008,Horta-Guinardó,el Baix Guinardó,119,Eastern Europe,Male
+2008,Horta-Guinardó,el Baix Guinardó,59,Northern Europe,Female
+2008,Horta-Guinardó,el Baix Guinardó,64,Northern Europe,Male
+2008,Horta-Guinardó,el Baix Guinardó,11770,Southern Europe,Female
+2008,Horta-Guinardó,el Baix Guinardó,10055,Southern Europe,Male
+2008,Horta-Guinardó,el Baix Guinardó,168,Western Europe,Female
+2008,Horta-Guinardó,el Baix Guinardó,134,Western Europe,Male
+2008,Horta-Guinardó,el Baix Guinardó,5,Australia and New Zealand,Male
+2008,Horta-Guinardó,el Baix Guinardó,..,Not available,Female
+2008,Horta-Guinardó,Can Baró,..,Eastern Africa,Female
+2008,Horta-Guinardó,Can Baró,..,Middle Africa,Female
+2008,Horta-Guinardó,Can Baró,5,Middle Africa,Male
+2008,Horta-Guinardó,Can Baró,18,Northern Africa,Female
+2008,Horta-Guinardó,Can Baró,40,Northern Africa,Male
+2008,Horta-Guinardó,Can Baró,..,Western Africa,Female
+2008,Horta-Guinardó,Can Baró,..,Western Africa,Male
+2008,Horta-Guinardó,Can Baró,28,Caribbean,Female
+2008,Horta-Guinardó,Can Baró,16,Caribbean,Male
+2008,Horta-Guinardó,Can Baró,22,Central America,Female
+2008,Horta-Guinardó,Can Baró,16,Central America,Male
+2008,Horta-Guinardó,Can Baró,406,South America,Female
+2008,Horta-Guinardó,Can Baró,376,South America,Male
+2008,Horta-Guinardó,Can Baró,7,Northern America,Female
+2008,Horta-Guinardó,Can Baró,5,Northern America,Male
+2008,Horta-Guinardó,Can Baró,22,Eastern Asia,Female
+2008,Horta-Guinardó,Can Baró,16,Eastern Asia,Male
+2008,Horta-Guinardó,Can Baró,..,Southern Asia,Female
+2008,Horta-Guinardó,Can Baró,14,Southern Asia,Male
+2008,Horta-Guinardó,Can Baró,5,South-Eastern Asia,Female
+2008,Horta-Guinardó,Can Baró,..,South-Eastern Asia,Male
+2008,Horta-Guinardó,Can Baró,..,Western Asia,Female
+2008,Horta-Guinardó,Can Baró,..,Western Asia,Male
+2008,Horta-Guinardó,Can Baró,60,Eastern Europe,Female
+2008,Horta-Guinardó,Can Baró,52,Eastern Europe,Male
+2008,Horta-Guinardó,Can Baró,15,Northern Europe,Female
+2008,Horta-Guinardó,Can Baró,18,Northern Europe,Male
+2008,Horta-Guinardó,Can Baró,4131,Southern Europe,Female
+2008,Horta-Guinardó,Can Baró,3656,Southern Europe,Male
+2008,Horta-Guinardó,Can Baró,68,Western Europe,Female
+2008,Horta-Guinardó,Can Baró,57,Western Europe,Male
+2008,Horta-Guinardó,Can Baró,..,Australia and New Zealand,Female
+2008,Horta-Guinardó,Can Baró,..,Australia and New Zealand,Male
+2008,Horta-Guinardó,Can Baró,..,Not available,Female
+2008,Horta-Guinardó,el Guinardó,5,Eastern Africa,Female
+2008,Horta-Guinardó,el Guinardó,5,Eastern Africa,Male
+2008,Horta-Guinardó,el Guinardó,17,Middle Africa,Female
+2008,Horta-Guinardó,el Guinardó,10,Middle Africa,Male
+2008,Horta-Guinardó,el Guinardó,110,Northern Africa,Female
+2008,Horta-Guinardó,el Guinardó,145,Northern Africa,Male
+2008,Horta-Guinardó,el Guinardó,..,Southern Africa,Female
+2008,Horta-Guinardó,el Guinardó,..,Southern Africa,Male
+2008,Horta-Guinardó,el Guinardó,22,Western Africa,Female
+2008,Horta-Guinardó,el Guinardó,23,Western Africa,Male
+2008,Horta-Guinardó,el Guinardó,140,Caribbean,Female
+2008,Horta-Guinardó,el Guinardó,101,Caribbean,Male
+2008,Horta-Guinardó,el Guinardó,108,Central America,Female
+2008,Horta-Guinardó,el Guinardó,85,Central America,Male
+2008,Horta-Guinardó,el Guinardó,1845,South America,Female
+2008,Horta-Guinardó,el Guinardó,1486,South America,Male
+2008,Horta-Guinardó,el Guinardó,26,Northern America,Female
+2008,Horta-Guinardó,el Guinardó,24,Northern America,Male
+2008,Horta-Guinardó,el Guinardó,..,Central Asia,Female
+2008,Horta-Guinardó,el Guinardó,..,Central Asia,Male
+2008,Horta-Guinardó,el Guinardó,104,Eastern Asia,Female
+2008,Horta-Guinardó,el Guinardó,89,Eastern Asia,Male
+2008,Horta-Guinardó,el Guinardó,27,Southern Asia,Female
+2008,Horta-Guinardó,el Guinardó,96,Southern Asia,Male
+2008,Horta-Guinardó,el Guinardó,22,South-Eastern Asia,Female
+2008,Horta-Guinardó,el Guinardó,10,South-Eastern Asia,Male
+2008,Horta-Guinardó,el Guinardó,32,Western Asia,Female
+2008,Horta-Guinardó,el Guinardó,55,Western Asia,Male
+2008,Horta-Guinardó,el Guinardó,203,Eastern Europe,Female
+2008,Horta-Guinardó,el Guinardó,173,Eastern Europe,Male
+2008,Horta-Guinardó,el Guinardó,55,Northern Europe,Female
+2008,Horta-Guinardó,el Guinardó,70,Northern Europe,Male
+2008,Horta-Guinardó,el Guinardó,15900,Southern Europe,Female
+2008,Horta-Guinardó,el Guinardó,13742,Southern Europe,Male
+2008,Horta-Guinardó,el Guinardó,227,Western Europe,Female
+2008,Horta-Guinardó,el Guinardó,183,Western Europe,Male
+2008,Horta-Guinardó,el Guinardó,10,Australia and New Zealand,Female
+2008,Horta-Guinardó,el Guinardó,..,Australia and New Zealand,Male
+2008,Horta-Guinardó,el Guinardó,7,Not available,Female
+2008,Horta-Guinardó,el Guinardó,..,Not available,Male
+2008,Horta-Guinardó,la Font d'en Fargues,..,Eastern Africa,Male
+2008,Horta-Guinardó,la Font d'en Fargues,..,Middle Africa,Male
+2008,Horta-Guinardó,la Font d'en Fargues,13,Northern Africa,Female
+2008,Horta-Guinardó,la Font d'en Fargues,25,Northern Africa,Male
+2008,Horta-Guinardó,la Font d'en Fargues,..,Western Africa,Female
+2008,Horta-Guinardó,la Font d'en Fargues,..,Western Africa,Male
+2008,Horta-Guinardó,la Font d'en Fargues,10,Caribbean,Female
+2008,Horta-Guinardó,la Font d'en Fargues,16,Caribbean,Male
+2008,Horta-Guinardó,la Font d'en Fargues,8,Central America,Female
+2008,Horta-Guinardó,la Font d'en Fargues,8,Central America,Male
+2008,Horta-Guinardó,la Font d'en Fargues,187,South America,Female
+2008,Horta-Guinardó,la Font d'en Fargues,163,South America,Male
+2008,Horta-Guinardó,la Font d'en Fargues,..,Northern America,Female
+2008,Horta-Guinardó,la Font d'en Fargues,7,Northern America,Male
+2008,Horta-Guinardó,la Font d'en Fargues,..,Central Asia,Female
+2008,Horta-Guinardó,la Font d'en Fargues,9,Eastern Asia,Female
+2008,Horta-Guinardó,la Font d'en Fargues,9,Eastern Asia,Male
+2008,Horta-Guinardó,la Font d'en Fargues,..,Southern Asia,Female
+2008,Horta-Guinardó,la Font d'en Fargues,7,Southern Asia,Male
+2008,Horta-Guinardó,la Font d'en Fargues,..,South-Eastern Asia,Female
+2008,Horta-Guinardó,la Font d'en Fargues,..,South-Eastern Asia,Male
+2008,Horta-Guinardó,la Font d'en Fargues,..,Western Asia,Female
+2008,Horta-Guinardó,la Font d'en Fargues,12,Western Asia,Male
+2008,Horta-Guinardó,la Font d'en Fargues,47,Eastern Europe,Female
+2008,Horta-Guinardó,la Font d'en Fargues,32,Eastern Europe,Male
+2008,Horta-Guinardó,la Font d'en Fargues,15,Northern Europe,Female
+2008,Horta-Guinardó,la Font d'en Fargues,15,Northern Europe,Male
+2008,Horta-Guinardó,la Font d'en Fargues,4657,Southern Europe,Female
+2008,Horta-Guinardó,la Font d'en Fargues,4298,Southern Europe,Male
+2008,Horta-Guinardó,la Font d'en Fargues,51,Western Europe,Female
+2008,Horta-Guinardó,la Font d'en Fargues,47,Western Europe,Male
+2008,Horta-Guinardó,la Font d'en Fargues,..,Australia and New Zealand,Male
+2008,Horta-Guinardó,la Font d'en Fargues,..,Not available,Female
+2008,Horta-Guinardó,el Carmel,..,Eastern Africa,Female
+2008,Horta-Guinardó,el Carmel,9,Middle Africa,Female
+2008,Horta-Guinardó,el Carmel,6,Middle Africa,Male
+2008,Horta-Guinardó,el Carmel,138,Northern Africa,Female
+2008,Horta-Guinardó,el Carmel,233,Northern Africa,Male
+2008,Horta-Guinardó,el Carmel,15,Western Africa,Female
+2008,Horta-Guinardó,el Carmel,37,Western Africa,Male
+2008,Horta-Guinardó,el Carmel,124,Caribbean,Female
+2008,Horta-Guinardó,el Carmel,86,Caribbean,Male
+2008,Horta-Guinardó,el Carmel,131,Central America,Female
+2008,Horta-Guinardó,el Carmel,85,Central America,Male
+2008,Horta-Guinardó,el Carmel,1531,South America,Female
+2008,Horta-Guinardó,el Carmel,1423,South America,Male
+2008,Horta-Guinardó,el Carmel,8,Northern America,Female
+2008,Horta-Guinardó,el Carmel,7,Northern America,Male
+2008,Horta-Guinardó,el Carmel,7,Central Asia,Female
+2008,Horta-Guinardó,el Carmel,5,Central Asia,Male
+2008,Horta-Guinardó,el Carmel,41,Eastern Asia,Female
+2008,Horta-Guinardó,el Carmel,28,Eastern Asia,Male
+2008,Horta-Guinardó,el Carmel,17,Southern Asia,Female
+2008,Horta-Guinardó,el Carmel,58,Southern Asia,Male
+2008,Horta-Guinardó,el Carmel,9,South-Eastern Asia,Female
+2008,Horta-Guinardó,el Carmel,5,South-Eastern Asia,Male
+2008,Horta-Guinardó,el Carmel,38,Western Asia,Female
+2008,Horta-Guinardó,el Carmel,98,Western Asia,Male
+2008,Horta-Guinardó,el Carmel,243,Eastern Europe,Female
+2008,Horta-Guinardó,el Carmel,250,Eastern Europe,Male
+2008,Horta-Guinardó,el Carmel,25,Northern Europe,Female
+2008,Horta-Guinardó,el Carmel,24,Northern Europe,Male
+2008,Horta-Guinardó,el Carmel,14171,Southern Europe,Female
+2008,Horta-Guinardó,el Carmel,13192,Southern Europe,Male
+2008,Horta-Guinardó,el Carmel,107,Western Europe,Female
+2008,Horta-Guinardó,el Carmel,108,Western Europe,Male
+2008,Horta-Guinardó,el Carmel,..,Australia and New Zealand,Male
+2008,Horta-Guinardó,el Carmel,..,Not available,Male
+2008,Horta-Guinardó,la Teixonera,..,Middle Africa,Female
+2008,Horta-Guinardó,la Teixonera,..,Middle Africa,Male
+2008,Horta-Guinardó,la Teixonera,36,Northern Africa,Female
+2008,Horta-Guinardó,la Teixonera,73,Northern Africa,Male
+2008,Horta-Guinardó,la Teixonera,11,Western Africa,Female
+2008,Horta-Guinardó,la Teixonera,14,Western Africa,Male
+2008,Horta-Guinardó,la Teixonera,84,Caribbean,Female
+2008,Horta-Guinardó,la Teixonera,53,Caribbean,Male
+2008,Horta-Guinardó,la Teixonera,48,Central America,Female
+2008,Horta-Guinardó,la Teixonera,26,Central America,Male
+2008,Horta-Guinardó,la Teixonera,629,South America,Female
+2008,Horta-Guinardó,la Teixonera,539,South America,Male
+2008,Horta-Guinardó,la Teixonera,..,Northern America,Female
+2008,Horta-Guinardó,la Teixonera,6,Northern America,Male
+2008,Horta-Guinardó,la Teixonera,12,Eastern Asia,Female
+2008,Horta-Guinardó,la Teixonera,7,Eastern Asia,Male
+2008,Horta-Guinardó,la Teixonera,17,Southern Asia,Female
+2008,Horta-Guinardó,la Teixonera,64,Southern Asia,Male
+2008,Horta-Guinardó,la Teixonera,11,South-Eastern Asia,Female
+2008,Horta-Guinardó,la Teixonera,..,South-Eastern Asia,Male
+2008,Horta-Guinardó,la Teixonera,7,Western Asia,Female
+2008,Horta-Guinardó,la Teixonera,12,Western Asia,Male
+2008,Horta-Guinardó,la Teixonera,100,Eastern Europe,Female
+2008,Horta-Guinardó,la Teixonera,124,Eastern Europe,Male
+2008,Horta-Guinardó,la Teixonera,10,Northern Europe,Female
+2008,Horta-Guinardó,la Teixonera,17,Northern Europe,Male
+2008,Horta-Guinardó,la Teixonera,5092,Southern Europe,Female
+2008,Horta-Guinardó,la Teixonera,4823,Southern Europe,Male
+2008,Horta-Guinardó,la Teixonera,54,Western Europe,Female
+2008,Horta-Guinardó,la Teixonera,59,Western Europe,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,..,Eastern Africa,Female
+2008,Horta-Guinardó,Sant Genís dels Agudells,..,Eastern Africa,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,..,Middle Africa,Female
+2008,Horta-Guinardó,Sant Genís dels Agudells,..,Middle Africa,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,18,Northern Africa,Female
+2008,Horta-Guinardó,Sant Genís dels Agudells,46,Northern Africa,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,..,Southern Africa,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,..,Western Africa,Female
+2008,Horta-Guinardó,Sant Genís dels Agudells,..,Western Africa,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,36,Caribbean,Female
+2008,Horta-Guinardó,Sant Genís dels Agudells,32,Caribbean,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,25,Central America,Female
+2008,Horta-Guinardó,Sant Genís dels Agudells,12,Central America,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,351,South America,Female
+2008,Horta-Guinardó,Sant Genís dels Agudells,297,South America,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,6,Northern America,Female
+2008,Horta-Guinardó,Sant Genís dels Agudells,..,Northern America,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,7,Central Asia,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,13,Eastern Asia,Female
+2008,Horta-Guinardó,Sant Genís dels Agudells,14,Eastern Asia,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,6,Southern Asia,Female
+2008,Horta-Guinardó,Sant Genís dels Agudells,25,Southern Asia,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,..,South-Eastern Asia,Female
+2008,Horta-Guinardó,Sant Genís dels Agudells,..,South-Eastern Asia,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,9,Western Asia,Female
+2008,Horta-Guinardó,Sant Genís dels Agudells,29,Western Asia,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,35,Eastern Europe,Female
+2008,Horta-Guinardó,Sant Genís dels Agudells,28,Eastern Europe,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,15,Northern Europe,Female
+2008,Horta-Guinardó,Sant Genís dels Agudells,8,Northern Europe,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,3164,Southern Europe,Female
+2008,Horta-Guinardó,Sant Genís dels Agudells,2819,Southern Europe,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,42,Western Europe,Female
+2008,Horta-Guinardó,Sant Genís dels Agudells,33,Western Europe,Male
+2008,Horta-Guinardó,Sant Genís dels Agudells,..,Not available,Male
+2008,Horta-Guinardó,Montbau,..,Eastern Africa,Male
+2008,Horta-Guinardó,Montbau,10,Northern Africa,Female
+2008,Horta-Guinardó,Montbau,15,Northern Africa,Male
+2008,Horta-Guinardó,Montbau,..,Southern Africa,Female
+2008,Horta-Guinardó,Montbau,..,Western Africa,Female
+2008,Horta-Guinardó,Montbau,..,Western Africa,Male
+2008,Horta-Guinardó,Montbau,13,Caribbean,Female
+2008,Horta-Guinardó,Montbau,12,Caribbean,Male
+2008,Horta-Guinardó,Montbau,15,Central America,Female
+2008,Horta-Guinardó,Montbau,13,Central America,Male
+2008,Horta-Guinardó,Montbau,240,South America,Female
+2008,Horta-Guinardó,Montbau,213,South America,Male
+2008,Horta-Guinardó,Montbau,..,Northern America,Female
+2008,Horta-Guinardó,Montbau,..,Northern America,Male
+2008,Horta-Guinardó,Montbau,7,Eastern Asia,Female
+2008,Horta-Guinardó,Montbau,7,Eastern Asia,Male
+2008,Horta-Guinardó,Montbau,..,Southern Asia,Female
+2008,Horta-Guinardó,Montbau,7,Southern Asia,Male
+2008,Horta-Guinardó,Montbau,..,Western Asia,Male
+2008,Horta-Guinardó,Montbau,15,Eastern Europe,Female
+2008,Horta-Guinardó,Montbau,10,Eastern Europe,Male
+2008,Horta-Guinardó,Montbau,..,Northern Europe,Female
+2008,Horta-Guinardó,Montbau,6,Northern Europe,Male
+2008,Horta-Guinardó,Montbau,2542,Southern Europe,Female
+2008,Horta-Guinardó,Montbau,1985,Southern Europe,Male
+2008,Horta-Guinardó,Montbau,28,Western Europe,Female
+2008,Horta-Guinardó,Montbau,23,Western Europe,Male
+2008,Horta-Guinardó,Montbau,..,Not available,Male
+2008,Horta-Guinardó,la Vall d'Hebron,..,Eastern Africa,Female
+2008,Horta-Guinardó,la Vall d'Hebron,..,Eastern Africa,Male
+2008,Horta-Guinardó,la Vall d'Hebron,9,Northern Africa,Female
+2008,Horta-Guinardó,la Vall d'Hebron,9,Northern Africa,Male
+2008,Horta-Guinardó,la Vall d'Hebron,..,Western Africa,Female
+2008,Horta-Guinardó,la Vall d'Hebron,7,Western Africa,Male
+2008,Horta-Guinardó,la Vall d'Hebron,13,Caribbean,Female
+2008,Horta-Guinardó,la Vall d'Hebron,9,Caribbean,Male
+2008,Horta-Guinardó,la Vall d'Hebron,26,Central America,Female
+2008,Horta-Guinardó,la Vall d'Hebron,14,Central America,Male
+2008,Horta-Guinardó,la Vall d'Hebron,266,South America,Female
+2008,Horta-Guinardó,la Vall d'Hebron,248,South America,Male
+2008,Horta-Guinardó,la Vall d'Hebron,..,Northern America,Female
+2008,Horta-Guinardó,la Vall d'Hebron,..,Northern America,Male
+2008,Horta-Guinardó,la Vall d'Hebron,18,Eastern Asia,Female
+2008,Horta-Guinardó,la Vall d'Hebron,7,Eastern Asia,Male
+2008,Horta-Guinardó,la Vall d'Hebron,..,Southern Asia,Female
+2008,Horta-Guinardó,la Vall d'Hebron,..,Southern Asia,Male
+2008,Horta-Guinardó,la Vall d'Hebron,..,South-Eastern Asia,Female
+2008,Horta-Guinardó,la Vall d'Hebron,..,Western Asia,Female
+2008,Horta-Guinardó,la Vall d'Hebron,6,Western Asia,Male
+2008,Horta-Guinardó,la Vall d'Hebron,24,Eastern Europe,Female
+2008,Horta-Guinardó,la Vall d'Hebron,27,Eastern Europe,Male
+2008,Horta-Guinardó,la Vall d'Hebron,5,Northern Europe,Female
+2008,Horta-Guinardó,la Vall d'Hebron,9,Northern Europe,Male
+2008,Horta-Guinardó,la Vall d'Hebron,2497,Southern Europe,Female
+2008,Horta-Guinardó,la Vall d'Hebron,2299,Southern Europe,Male
+2008,Horta-Guinardó,la Vall d'Hebron,27,Western Europe,Female
+2008,Horta-Guinardó,la Vall d'Hebron,23,Western Europe,Male
+2008,Horta-Guinardó,la Clota,..,Eastern Africa,Female
+2008,Horta-Guinardó,la Clota,..,Caribbean,Female
+2008,Horta-Guinardó,la Clota,..,Central America,Male
+2008,Horta-Guinardó,la Clota,15,South America,Female
+2008,Horta-Guinardó,la Clota,14,South America,Male
+2008,Horta-Guinardó,la Clota,..,Northern America,Male
+2008,Horta-Guinardó,la Clota,..,Eastern Asia,Female
+2008,Horta-Guinardó,la Clota,5,Eastern Asia,Male
+2008,Horta-Guinardó,la Clota,..,Southern Asia,Female
+2008,Horta-Guinardó,la Clota,16,Southern Asia,Male
+2008,Horta-Guinardó,la Clota,..,Western Asia,Female
+2008,Horta-Guinardó,la Clota,..,Eastern Europe,Female
+2008,Horta-Guinardó,la Clota,..,Eastern Europe,Male
+2008,Horta-Guinardó,la Clota,..,Northern Europe,Female
+2008,Horta-Guinardó,la Clota,185,Southern Europe,Female
+2008,Horta-Guinardó,la Clota,200,Southern Europe,Male
+2008,Horta-Guinardó,la Clota,..,Western Europe,Female
+2008,Horta-Guinardó,la Clota,..,Western Europe,Male
+2008,Horta-Guinardó,Horta,..,Eastern Africa,Female
+2008,Horta-Guinardó,Horta,..,Eastern Africa,Male
+2008,Horta-Guinardó,Horta,9,Middle Africa,Female
+2008,Horta-Guinardó,Horta,6,Middle Africa,Male
+2008,Horta-Guinardó,Horta,77,Northern Africa,Female
+2008,Horta-Guinardó,Horta,100,Northern Africa,Male
+2008,Horta-Guinardó,Horta,6,Western Africa,Female
+2008,Horta-Guinardó,Horta,26,Western Africa,Male
+2008,Horta-Guinardó,Horta,92,Caribbean,Female
+2008,Horta-Guinardó,Horta,50,Caribbean,Male
+2008,Horta-Guinardó,Horta,113,Central America,Female
+2008,Horta-Guinardó,Horta,61,Central America,Male
+2008,Horta-Guinardó,Horta,958,South America,Female
+2008,Horta-Guinardó,Horta,792,South America,Male
+2008,Horta-Guinardó,Horta,9,Northern America,Female
+2008,Horta-Guinardó,Horta,..,Northern America,Male
+2008,Horta-Guinardó,Horta,..,Central Asia,Male
+2008,Horta-Guinardó,Horta,65,Eastern Asia,Female
+2008,Horta-Guinardó,Horta,57,Eastern Asia,Male
+2008,Horta-Guinardó,Horta,20,Southern Asia,Female
+2008,Horta-Guinardó,Horta,225,Southern Asia,Male
+2008,Horta-Guinardó,Horta,..,South-Eastern Asia,Female
+2008,Horta-Guinardó,Horta,7,South-Eastern Asia,Male
+2008,Horta-Guinardó,Horta,66,Western Asia,Female
+2008,Horta-Guinardó,Horta,95,Western Asia,Male
+2008,Horta-Guinardó,Horta,165,Eastern Europe,Female
+2008,Horta-Guinardó,Horta,136,Eastern Europe,Male
+2008,Horta-Guinardó,Horta,22,Northern Europe,Female
+2008,Horta-Guinardó,Horta,19,Northern Europe,Male
+2008,Horta-Guinardó,Horta,12653,Southern Europe,Female
+2008,Horta-Guinardó,Horta,11174,Southern Europe,Male
+2008,Horta-Guinardó,Horta,140,Western Europe,Female
+2008,Horta-Guinardó,Horta,117,Western Europe,Male
+2008,Horta-Guinardó,Horta,..,Australia and New Zealand,Male
+2008,Horta-Guinardó,Horta,..,Not available,Female
+2008,Nou Barris,Vilapicina i la Torre Llobeta,..,Middle Africa,Female
+2008,Nou Barris,Vilapicina i la Torre Llobeta,6,Middle Africa,Male
+2008,Nou Barris,Vilapicina i la Torre Llobeta,73,Northern Africa,Female
+2008,Nou Barris,Vilapicina i la Torre Llobeta,100,Northern Africa,Male
+2008,Nou Barris,Vilapicina i la Torre Llobeta,10,Western Africa,Female
+2008,Nou Barris,Vilapicina i la Torre Llobeta,21,Western Africa,Male
+2008,Nou Barris,Vilapicina i la Torre Llobeta,150,Caribbean,Female
+2008,Nou Barris,Vilapicina i la Torre Llobeta,87,Caribbean,Male
+2008,Nou Barris,Vilapicina i la Torre Llobeta,55,Central America,Female
+2008,Nou Barris,Vilapicina i la Torre Llobeta,45,Central America,Male
+2008,Nou Barris,Vilapicina i la Torre Llobeta,1272,South America,Female
+2008,Nou Barris,Vilapicina i la Torre Llobeta,1086,South America,Male
+2008,Nou Barris,Vilapicina i la Torre Llobeta,6,Northern America,Female
+2008,Nou Barris,Vilapicina i la Torre Llobeta,5,Northern America,Male
+2008,Nou Barris,Vilapicina i la Torre Llobeta,100,Eastern Asia,Female
+2008,Nou Barris,Vilapicina i la Torre Llobeta,111,Eastern Asia,Male
+2008,Nou Barris,Vilapicina i la Torre Llobeta,13,Southern Asia,Female
+2008,Nou Barris,Vilapicina i la Torre Llobeta,38,Southern Asia,Male
+2008,Nou Barris,Vilapicina i la Torre Llobeta,..,South-Eastern Asia,Female
+2008,Nou Barris,Vilapicina i la Torre Llobeta,..,South-Eastern Asia,Male
+2008,Nou Barris,Vilapicina i la Torre Llobeta,36,Western Asia,Female
+2008,Nou Barris,Vilapicina i la Torre Llobeta,66,Western Asia,Male
+2008,Nou Barris,Vilapicina i la Torre Llobeta,138,Eastern Europe,Female
+2008,Nou Barris,Vilapicina i la Torre Llobeta,113,Eastern Europe,Male
+2008,Nou Barris,Vilapicina i la Torre Llobeta,28,Northern Europe,Female
+2008,Nou Barris,Vilapicina i la Torre Llobeta,21,Northern Europe,Male
+2008,Nou Barris,Vilapicina i la Torre Llobeta,11822,Southern Europe,Female
+2008,Nou Barris,Vilapicina i la Torre Llobeta,10150,Southern Europe,Male
+2008,Nou Barris,Vilapicina i la Torre Llobeta,113,Western Europe,Female
+2008,Nou Barris,Vilapicina i la Torre Llobeta,81,Western Europe,Male
+2008,Nou Barris,Vilapicina i la Torre Llobeta,..,Not available,Female
+2008,Nou Barris,Porta,..,Eastern Africa,Female
+2008,Nou Barris,Porta,..,Eastern Africa,Male
+2008,Nou Barris,Porta,7,Middle Africa,Female
+2008,Nou Barris,Porta,8,Middle Africa,Male
+2008,Nou Barris,Porta,95,Northern Africa,Female
+2008,Nou Barris,Porta,145,Northern Africa,Male
+2008,Nou Barris,Porta,..,Southern Africa,Male
+2008,Nou Barris,Porta,22,Western Africa,Female
+2008,Nou Barris,Porta,58,Western Africa,Male
+2008,Nou Barris,Porta,146,Caribbean,Female
+2008,Nou Barris,Porta,93,Caribbean,Male
+2008,Nou Barris,Porta,80,Central America,Female
+2008,Nou Barris,Porta,55,Central America,Male
+2008,Nou Barris,Porta,1234,South America,Female
+2008,Nou Barris,Porta,1048,South America,Male
+2008,Nou Barris,Porta,..,Northern America,Female
+2008,Nou Barris,Porta,..,Northern America,Male
+2008,Nou Barris,Porta,..,Central Asia,Female
+2008,Nou Barris,Porta,..,Central Asia,Male
+2008,Nou Barris,Porta,50,Eastern Asia,Female
+2008,Nou Barris,Porta,28,Eastern Asia,Male
+2008,Nou Barris,Porta,18,Southern Asia,Female
+2008,Nou Barris,Porta,225,Southern Asia,Male
+2008,Nou Barris,Porta,8,South-Eastern Asia,Female
+2008,Nou Barris,Porta,6,South-Eastern Asia,Male
+2008,Nou Barris,Porta,58,Western Asia,Female
+2008,Nou Barris,Porta,96,Western Asia,Male
+2008,Nou Barris,Porta,172,Eastern Europe,Female
+2008,Nou Barris,Porta,162,Eastern Europe,Male
+2008,Nou Barris,Porta,25,Northern Europe,Female
+2008,Nou Barris,Porta,24,Northern Europe,Male
+2008,Nou Barris,Porta,10698,Southern Europe,Female
+2008,Nou Barris,Porta,9610,Southern Europe,Male
+2008,Nou Barris,Porta,110,Western Europe,Female
+2008,Nou Barris,Porta,88,Western Europe,Male
+2008,Nou Barris,Porta,..,Australia and New Zealand,Male
+2008,Nou Barris,Porta,..,Not available,Male
+2008,Nou Barris,el Turó de la Peira,..,Eastern Africa,Female
+2008,Nou Barris,el Turó de la Peira,8,Middle Africa,Female
+2008,Nou Barris,el Turó de la Peira,..,Middle Africa,Male
+2008,Nou Barris,el Turó de la Peira,64,Northern Africa,Female
+2008,Nou Barris,el Turó de la Peira,63,Northern Africa,Male
+2008,Nou Barris,el Turó de la Peira,..,Southern Africa,Female
+2008,Nou Barris,el Turó de la Peira,..,Southern Africa,Male
+2008,Nou Barris,el Turó de la Peira,19,Western Africa,Female
+2008,Nou Barris,el Turó de la Peira,34,Western Africa,Male
+2008,Nou Barris,el Turó de la Peira,249,Caribbean,Female
+2008,Nou Barris,el Turó de la Peira,190,Caribbean,Male
+2008,Nou Barris,el Turó de la Peira,42,Central America,Female
+2008,Nou Barris,el Turó de la Peira,26,Central America,Male
+2008,Nou Barris,el Turó de la Peira,1311,South America,Female
+2008,Nou Barris,el Turó de la Peira,1136,South America,Male
+2008,Nou Barris,el Turó de la Peira,..,Northern America,Female
+2008,Nou Barris,el Turó de la Peira,5,Northern America,Male
+2008,Nou Barris,el Turó de la Peira,20,Eastern Asia,Female
+2008,Nou Barris,el Turó de la Peira,12,Eastern Asia,Male
+2008,Nou Barris,el Turó de la Peira,47,Southern Asia,Female
+2008,Nou Barris,el Turó de la Peira,154,Southern Asia,Male
+2008,Nou Barris,el Turó de la Peira,..,South-Eastern Asia,Female
+2008,Nou Barris,el Turó de la Peira,35,Western Asia,Female
+2008,Nou Barris,el Turó de la Peira,64,Western Asia,Male
+2008,Nou Barris,el Turó de la Peira,89,Eastern Europe,Female
+2008,Nou Barris,el Turó de la Peira,94,Eastern Europe,Male
+2008,Nou Barris,el Turó de la Peira,11,Northern Europe,Female
+2008,Nou Barris,el Turó de la Peira,7,Northern Europe,Male
+2008,Nou Barris,el Turó de la Peira,6145,Southern Europe,Female
+2008,Nou Barris,el Turó de la Peira,5250,Southern Europe,Male
+2008,Nou Barris,el Turó de la Peira,52,Western Europe,Female
+2008,Nou Barris,el Turó de la Peira,43,Western Europe,Male
+2008,Nou Barris,el Turó de la Peira,..,Australia and New Zealand,Male
+2008,Nou Barris,el Turó de la Peira,..,Not available,Male
+2008,Nou Barris,Can Peguera,..,Middle Africa,Male
+2008,Nou Barris,Can Peguera,7,Northern Africa,Female
+2008,Nou Barris,Can Peguera,8,Northern Africa,Male
+2008,Nou Barris,Can Peguera,..,Western Africa,Female
+2008,Nou Barris,Can Peguera,..,Western Africa,Male
+2008,Nou Barris,Can Peguera,..,Central America,Female
+2008,Nou Barris,Can Peguera,..,Central America,Male
+2008,Nou Barris,Can Peguera,45,South America,Female
+2008,Nou Barris,Can Peguera,26,South America,Male
+2008,Nou Barris,Can Peguera,..,Northern America,Female
+2008,Nou Barris,Can Peguera,..,Eastern Asia,Female
+2008,Nou Barris,Can Peguera,..,Eastern Asia,Male
+2008,Nou Barris,Can Peguera,..,Southern Asia,Female
+2008,Nou Barris,Can Peguera,..,Western Asia,Male
+2008,Nou Barris,Can Peguera,..,Eastern Europe,Female
+2008,Nou Barris,Can Peguera,..,Eastern Europe,Male
+2008,Nou Barris,Can Peguera,..,Northern Europe,Female
+2008,Nou Barris,Can Peguera,..,Northern Europe,Male
+2008,Nou Barris,Can Peguera,1058,Southern Europe,Female
+2008,Nou Barris,Can Peguera,959,Southern Europe,Male
+2008,Nou Barris,Can Peguera,9,Western Europe,Female
+2008,Nou Barris,Can Peguera,..,Western Europe,Male
+2008,Nou Barris,la Guineueta,..,Eastern Africa,Female
+2008,Nou Barris,la Guineueta,..,Middle Africa,Male
+2008,Nou Barris,la Guineueta,32,Northern Africa,Female
+2008,Nou Barris,la Guineueta,36,Northern Africa,Male
+2008,Nou Barris,la Guineueta,..,Western Africa,Female
+2008,Nou Barris,la Guineueta,9,Western Africa,Male
+2008,Nou Barris,la Guineueta,46,Caribbean,Female
+2008,Nou Barris,la Guineueta,21,Caribbean,Male
+2008,Nou Barris,la Guineueta,21,Central America,Female
+2008,Nou Barris,la Guineueta,15,Central America,Male
+2008,Nou Barris,la Guineueta,456,South America,Female
+2008,Nou Barris,la Guineueta,400,South America,Male
+2008,Nou Barris,la Guineueta,..,Northern America,Female
+2008,Nou Barris,la Guineueta,5,Northern America,Male
+2008,Nou Barris,la Guineueta,..,Central Asia,Female
+2008,Nou Barris,la Guineueta,..,Central Asia,Male
+2008,Nou Barris,la Guineueta,20,Eastern Asia,Female
+2008,Nou Barris,la Guineueta,19,Eastern Asia,Male
+2008,Nou Barris,la Guineueta,..,Southern Asia,Female
+2008,Nou Barris,la Guineueta,..,Southern Asia,Male
+2008,Nou Barris,la Guineueta,6,South-Eastern Asia,Female
+2008,Nou Barris,la Guineueta,5,South-Eastern Asia,Male
+2008,Nou Barris,la Guineueta,12,Western Asia,Female
+2008,Nou Barris,la Guineueta,10,Western Asia,Male
+2008,Nou Barris,la Guineueta,64,Eastern Europe,Female
+2008,Nou Barris,la Guineueta,51,Eastern Europe,Male
+2008,Nou Barris,la Guineueta,12,Northern Europe,Female
+2008,Nou Barris,la Guineueta,13,Northern Europe,Male
+2008,Nou Barris,la Guineueta,7388,Southern Europe,Female
+2008,Nou Barris,la Guineueta,6653,Southern Europe,Male
+2008,Nou Barris,la Guineueta,61,Western Europe,Female
+2008,Nou Barris,la Guineueta,52,Western Europe,Male
+2008,Nou Barris,la Guineueta,..,Not available,Male
+2008,Nou Barris,Canyelles,..,Eastern Africa,Female
+2008,Nou Barris,Canyelles,..,Middle Africa,Female
+2008,Nou Barris,Canyelles,..,Middle Africa,Male
+2008,Nou Barris,Canyelles,13,Northern Africa,Female
+2008,Nou Barris,Canyelles,32,Northern Africa,Male
+2008,Nou Barris,Canyelles,8,Western Africa,Female
+2008,Nou Barris,Canyelles,9,Western Africa,Male
+2008,Nou Barris,Canyelles,22,Caribbean,Female
+2008,Nou Barris,Canyelles,14,Caribbean,Male
+2008,Nou Barris,Canyelles,17,Central America,Female
+2008,Nou Barris,Canyelles,7,Central America,Male
+2008,Nou Barris,Canyelles,147,South America,Female
+2008,Nou Barris,Canyelles,127,South America,Male
+2008,Nou Barris,Canyelles,..,Eastern Asia,Female
+2008,Nou Barris,Canyelles,..,Southern Asia,Male
+2008,Nou Barris,Canyelles,6,Western Asia,Female
+2008,Nou Barris,Canyelles,13,Western Asia,Male
+2008,Nou Barris,Canyelles,22,Eastern Europe,Female
+2008,Nou Barris,Canyelles,16,Eastern Europe,Male
+2008,Nou Barris,Canyelles,5,Northern Europe,Female
+2008,Nou Barris,Canyelles,..,Northern Europe,Male
+2008,Nou Barris,Canyelles,3599,Southern Europe,Female
+2008,Nou Barris,Canyelles,3349,Southern Europe,Male
+2008,Nou Barris,Canyelles,22,Western Europe,Female
+2008,Nou Barris,Canyelles,29,Western Europe,Male
+2008,Nou Barris,Canyelles,..,Australia and New Zealand,Female
+2008,Nou Barris,les Roquetes,30,Middle Africa,Female
+2008,Nou Barris,les Roquetes,12,Middle Africa,Male
+2008,Nou Barris,les Roquetes,72,Northern Africa,Female
+2008,Nou Barris,les Roquetes,138,Northern Africa,Male
+2008,Nou Barris,les Roquetes,55,Western Africa,Female
+2008,Nou Barris,les Roquetes,57,Western Africa,Male
+2008,Nou Barris,les Roquetes,106,Caribbean,Female
+2008,Nou Barris,les Roquetes,64,Caribbean,Male
+2008,Nou Barris,les Roquetes,236,Central America,Female
+2008,Nou Barris,les Roquetes,142,Central America,Male
+2008,Nou Barris,les Roquetes,851,South America,Female
+2008,Nou Barris,les Roquetes,818,South America,Male
+2008,Nou Barris,les Roquetes,..,Northern America,Female
+2008,Nou Barris,les Roquetes,..,Northern America,Male
+2008,Nou Barris,les Roquetes,..,Central Asia,Male
+2008,Nou Barris,les Roquetes,42,Eastern Asia,Female
+2008,Nou Barris,les Roquetes,49,Eastern Asia,Male
+2008,Nou Barris,les Roquetes,33,Southern Asia,Female
+2008,Nou Barris,les Roquetes,274,Southern Asia,Male
+2008,Nou Barris,les Roquetes,13,South-Eastern Asia,Female
+2008,Nou Barris,les Roquetes,6,South-Eastern Asia,Male
+2008,Nou Barris,les Roquetes,9,Western Asia,Female
+2008,Nou Barris,les Roquetes,26,Western Asia,Male
+2008,Nou Barris,les Roquetes,155,Eastern Europe,Female
+2008,Nou Barris,les Roquetes,182,Eastern Europe,Male
+2008,Nou Barris,les Roquetes,12,Northern Europe,Female
+2008,Nou Barris,les Roquetes,14,Northern Europe,Male
+2008,Nou Barris,les Roquetes,6400,Southern Europe,Female
+2008,Nou Barris,les Roquetes,6051,Southern Europe,Male
+2008,Nou Barris,les Roquetes,47,Western Europe,Female
+2008,Nou Barris,les Roquetes,39,Western Europe,Male
+2008,Nou Barris,les Roquetes,..,Not available,Female
+2008,Nou Barris,Verdun,14,Middle Africa,Female
+2008,Nou Barris,Verdun,8,Middle Africa,Male
+2008,Nou Barris,Verdun,41,Northern Africa,Female
+2008,Nou Barris,Verdun,40,Northern Africa,Male
+2008,Nou Barris,Verdun,25,Western Africa,Female
+2008,Nou Barris,Verdun,21,Western Africa,Male
+2008,Nou Barris,Verdun,84,Caribbean,Female
+2008,Nou Barris,Verdun,45,Caribbean,Male
+2008,Nou Barris,Verdun,107,Central America,Female
+2008,Nou Barris,Verdun,87,Central America,Male
+2008,Nou Barris,Verdun,643,South America,Female
+2008,Nou Barris,Verdun,580,South America,Male
+2008,Nou Barris,Verdun,..,Northern America,Female
+2008,Nou Barris,Verdun,..,Northern America,Male
+2008,Nou Barris,Verdun,52,Eastern Asia,Female
+2008,Nou Barris,Verdun,57,Eastern Asia,Male
+2008,Nou Barris,Verdun,8,Southern Asia,Female
+2008,Nou Barris,Verdun,67,Southern Asia,Male
+2008,Nou Barris,Verdun,9,South-Eastern Asia,Female
+2008,Nou Barris,Verdun,..,South-Eastern Asia,Male
+2008,Nou Barris,Verdun,42,Western Asia,Female
+2008,Nou Barris,Verdun,76,Western Asia,Male
+2008,Nou Barris,Verdun,95,Eastern Europe,Female
+2008,Nou Barris,Verdun,74,Eastern Europe,Male
+2008,Nou Barris,Verdun,..,Northern Europe,Female
+2008,Nou Barris,Verdun,7,Northern Europe,Male
+2008,Nou Barris,Verdun,5322,Southern Europe,Female
+2008,Nou Barris,Verdun,4811,Southern Europe,Male
+2008,Nou Barris,Verdun,42,Western Europe,Female
+2008,Nou Barris,Verdun,36,Western Europe,Male
+2008,Nou Barris,Verdun,..,Not available,Male
+2008,Nou Barris,la Prosperitat,..,Eastern Africa,Female
+2008,Nou Barris,la Prosperitat,8,Middle Africa,Female
+2008,Nou Barris,la Prosperitat,5,Middle Africa,Male
+2008,Nou Barris,la Prosperitat,96,Northern Africa,Female
+2008,Nou Barris,la Prosperitat,161,Northern Africa,Male
+2008,Nou Barris,la Prosperitat,35,Western Africa,Female
+2008,Nou Barris,la Prosperitat,40,Western Africa,Male
+2008,Nou Barris,la Prosperitat,99,Caribbean,Female
+2008,Nou Barris,la Prosperitat,52,Caribbean,Male
+2008,Nou Barris,la Prosperitat,96,Central America,Female
+2008,Nou Barris,la Prosperitat,78,Central America,Male
+2008,Nou Barris,la Prosperitat,1255,South America,Female
+2008,Nou Barris,la Prosperitat,1129,South America,Male
+2008,Nou Barris,la Prosperitat,..,Northern America,Female
+2008,Nou Barris,la Prosperitat,8,Northern America,Male
+2008,Nou Barris,la Prosperitat,102,Eastern Asia,Female
+2008,Nou Barris,la Prosperitat,104,Eastern Asia,Male
+2008,Nou Barris,la Prosperitat,5,Southern Asia,Female
+2008,Nou Barris,la Prosperitat,132,Southern Asia,Male
+2008,Nou Barris,la Prosperitat,16,South-Eastern Asia,Female
+2008,Nou Barris,la Prosperitat,12,South-Eastern Asia,Male
+2008,Nou Barris,la Prosperitat,92,Western Asia,Female
+2008,Nou Barris,la Prosperitat,164,Western Asia,Male
+2008,Nou Barris,la Prosperitat,157,Eastern Europe,Female
+2008,Nou Barris,la Prosperitat,133,Eastern Europe,Male
+2008,Nou Barris,la Prosperitat,8,Northern Europe,Female
+2008,Nou Barris,la Prosperitat,18,Northern Europe,Male
+2008,Nou Barris,la Prosperitat,11743,Southern Europe,Female
+2008,Nou Barris,la Prosperitat,10700,Southern Europe,Male
+2008,Nou Barris,la Prosperitat,91,Western Europe,Female
+2008,Nou Barris,la Prosperitat,89,Western Europe,Male
+2008,Nou Barris,la Prosperitat,..,Australia and New Zealand,Female
+2008,Nou Barris,la Prosperitat,..,Not available,Male
+2008,Nou Barris,la Trinitat Nova,9,Middle Africa,Female
+2008,Nou Barris,la Trinitat Nova,..,Middle Africa,Male
+2008,Nou Barris,la Trinitat Nova,39,Northern Africa,Female
+2008,Nou Barris,la Trinitat Nova,85,Northern Africa,Male
+2008,Nou Barris,la Trinitat Nova,..,Southern Africa,Female
+2008,Nou Barris,la Trinitat Nova,27,Western Africa,Female
+2008,Nou Barris,la Trinitat Nova,75,Western Africa,Male
+2008,Nou Barris,la Trinitat Nova,49,Caribbean,Female
+2008,Nou Barris,la Trinitat Nova,29,Caribbean,Male
+2008,Nou Barris,la Trinitat Nova,45,Central America,Female
+2008,Nou Barris,la Trinitat Nova,32,Central America,Male
+2008,Nou Barris,la Trinitat Nova,418,South America,Female
+2008,Nou Barris,la Trinitat Nova,385,South America,Male
+2008,Nou Barris,la Trinitat Nova,30,Eastern Asia,Female
+2008,Nou Barris,la Trinitat Nova,26,Eastern Asia,Male
+2008,Nou Barris,la Trinitat Nova,44,Southern Asia,Female
+2008,Nou Barris,la Trinitat Nova,131,Southern Asia,Male
+2008,Nou Barris,la Trinitat Nova,..,South-Eastern Asia,Female
+2008,Nou Barris,la Trinitat Nova,64,Western Asia,Female
+2008,Nou Barris,la Trinitat Nova,85,Western Asia,Male
+2008,Nou Barris,la Trinitat Nova,53,Eastern Europe,Female
+2008,Nou Barris,la Trinitat Nova,46,Eastern Europe,Male
+2008,Nou Barris,la Trinitat Nova,5,Northern Europe,Female
+2008,Nou Barris,la Trinitat Nova,5,Northern Europe,Male
+2008,Nou Barris,la Trinitat Nova,3392,Southern Europe,Female
+2008,Nou Barris,la Trinitat Nova,2942,Southern Europe,Male
+2008,Nou Barris,la Trinitat Nova,26,Western Europe,Female
+2008,Nou Barris,la Trinitat Nova,30,Western Europe,Male
+2008,Nou Barris,Torre Baró,23,Northern Africa,Female
+2008,Nou Barris,Torre Baró,25,Northern Africa,Male
+2008,Nou Barris,Torre Baró,..,Western Africa,Male
+2008,Nou Barris,Torre Baró,8,Caribbean,Female
+2008,Nou Barris,Torre Baró,6,Caribbean,Male
+2008,Nou Barris,Torre Baró,6,Central America,Female
+2008,Nou Barris,Torre Baró,6,Central America,Male
+2008,Nou Barris,Torre Baró,49,South America,Female
+2008,Nou Barris,Torre Baró,38,South America,Male
+2008,Nou Barris,Torre Baró,..,Eastern Asia,Female
+2008,Nou Barris,Torre Baró,11,Eastern Asia,Male
+2008,Nou Barris,Torre Baró,..,Southern Asia,Female
+2008,Nou Barris,Torre Baró,6,Southern Asia,Male
+2008,Nou Barris,Torre Baró,..,Western Asia,Male
+2008,Nou Barris,Torre Baró,11,Eastern Europe,Female
+2008,Nou Barris,Torre Baró,17,Eastern Europe,Male
+2008,Nou Barris,Torre Baró,..,Northern Europe,Female
+2008,Nou Barris,Torre Baró,..,Northern Europe,Male
+2008,Nou Barris,Torre Baró,958,Southern Europe,Female
+2008,Nou Barris,Torre Baró,970,Southern Europe,Male
+2008,Nou Barris,Torre Baró,..,Western Europe,Female
+2008,Nou Barris,Torre Baró,..,Western Europe,Male
+2008,Nou Barris,Ciutat Meridiana,10,Middle Africa,Female
+2008,Nou Barris,Ciutat Meridiana,10,Middle Africa,Male
+2008,Nou Barris,Ciutat Meridiana,116,Northern Africa,Female
+2008,Nou Barris,Ciutat Meridiana,282,Northern Africa,Male
+2008,Nou Barris,Ciutat Meridiana,169,Western Africa,Female
+2008,Nou Barris,Ciutat Meridiana,363,Western Africa,Male
+2008,Nou Barris,Ciutat Meridiana,237,Caribbean,Female
+2008,Nou Barris,Ciutat Meridiana,209,Caribbean,Male
+2008,Nou Barris,Ciutat Meridiana,196,Central America,Female
+2008,Nou Barris,Ciutat Meridiana,107,Central America,Male
+2008,Nou Barris,Ciutat Meridiana,901,South America,Female
+2008,Nou Barris,Ciutat Meridiana,891,South America,Male
+2008,Nou Barris,Ciutat Meridiana,..,Northern America,Female
+2008,Nou Barris,Ciutat Meridiana,..,Northern America,Male
+2008,Nou Barris,Ciutat Meridiana,..,Central Asia,Male
+2008,Nou Barris,Ciutat Meridiana,..,Eastern Asia,Female
+2008,Nou Barris,Ciutat Meridiana,44,Southern Asia,Female
+2008,Nou Barris,Ciutat Meridiana,344,Southern Asia,Male
+2008,Nou Barris,Ciutat Meridiana,..,South-Eastern Asia,Female
+2008,Nou Barris,Ciutat Meridiana,..,South-Eastern Asia,Male
+2008,Nou Barris,Ciutat Meridiana,17,Western Asia,Female
+2008,Nou Barris,Ciutat Meridiana,20,Western Asia,Male
+2008,Nou Barris,Ciutat Meridiana,85,Eastern Europe,Female
+2008,Nou Barris,Ciutat Meridiana,98,Eastern Europe,Male
+2008,Nou Barris,Ciutat Meridiana,9,Northern Europe,Female
+2008,Nou Barris,Ciutat Meridiana,..,Northern Europe,Male
+2008,Nou Barris,Ciutat Meridiana,3563,Southern Europe,Female
+2008,Nou Barris,Ciutat Meridiana,3401,Southern Europe,Male
+2008,Nou Barris,Ciutat Meridiana,28,Western Europe,Female
+2008,Nou Barris,Ciutat Meridiana,20,Western Europe,Male
+2008,Nou Barris,Ciutat Meridiana,..,Australia and New Zealand,Male
+2008,Nou Barris,Ciutat Meridiana,..,Not available,Male
+2008,Nou Barris,Vallbona,17,Northern Africa,Female
+2008,Nou Barris,Vallbona,17,Northern Africa,Male
+2008,Nou Barris,Vallbona,..,Western Africa,Female
+2008,Nou Barris,Vallbona,..,Western Africa,Male
+2008,Nou Barris,Vallbona,..,Caribbean,Female
+2008,Nou Barris,Vallbona,..,Caribbean,Male
+2008,Nou Barris,Vallbona,29,South America,Female
+2008,Nou Barris,Vallbona,20,South America,Male
+2008,Nou Barris,Vallbona,5,Eastern Asia,Female
+2008,Nou Barris,Vallbona,..,Eastern Asia,Male
+2008,Nou Barris,Vallbona,11,Southern Asia,Female
+2008,Nou Barris,Vallbona,18,Southern Asia,Male
+2008,Nou Barris,Vallbona,..,Western Asia,Female
+2008,Nou Barris,Vallbona,9,Eastern Europe,Female
+2008,Nou Barris,Vallbona,12,Eastern Europe,Male
+2008,Nou Barris,Vallbona,..,Northern Europe,Male
+2008,Nou Barris,Vallbona,595,Southern Europe,Female
+2008,Nou Barris,Vallbona,564,Southern Europe,Male
+2008,Nou Barris,Vallbona,6,Western Europe,Female
+2008,Nou Barris,Vallbona,5,Western Europe,Male
+2008,Sant Andreu,la Trinitat Vella,..,Eastern Africa,Male
+2008,Sant Andreu,la Trinitat Vella,8,Middle Africa,Female
+2008,Sant Andreu,la Trinitat Vella,8,Middle Africa,Male
+2008,Sant Andreu,la Trinitat Vella,218,Northern Africa,Female
+2008,Sant Andreu,la Trinitat Vella,376,Northern Africa,Male
+2008,Sant Andreu,la Trinitat Vella,..,Southern Africa,Male
+2008,Sant Andreu,la Trinitat Vella,42,Western Africa,Female
+2008,Sant Andreu,la Trinitat Vella,113,Western Africa,Male
+2008,Sant Andreu,la Trinitat Vella,102,Caribbean,Female
+2008,Sant Andreu,la Trinitat Vella,71,Caribbean,Male
+2008,Sant Andreu,la Trinitat Vella,36,Central America,Female
+2008,Sant Andreu,la Trinitat Vella,27,Central America,Male
+2008,Sant Andreu,la Trinitat Vella,752,South America,Female
+2008,Sant Andreu,la Trinitat Vella,703,South America,Male
+2008,Sant Andreu,la Trinitat Vella,..,Northern America,Female
+2008,Sant Andreu,la Trinitat Vella,..,Northern America,Male
+2008,Sant Andreu,la Trinitat Vella,..,Central Asia,Female
+2008,Sant Andreu,la Trinitat Vella,5,Central Asia,Male
+2008,Sant Andreu,la Trinitat Vella,10,Eastern Asia,Female
+2008,Sant Andreu,la Trinitat Vella,12,Eastern Asia,Male
+2008,Sant Andreu,la Trinitat Vella,58,Southern Asia,Female
+2008,Sant Andreu,la Trinitat Vella,726,Southern Asia,Male
+2008,Sant Andreu,la Trinitat Vella,11,South-Eastern Asia,Female
+2008,Sant Andreu,la Trinitat Vella,7,South-Eastern Asia,Male
+2008,Sant Andreu,la Trinitat Vella,22,Western Asia,Female
+2008,Sant Andreu,la Trinitat Vella,56,Western Asia,Male
+2008,Sant Andreu,la Trinitat Vella,83,Eastern Europe,Female
+2008,Sant Andreu,la Trinitat Vella,87,Eastern Europe,Male
+2008,Sant Andreu,la Trinitat Vella,..,Northern Europe,Female
+2008,Sant Andreu,la Trinitat Vella,..,Northern Europe,Male
+2008,Sant Andreu,la Trinitat Vella,3391,Southern Europe,Female
+2008,Sant Andreu,la Trinitat Vella,3290,Southern Europe,Male
+2008,Sant Andreu,la Trinitat Vella,19,Western Europe,Female
+2008,Sant Andreu,la Trinitat Vella,28,Western Europe,Male
+2008,Sant Andreu,la Trinitat Vella,..,Australia and New Zealand,Female
+2008,Sant Andreu,Baró de Viver,..,Middle Africa,Female
+2008,Sant Andreu,Baró de Viver,..,Middle Africa,Male
+2008,Sant Andreu,Baró de Viver,20,Northern Africa,Female
+2008,Sant Andreu,Baró de Viver,28,Northern Africa,Male
+2008,Sant Andreu,Baró de Viver,5,Western Africa,Female
+2008,Sant Andreu,Baró de Viver,..,Western Africa,Male
+2008,Sant Andreu,Baró de Viver,6,Caribbean,Female
+2008,Sant Andreu,Baró de Viver,..,Caribbean,Male
+2008,Sant Andreu,Baró de Viver,..,Central America,Female
+2008,Sant Andreu,Baró de Viver,45,South America,Female
+2008,Sant Andreu,Baró de Viver,32,South America,Male
+2008,Sant Andreu,Baró de Viver,5,Southern Asia,Female
+2008,Sant Andreu,Baró de Viver,14,Southern Asia,Male
+2008,Sant Andreu,Baró de Viver,..,South-Eastern Asia,Female
+2008,Sant Andreu,Baró de Viver,..,South-Eastern Asia,Male
+2008,Sant Andreu,Baró de Viver,5,Western Asia,Female
+2008,Sant Andreu,Baró de Viver,5,Western Asia,Male
+2008,Sant Andreu,Baró de Viver,7,Eastern Europe,Female
+2008,Sant Andreu,Baró de Viver,6,Eastern Europe,Male
+2008,Sant Andreu,Baró de Viver,..,Northern Europe,Female
+2008,Sant Andreu,Baró de Viver,1178,Southern Europe,Female
+2008,Sant Andreu,Baró de Viver,1060,Southern Europe,Male
+2008,Sant Andreu,Baró de Viver,11,Western Europe,Female
+2008,Sant Andreu,Baró de Viver,9,Western Europe,Male
+2008,Sant Andreu,el Bon Pastor,..,Eastern Africa,Female
+2008,Sant Andreu,el Bon Pastor,..,Eastern Africa,Male
+2008,Sant Andreu,el Bon Pastor,..,Middle Africa,Male
+2008,Sant Andreu,el Bon Pastor,85,Northern Africa,Female
+2008,Sant Andreu,el Bon Pastor,120,Northern Africa,Male
+2008,Sant Andreu,el Bon Pastor,..,Southern Africa,Female
+2008,Sant Andreu,el Bon Pastor,14,Western Africa,Female
+2008,Sant Andreu,el Bon Pastor,75,Western Africa,Male
+2008,Sant Andreu,el Bon Pastor,33,Caribbean,Female
+2008,Sant Andreu,el Bon Pastor,21,Caribbean,Male
+2008,Sant Andreu,el Bon Pastor,51,Central America,Female
+2008,Sant Andreu,el Bon Pastor,28,Central America,Male
+2008,Sant Andreu,el Bon Pastor,642,South America,Female
+2008,Sant Andreu,el Bon Pastor,627,South America,Male
+2008,Sant Andreu,el Bon Pastor,..,Northern America,Female
+2008,Sant Andreu,el Bon Pastor,5,Northern America,Male
+2008,Sant Andreu,el Bon Pastor,..,Central Asia,Female
+2008,Sant Andreu,el Bon Pastor,..,Central Asia,Male
+2008,Sant Andreu,el Bon Pastor,75,Eastern Asia,Female
+2008,Sant Andreu,el Bon Pastor,78,Eastern Asia,Male
+2008,Sant Andreu,el Bon Pastor,18,Southern Asia,Female
+2008,Sant Andreu,el Bon Pastor,367,Southern Asia,Male
+2008,Sant Andreu,el Bon Pastor,10,South-Eastern Asia,Female
+2008,Sant Andreu,el Bon Pastor,5,South-Eastern Asia,Male
+2008,Sant Andreu,el Bon Pastor,38,Western Asia,Female
+2008,Sant Andreu,el Bon Pastor,68,Western Asia,Male
+2008,Sant Andreu,el Bon Pastor,101,Eastern Europe,Female
+2008,Sant Andreu,el Bon Pastor,85,Eastern Europe,Male
+2008,Sant Andreu,el Bon Pastor,5,Northern Europe,Female
+2008,Sant Andreu,el Bon Pastor,10,Northern Europe,Male
+2008,Sant Andreu,el Bon Pastor,5292,Southern Europe,Female
+2008,Sant Andreu,el Bon Pastor,5134,Southern Europe,Male
+2008,Sant Andreu,el Bon Pastor,44,Western Europe,Female
+2008,Sant Andreu,el Bon Pastor,44,Western Europe,Male
+2008,Sant Andreu,Sant Andreu,8,Eastern Africa,Female
+2008,Sant Andreu,Sant Andreu,..,Eastern Africa,Male
+2008,Sant Andreu,Sant Andreu,14,Middle Africa,Female
+2008,Sant Andreu,Sant Andreu,11,Middle Africa,Male
+2008,Sant Andreu,Sant Andreu,174,Northern Africa,Female
+2008,Sant Andreu,Sant Andreu,210,Northern Africa,Male
+2008,Sant Andreu,Sant Andreu,19,Western Africa,Female
+2008,Sant Andreu,Sant Andreu,40,Western Africa,Male
+2008,Sant Andreu,Sant Andreu,201,Caribbean,Female
+2008,Sant Andreu,Sant Andreu,113,Caribbean,Male
+2008,Sant Andreu,Sant Andreu,79,Central America,Female
+2008,Sant Andreu,Sant Andreu,54,Central America,Male
+2008,Sant Andreu,Sant Andreu,1665,South America,Female
+2008,Sant Andreu,Sant Andreu,1364,South America,Male
+2008,Sant Andreu,Sant Andreu,11,Northern America,Female
+2008,Sant Andreu,Sant Andreu,14,Northern America,Male
+2008,Sant Andreu,Sant Andreu,..,Central Asia,Female
+2008,Sant Andreu,Sant Andreu,..,Central Asia,Male
+2008,Sant Andreu,Sant Andreu,179,Eastern Asia,Female
+2008,Sant Andreu,Sant Andreu,167,Eastern Asia,Male
+2008,Sant Andreu,Sant Andreu,24,Southern Asia,Female
+2008,Sant Andreu,Sant Andreu,148,Southern Asia,Male
+2008,Sant Andreu,Sant Andreu,16,South-Eastern Asia,Female
+2008,Sant Andreu,Sant Andreu,12,South-Eastern Asia,Male
+2008,Sant Andreu,Sant Andreu,45,Western Asia,Female
+2008,Sant Andreu,Sant Andreu,98,Western Asia,Male
+2008,Sant Andreu,Sant Andreu,206,Eastern Europe,Female
+2008,Sant Andreu,Sant Andreu,181,Eastern Europe,Male
+2008,Sant Andreu,Sant Andreu,39,Northern Europe,Female
+2008,Sant Andreu,Sant Andreu,40,Northern Europe,Male
+2008,Sant Andreu,Sant Andreu,26283,Southern Europe,Female
+2008,Sant Andreu,Sant Andreu,23684,Southern Europe,Male
+2008,Sant Andreu,Sant Andreu,270,Western Europe,Female
+2008,Sant Andreu,Sant Andreu,209,Western Europe,Male
+2008,Sant Andreu,Sant Andreu,..,Australia and New Zealand,Male
+2008,Sant Andreu,Sant Andreu,..,Not available,Female
+2008,Sant Andreu,la Sagrera,..,Eastern Africa,Female
+2008,Sant Andreu,la Sagrera,..,Eastern Africa,Male
+2008,Sant Andreu,la Sagrera,8,Middle Africa,Female
+2008,Sant Andreu,la Sagrera,11,Middle Africa,Male
+2008,Sant Andreu,la Sagrera,94,Northern Africa,Female
+2008,Sant Andreu,la Sagrera,119,Northern Africa,Male
+2008,Sant Andreu,la Sagrera,13,Western Africa,Female
+2008,Sant Andreu,la Sagrera,32,Western Africa,Male
+2008,Sant Andreu,la Sagrera,160,Caribbean,Female
+2008,Sant Andreu,la Sagrera,90,Caribbean,Male
+2008,Sant Andreu,la Sagrera,86,Central America,Female
+2008,Sant Andreu,la Sagrera,46,Central America,Male
+2008,Sant Andreu,la Sagrera,1462,South America,Female
+2008,Sant Andreu,la Sagrera,1170,South America,Male
+2008,Sant Andreu,la Sagrera,14,Northern America,Female
+2008,Sant Andreu,la Sagrera,12,Northern America,Male
+2008,Sant Andreu,la Sagrera,..,Central Asia,Female
+2008,Sant Andreu,la Sagrera,..,Central Asia,Male
+2008,Sant Andreu,la Sagrera,114,Eastern Asia,Female
+2008,Sant Andreu,la Sagrera,102,Eastern Asia,Male
+2008,Sant Andreu,la Sagrera,8,Southern Asia,Female
+2008,Sant Andreu,la Sagrera,35,Southern Asia,Male
+2008,Sant Andreu,la Sagrera,19,South-Eastern Asia,Female
+2008,Sant Andreu,la Sagrera,12,South-Eastern Asia,Male
+2008,Sant Andreu,la Sagrera,30,Western Asia,Female
+2008,Sant Andreu,la Sagrera,53,Western Asia,Male
+2008,Sant Andreu,la Sagrera,119,Eastern Europe,Female
+2008,Sant Andreu,la Sagrera,127,Eastern Europe,Male
+2008,Sant Andreu,la Sagrera,21,Northern Europe,Female
+2008,Sant Andreu,la Sagrera,19,Northern Europe,Male
+2008,Sant Andreu,la Sagrera,12886,Southern Europe,Female
+2008,Sant Andreu,la Sagrera,11622,Southern Europe,Male
+2008,Sant Andreu,la Sagrera,106,Western Europe,Female
+2008,Sant Andreu,la Sagrera,106,Western Europe,Male
+2008,Sant Andreu,la Sagrera,..,Australia and New Zealand,Male
+2008,Sant Andreu,la Sagrera,..,Not available,Female
+2008,Sant Andreu,la Sagrera,..,Not available,Male
+2008,Sant Andreu,el Congrés i els Indians,..,Eastern Africa,Female
+2008,Sant Andreu,el Congrés i els Indians,..,Eastern Africa,Male
+2008,Sant Andreu,el Congrés i els Indians,..,Middle Africa,Female
+2008,Sant Andreu,el Congrés i els Indians,..,Middle Africa,Male
+2008,Sant Andreu,el Congrés i els Indians,50,Northern Africa,Female
+2008,Sant Andreu,el Congrés i els Indians,53,Northern Africa,Male
+2008,Sant Andreu,el Congrés i els Indians,..,Southern Africa,Male
+2008,Sant Andreu,el Congrés i els Indians,8,Western Africa,Female
+2008,Sant Andreu,el Congrés i els Indians,24,Western Africa,Male
+2008,Sant Andreu,el Congrés i els Indians,76,Caribbean,Female
+2008,Sant Andreu,el Congrés i els Indians,49,Caribbean,Male
+2008,Sant Andreu,el Congrés i els Indians,40,Central America,Female
+2008,Sant Andreu,el Congrés i els Indians,24,Central America,Male
+2008,Sant Andreu,el Congrés i els Indians,636,South America,Female
+2008,Sant Andreu,el Congrés i els Indians,512,South America,Male
+2008,Sant Andreu,el Congrés i els Indians,8,Northern America,Female
+2008,Sant Andreu,el Congrés i els Indians,6,Northern America,Male
+2008,Sant Andreu,el Congrés i els Indians,52,Eastern Asia,Female
+2008,Sant Andreu,el Congrés i els Indians,53,Eastern Asia,Male
+2008,Sant Andreu,el Congrés i els Indians,..,Southern Asia,Female
+2008,Sant Andreu,el Congrés i els Indians,22,Southern Asia,Male
+2008,Sant Andreu,el Congrés i els Indians,..,South-Eastern Asia,Female
+2008,Sant Andreu,el Congrés i els Indians,..,South-Eastern Asia,Male
+2008,Sant Andreu,el Congrés i els Indians,13,Western Asia,Female
+2008,Sant Andreu,el Congrés i els Indians,29,Western Asia,Male
+2008,Sant Andreu,el Congrés i els Indians,108,Eastern Europe,Female
+2008,Sant Andreu,el Congrés i els Indians,106,Eastern Europe,Male
+2008,Sant Andreu,el Congrés i els Indians,11,Northern Europe,Female
+2008,Sant Andreu,el Congrés i els Indians,14,Northern Europe,Male
+2008,Sant Andreu,el Congrés i els Indians,6534,Southern Europe,Female
+2008,Sant Andreu,el Congrés i els Indians,5423,Southern Europe,Male
+2008,Sant Andreu,el Congrés i els Indians,61,Western Europe,Female
+2008,Sant Andreu,el Congrés i els Indians,59,Western Europe,Male
+2008,Sant Andreu,el Congrés i els Indians,..,Australia and New Zealand,Female
+2008,Sant Andreu,el Congrés i els Indians,..,Australia and New Zealand,Male
+2008,Sant Andreu,el Congrés i els Indians,..,Not available,Female
+2008,Sant Andreu,el Congrés i els Indians,..,Not available,Male
+2008,Sant Andreu,Navas,..,Eastern Africa,Female
+2008,Sant Andreu,Navas,..,Eastern Africa,Male
+2008,Sant Andreu,Navas,8,Middle Africa,Female
+2008,Sant Andreu,Navas,8,Middle Africa,Male
+2008,Sant Andreu,Navas,46,Northern Africa,Female
+2008,Sant Andreu,Navas,60,Northern Africa,Male
+2008,Sant Andreu,Navas,..,Southern Africa,Female
+2008,Sant Andreu,Navas,..,Southern Africa,Male
+2008,Sant Andreu,Navas,23,Western Africa,Female
+2008,Sant Andreu,Navas,29,Western Africa,Male
+2008,Sant Andreu,Navas,99,Caribbean,Female
+2008,Sant Andreu,Navas,74,Caribbean,Male
+2008,Sant Andreu,Navas,45,Central America,Female
+2008,Sant Andreu,Navas,41,Central America,Male
+2008,Sant Andreu,Navas,1039,South America,Female
+2008,Sant Andreu,Navas,860,South America,Male
+2008,Sant Andreu,Navas,12,Northern America,Female
+2008,Sant Andreu,Navas,6,Northern America,Male
+2008,Sant Andreu,Navas,..,Central Asia,Female
+2008,Sant Andreu,Navas,..,Central Asia,Male
+2008,Sant Andreu,Navas,149,Eastern Asia,Female
+2008,Sant Andreu,Navas,160,Eastern Asia,Male
+2008,Sant Andreu,Navas,11,Southern Asia,Female
+2008,Sant Andreu,Navas,64,Southern Asia,Male
+2008,Sant Andreu,Navas,21,South-Eastern Asia,Female
+2008,Sant Andreu,Navas,13,South-Eastern Asia,Male
+2008,Sant Andreu,Navas,43,Western Asia,Female
+2008,Sant Andreu,Navas,57,Western Asia,Male
+2008,Sant Andreu,Navas,113,Eastern Europe,Female
+2008,Sant Andreu,Navas,77,Eastern Europe,Male
+2008,Sant Andreu,Navas,21,Northern Europe,Female
+2008,Sant Andreu,Navas,27,Northern Europe,Male
+2008,Sant Andreu,Navas,9831,Southern Europe,Female
+2008,Sant Andreu,Navas,8447,Southern Europe,Male
+2008,Sant Andreu,Navas,97,Western Europe,Female
+2008,Sant Andreu,Navas,92,Western Europe,Male
+2008,Sant Andreu,Navas,..,Australia and New Zealand,Female
+2008,Sant Andreu,Navas,11,Not available,Female
+2008,Sant Andreu,Navas,8,Not available,Male
+2008,Sant Martí,el Camp de l'Arpa del Clot,..,Eastern Africa,Female
+2008,Sant Martí,el Camp de l'Arpa del Clot,5,Eastern Africa,Male
+2008,Sant Martí,el Camp de l'Arpa del Clot,7,Middle Africa,Female
+2008,Sant Martí,el Camp de l'Arpa del Clot,11,Middle Africa,Male
+2008,Sant Martí,el Camp de l'Arpa del Clot,132,Northern Africa,Female
+2008,Sant Martí,el Camp de l'Arpa del Clot,267,Northern Africa,Male
+2008,Sant Martí,el Camp de l'Arpa del Clot,15,Western Africa,Female
+2008,Sant Martí,el Camp de l'Arpa del Clot,69,Western Africa,Male
+2008,Sant Martí,el Camp de l'Arpa del Clot,228,Caribbean,Female
+2008,Sant Martí,el Camp de l'Arpa del Clot,140,Caribbean,Male
+2008,Sant Martí,el Camp de l'Arpa del Clot,131,Central America,Female
+2008,Sant Martí,el Camp de l'Arpa del Clot,90,Central America,Male
+2008,Sant Martí,el Camp de l'Arpa del Clot,2148,South America,Female
+2008,Sant Martí,el Camp de l'Arpa del Clot,1849,South America,Male
+2008,Sant Martí,el Camp de l'Arpa del Clot,28,Northern America,Female
+2008,Sant Martí,el Camp de l'Arpa del Clot,22,Northern America,Male
+2008,Sant Martí,el Camp de l'Arpa del Clot,197,Eastern Asia,Female
+2008,Sant Martí,el Camp de l'Arpa del Clot,203,Eastern Asia,Male
+2008,Sant Martí,el Camp de l'Arpa del Clot,18,Southern Asia,Female
+2008,Sant Martí,el Camp de l'Arpa del Clot,118,Southern Asia,Male
+2008,Sant Martí,el Camp de l'Arpa del Clot,31,South-Eastern Asia,Female
+2008,Sant Martí,el Camp de l'Arpa del Clot,16,South-Eastern Asia,Male
+2008,Sant Martí,el Camp de l'Arpa del Clot,44,Western Asia,Female
+2008,Sant Martí,el Camp de l'Arpa del Clot,76,Western Asia,Male
+2008,Sant Martí,el Camp de l'Arpa del Clot,226,Eastern Europe,Female
+2008,Sant Martí,el Camp de l'Arpa del Clot,191,Eastern Europe,Male
+2008,Sant Martí,el Camp de l'Arpa del Clot,77,Northern Europe,Female
+2008,Sant Martí,el Camp de l'Arpa del Clot,75,Northern Europe,Male
+2008,Sant Martí,el Camp de l'Arpa del Clot,16960,Southern Europe,Female
+2008,Sant Martí,el Camp de l'Arpa del Clot,14910,Southern Europe,Male
+2008,Sant Martí,el Camp de l'Arpa del Clot,239,Western Europe,Female
+2008,Sant Martí,el Camp de l'Arpa del Clot,240,Western Europe,Male
+2008,Sant Martí,el Camp de l'Arpa del Clot,..,Australia and New Zealand,Female
+2008,Sant Martí,el Camp de l'Arpa del Clot,..,Australia and New Zealand,Male
+2008,Sant Martí,el Camp de l'Arpa del Clot,10,Not available,Female
+2008,Sant Martí,el Camp de l'Arpa del Clot,..,Not available,Male
+2008,Sant Martí,el Clot,5,Eastern Africa,Female
+2008,Sant Martí,el Clot,9,Eastern Africa,Male
+2008,Sant Martí,el Clot,7,Middle Africa,Female
+2008,Sant Martí,el Clot,11,Middle Africa,Male
+2008,Sant Martí,el Clot,129,Northern Africa,Female
+2008,Sant Martí,el Clot,185,Northern Africa,Male
+2008,Sant Martí,el Clot,..,Southern Africa,Female
+2008,Sant Martí,el Clot,17,Western Africa,Female
+2008,Sant Martí,el Clot,26,Western Africa,Male
+2008,Sant Martí,el Clot,140,Caribbean,Female
+2008,Sant Martí,el Clot,86,Caribbean,Male
+2008,Sant Martí,el Clot,71,Central America,Female
+2008,Sant Martí,el Clot,60,Central America,Male
+2008,Sant Martí,el Clot,1107,South America,Female
+2008,Sant Martí,el Clot,989,South America,Male
+2008,Sant Martí,el Clot,22,Northern America,Female
+2008,Sant Martí,el Clot,18,Northern America,Male
+2008,Sant Martí,el Clot,..,Central Asia,Female
+2008,Sant Martí,el Clot,..,Central Asia,Male
+2008,Sant Martí,el Clot,155,Eastern Asia,Female
+2008,Sant Martí,el Clot,154,Eastern Asia,Male
+2008,Sant Martí,el Clot,15,Southern Asia,Female
+2008,Sant Martí,el Clot,62,Southern Asia,Male
+2008,Sant Martí,el Clot,6,South-Eastern Asia,Female
+2008,Sant Martí,el Clot,..,South-Eastern Asia,Male
+2008,Sant Martí,el Clot,35,Western Asia,Female
+2008,Sant Martí,el Clot,48,Western Asia,Male
+2008,Sant Martí,el Clot,157,Eastern Europe,Female
+2008,Sant Martí,el Clot,130,Eastern Europe,Male
+2008,Sant Martí,el Clot,41,Northern Europe,Female
+2008,Sant Martí,el Clot,32,Northern Europe,Male
+2008,Sant Martí,el Clot,12016,Southern Europe,Female
+2008,Sant Martí,el Clot,11026,Southern Europe,Male
+2008,Sant Martí,el Clot,148,Western Europe,Female
+2008,Sant Martí,el Clot,156,Western Europe,Male
+2008,Sant Martí,el Clot,..,Australia and New Zealand,Female
+2008,Sant Martí,el Clot,..,Australia and New Zealand,Male
+2008,Sant Martí,el Clot,..,Not available,Male
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,..,Eastern Africa,Female
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,..,Eastern Africa,Male
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,..,Middle Africa,Female
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,..,Middle Africa,Male
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,73,Northern Africa,Female
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,140,Northern Africa,Male
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,6,Western Africa,Female
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,39,Western Africa,Male
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,82,Caribbean,Female
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,46,Caribbean,Male
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,42,Central America,Female
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,32,Central America,Male
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,546,South America,Female
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,552,South America,Male
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,24,Northern America,Female
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,18,Northern America,Male
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,90,Eastern Asia,Female
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,96,Eastern Asia,Male
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,13,Southern Asia,Female
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,45,Southern Asia,Male
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,14,South-Eastern Asia,Female
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,8,South-Eastern Asia,Male
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,21,Western Asia,Female
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,32,Western Asia,Male
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,106,Eastern Europe,Female
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,104,Eastern Europe,Male
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,50,Northern Europe,Female
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,47,Northern Europe,Male
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,5597,Southern Europe,Female
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,5035,Southern Europe,Male
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,120,Western Europe,Female
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,115,Western Europe,Male
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,..,Australia and New Zealand,Female
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,..,Australia and New Zealand,Male
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,9,Not available,Female
+2008,Sant Martí,el Parc i la Llacuna del Poblenou,9,Not available,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,..,Eastern Africa,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,..,Middle Africa,Female
+2008,Sant Martí,la Vila Olímpica del Poblenou,..,Middle Africa,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,31,Northern Africa,Female
+2008,Sant Martí,la Vila Olímpica del Poblenou,26,Northern Africa,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,..,Southern Africa,Female
+2008,Sant Martí,la Vila Olímpica del Poblenou,..,Southern Africa,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,..,Western Africa,Female
+2008,Sant Martí,la Vila Olímpica del Poblenou,..,Western Africa,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,20,Caribbean,Female
+2008,Sant Martí,la Vila Olímpica del Poblenou,19,Caribbean,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,46,Central America,Female
+2008,Sant Martí,la Vila Olímpica del Poblenou,39,Central America,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,291,South America,Female
+2008,Sant Martí,la Vila Olímpica del Poblenou,273,South America,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,36,Northern America,Female
+2008,Sant Martí,la Vila Olímpica del Poblenou,27,Northern America,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,..,Central Asia,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,47,Eastern Asia,Female
+2008,Sant Martí,la Vila Olímpica del Poblenou,32,Eastern Asia,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,11,Southern Asia,Female
+2008,Sant Martí,la Vila Olímpica del Poblenou,26,Southern Asia,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,7,South-Eastern Asia,Female
+2008,Sant Martí,la Vila Olímpica del Poblenou,5,South-Eastern Asia,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,11,Western Asia,Female
+2008,Sant Martí,la Vila Olímpica del Poblenou,20,Western Asia,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,88,Eastern Europe,Female
+2008,Sant Martí,la Vila Olímpica del Poblenou,57,Eastern Europe,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,52,Northern Europe,Female
+2008,Sant Martí,la Vila Olímpica del Poblenou,89,Northern Europe,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,3729,Southern Europe,Female
+2008,Sant Martí,la Vila Olímpica del Poblenou,3601,Southern Europe,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,149,Western Europe,Female
+2008,Sant Martí,la Vila Olímpica del Poblenou,185,Western Europe,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,..,Australia and New Zealand,Female
+2008,Sant Martí,la Vila Olímpica del Poblenou,..,Australia and New Zealand,Male
+2008,Sant Martí,la Vila Olímpica del Poblenou,13,Not available,Female
+2008,Sant Martí,la Vila Olímpica del Poblenou,10,Not available,Male
+2008,Sant Martí,el Poblenou,9,Eastern Africa,Female
+2008,Sant Martí,el Poblenou,7,Eastern Africa,Male
+2008,Sant Martí,el Poblenou,..,Middle Africa,Female
+2008,Sant Martí,el Poblenou,10,Middle Africa,Male
+2008,Sant Martí,el Poblenou,109,Northern Africa,Female
+2008,Sant Martí,el Poblenou,261,Northern Africa,Male
+2008,Sant Martí,el Poblenou,..,Southern Africa,Female
+2008,Sant Martí,el Poblenou,..,Southern Africa,Male
+2008,Sant Martí,el Poblenou,11,Western Africa,Female
+2008,Sant Martí,el Poblenou,60,Western Africa,Male
+2008,Sant Martí,el Poblenou,86,Caribbean,Female
+2008,Sant Martí,el Poblenou,48,Caribbean,Male
+2008,Sant Martí,el Poblenou,76,Central America,Female
+2008,Sant Martí,el Poblenou,75,Central America,Male
+2008,Sant Martí,el Poblenou,1087,South America,Female
+2008,Sant Martí,el Poblenou,1012,South America,Male
+2008,Sant Martí,el Poblenou,24,Northern America,Female
+2008,Sant Martí,el Poblenou,40,Northern America,Male
+2008,Sant Martí,el Poblenou,..,Central Asia,Female
+2008,Sant Martí,el Poblenou,..,Central Asia,Male
+2008,Sant Martí,el Poblenou,172,Eastern Asia,Female
+2008,Sant Martí,el Poblenou,196,Eastern Asia,Male
+2008,Sant Martí,el Poblenou,60,Southern Asia,Female
+2008,Sant Martí,el Poblenou,374,Southern Asia,Male
+2008,Sant Martí,el Poblenou,14,South-Eastern Asia,Female
+2008,Sant Martí,el Poblenou,13,South-Eastern Asia,Male
+2008,Sant Martí,el Poblenou,25,Western Asia,Female
+2008,Sant Martí,el Poblenou,42,Western Asia,Male
+2008,Sant Martí,el Poblenou,153,Eastern Europe,Female
+2008,Sant Martí,el Poblenou,146,Eastern Europe,Male
+2008,Sant Martí,el Poblenou,105,Northern Europe,Female
+2008,Sant Martí,el Poblenou,130,Northern Europe,Male
+2008,Sant Martí,el Poblenou,13336,Southern Europe,Female
+2008,Sant Martí,el Poblenou,12175,Southern Europe,Male
+2008,Sant Martí,el Poblenou,331,Western Europe,Female
+2008,Sant Martí,el Poblenou,339,Western Europe,Male
+2008,Sant Martí,el Poblenou,..,Australia and New Zealand,Female
+2008,Sant Martí,el Poblenou,8,Australia and New Zealand,Male
+2008,Sant Martí,el Poblenou,..,Not available,Female
+2008,Sant Martí,el Poblenou,..,Not available,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,..,Eastern Africa,Female
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,..,Eastern Africa,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,..,Middle Africa,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,26,Northern Africa,Female
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,42,Northern Africa,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,..,Southern Africa,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,..,Western Africa,Female
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,5,Western Africa,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,31,Caribbean,Female
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,19,Caribbean,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,34,Central America,Female
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,22,Central America,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,340,South America,Female
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,279,South America,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,13,Northern America,Female
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,25,Northern America,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,..,Central Asia,Female
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,60,Eastern Asia,Female
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,51,Eastern Asia,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,5,Southern Asia,Female
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,25,Southern Asia,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,13,South-Eastern Asia,Female
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,7,South-Eastern Asia,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,15,Western Asia,Female
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,21,Western Asia,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,90,Eastern Europe,Female
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,51,Eastern Europe,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,47,Northern Europe,Female
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,62,Northern Europe,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,4314,Southern Europe,Female
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,4070,Southern Europe,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,129,Western Europe,Female
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,152,Western Europe,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,..,Australia and New Zealand,Male
+2008,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,..,Not available,Male
+2008,Sant Martí,el Besòs i el Maresme,..,Middle Africa,Female
+2008,Sant Martí,el Besòs i el Maresme,..,Middle Africa,Male
+2008,Sant Martí,el Besòs i el Maresme,168,Northern Africa,Female
+2008,Sant Martí,el Besòs i el Maresme,255,Northern Africa,Male
+2008,Sant Martí,el Besòs i el Maresme,30,Western Africa,Female
+2008,Sant Martí,el Besòs i el Maresme,99,Western Africa,Male
+2008,Sant Martí,el Besòs i el Maresme,123,Caribbean,Female
+2008,Sant Martí,el Besòs i el Maresme,86,Caribbean,Male
+2008,Sant Martí,el Besòs i el Maresme,93,Central America,Female
+2008,Sant Martí,el Besòs i el Maresme,59,Central America,Male
+2008,Sant Martí,el Besòs i el Maresme,1151,South America,Female
+2008,Sant Martí,el Besòs i el Maresme,1057,South America,Male
+2008,Sant Martí,el Besòs i el Maresme,7,Northern America,Female
+2008,Sant Martí,el Besòs i el Maresme,5,Northern America,Male
+2008,Sant Martí,el Besòs i el Maresme,6,Central Asia,Male
+2008,Sant Martí,el Besòs i el Maresme,55,Eastern Asia,Female
+2008,Sant Martí,el Besòs i el Maresme,79,Eastern Asia,Male
+2008,Sant Martí,el Besòs i el Maresme,171,Southern Asia,Female
+2008,Sant Martí,el Besòs i el Maresme,1821,Southern Asia,Male
+2008,Sant Martí,el Besòs i el Maresme,25,South-Eastern Asia,Female
+2008,Sant Martí,el Besòs i el Maresme,11,South-Eastern Asia,Male
+2008,Sant Martí,el Besòs i el Maresme,64,Western Asia,Female
+2008,Sant Martí,el Besòs i el Maresme,109,Western Asia,Male
+2008,Sant Martí,el Besòs i el Maresme,215,Eastern Europe,Female
+2008,Sant Martí,el Besòs i el Maresme,245,Eastern Europe,Male
+2008,Sant Martí,el Besòs i el Maresme,17,Northern Europe,Female
+2008,Sant Martí,el Besòs i el Maresme,32,Northern Europe,Male
+2008,Sant Martí,el Besòs i el Maresme,9024,Southern Europe,Female
+2008,Sant Martí,el Besòs i el Maresme,8173,Southern Europe,Male
+2008,Sant Martí,el Besòs i el Maresme,71,Western Europe,Female
+2008,Sant Martí,el Besòs i el Maresme,61,Western Europe,Male
+2008,Sant Martí,el Besòs i el Maresme,..,Australia and New Zealand,Female
+2008,Sant Martí,el Besòs i el Maresme,..,Not available,Female
+2008,Sant Martí,el Besòs i el Maresme,..,Not available,Male
+2008,Sant Martí,Provençals del Poblenou,..,Eastern Africa,Male
+2008,Sant Martí,Provençals del Poblenou,..,Middle Africa,Female
+2008,Sant Martí,Provençals del Poblenou,5,Middle Africa,Male
+2008,Sant Martí,Provençals del Poblenou,105,Northern Africa,Female
+2008,Sant Martí,Provençals del Poblenou,121,Northern Africa,Male
+2008,Sant Martí,Provençals del Poblenou,..,Southern Africa,Female
+2008,Sant Martí,Provençals del Poblenou,..,Southern Africa,Male
+2008,Sant Martí,Provençals del Poblenou,7,Western Africa,Female
+2008,Sant Martí,Provençals del Poblenou,19,Western Africa,Male
+2008,Sant Martí,Provençals del Poblenou,112,Caribbean,Female
+2008,Sant Martí,Provençals del Poblenou,71,Caribbean,Male
+2008,Sant Martí,Provençals del Poblenou,58,Central America,Female
+2008,Sant Martí,Provençals del Poblenou,27,Central America,Male
+2008,Sant Martí,Provençals del Poblenou,620,South America,Female
+2008,Sant Martí,Provençals del Poblenou,570,South America,Male
+2008,Sant Martí,Provençals del Poblenou,8,Northern America,Female
+2008,Sant Martí,Provençals del Poblenou,8,Northern America,Male
+2008,Sant Martí,Provençals del Poblenou,..,Central Asia,Female
+2008,Sant Martí,Provençals del Poblenou,..,Central Asia,Male
+2008,Sant Martí,Provençals del Poblenou,66,Eastern Asia,Female
+2008,Sant Martí,Provençals del Poblenou,66,Eastern Asia,Male
+2008,Sant Martí,Provençals del Poblenou,15,Southern Asia,Female
+2008,Sant Martí,Provençals del Poblenou,66,Southern Asia,Male
+2008,Sant Martí,Provençals del Poblenou,5,South-Eastern Asia,Female
+2008,Sant Martí,Provençals del Poblenou,..,South-Eastern Asia,Male
+2008,Sant Martí,Provençals del Poblenou,27,Western Asia,Female
+2008,Sant Martí,Provençals del Poblenou,35,Western Asia,Male
+2008,Sant Martí,Provençals del Poblenou,116,Eastern Europe,Female
+2008,Sant Martí,Provençals del Poblenou,118,Eastern Europe,Male
+2008,Sant Martí,Provençals del Poblenou,20,Northern Europe,Female
+2008,Sant Martí,Provençals del Poblenou,20,Northern Europe,Male
+2008,Sant Martí,Provençals del Poblenou,8523,Southern Europe,Female
+2008,Sant Martí,Provençals del Poblenou,7826,Southern Europe,Male
+2008,Sant Martí,Provençals del Poblenou,104,Western Europe,Female
+2008,Sant Martí,Provençals del Poblenou,102,Western Europe,Male
+2008,Sant Martí,Provençals del Poblenou,..,Australia and New Zealand,Male
+2008,Sant Martí,Provençals del Poblenou,..,Not available,Female
+2008,Sant Martí,Sant Martí de Provençals,..,Eastern Africa,Female
+2008,Sant Martí,Sant Martí de Provençals,..,Eastern Africa,Male
+2008,Sant Martí,Sant Martí de Provençals,..,Middle Africa,Female
+2008,Sant Martí,Sant Martí de Provençals,..,Middle Africa,Male
+2008,Sant Martí,Sant Martí de Provençals,49,Northern Africa,Female
+2008,Sant Martí,Sant Martí de Provençals,89,Northern Africa,Male
+2008,Sant Martí,Sant Martí de Provençals,..,Southern Africa,Male
+2008,Sant Martí,Sant Martí de Provençals,10,Western Africa,Female
+2008,Sant Martí,Sant Martí de Provençals,26,Western Africa,Male
+2008,Sant Martí,Sant Martí de Provençals,127,Caribbean,Female
+2008,Sant Martí,Sant Martí de Provençals,69,Caribbean,Male
+2008,Sant Martí,Sant Martí de Provençals,47,Central America,Female
+2008,Sant Martí,Sant Martí de Provençals,30,Central America,Male
+2008,Sant Martí,Sant Martí de Provençals,987,South America,Female
+2008,Sant Martí,Sant Martí de Provençals,820,South America,Male
+2008,Sant Martí,Sant Martí de Provençals,8,Northern America,Female
+2008,Sant Martí,Sant Martí de Provençals,5,Northern America,Male
+2008,Sant Martí,Sant Martí de Provençals,..,Central Asia,Male
+2008,Sant Martí,Sant Martí de Provençals,95,Eastern Asia,Female
+2008,Sant Martí,Sant Martí de Provençals,105,Eastern Asia,Male
+2008,Sant Martí,Sant Martí de Provençals,..,Southern Asia,Female
+2008,Sant Martí,Sant Martí de Provençals,29,Southern Asia,Male
+2008,Sant Martí,Sant Martí de Provençals,12,South-Eastern Asia,Female
+2008,Sant Martí,Sant Martí de Provençals,10,South-Eastern Asia,Male
+2008,Sant Martí,Sant Martí de Provençals,22,Western Asia,Female
+2008,Sant Martí,Sant Martí de Provençals,44,Western Asia,Male
+2008,Sant Martí,Sant Martí de Provençals,159,Eastern Europe,Female
+2008,Sant Martí,Sant Martí de Provençals,146,Eastern Europe,Male
+2008,Sant Martí,Sant Martí de Provençals,18,Northern Europe,Female
+2008,Sant Martí,Sant Martí de Provençals,26,Northern Europe,Male
+2008,Sant Martí,Sant Martí de Provençals,12243,Southern Europe,Female
+2008,Sant Martí,Sant Martí de Provençals,10813,Southern Europe,Male
+2008,Sant Martí,Sant Martí de Provençals,91,Western Europe,Female
+2008,Sant Martí,Sant Martí de Provençals,75,Western Europe,Male
+2008,Sant Martí,Sant Martí de Provençals,..,Not available,Male
+2008,Sant Martí,la Verneda i la Pau,..,Eastern Africa,Female
+2008,Sant Martí,la Verneda i la Pau,..,Eastern Africa,Male
+2008,Sant Martí,la Verneda i la Pau,5,Middle Africa,Female
+2008,Sant Martí,la Verneda i la Pau,7,Middle Africa,Male
+2008,Sant Martí,la Verneda i la Pau,76,Northern Africa,Female
+2008,Sant Martí,la Verneda i la Pau,92,Northern Africa,Male
+2008,Sant Martí,la Verneda i la Pau,5,Western Africa,Female
+2008,Sant Martí,la Verneda i la Pau,46,Western Africa,Male
+2008,Sant Martí,la Verneda i la Pau,111,Caribbean,Female
+2008,Sant Martí,la Verneda i la Pau,82,Caribbean,Male
+2008,Sant Martí,la Verneda i la Pau,47,Central America,Female
+2008,Sant Martí,la Verneda i la Pau,34,Central America,Male
+2008,Sant Martí,la Verneda i la Pau,1071,South America,Female
+2008,Sant Martí,la Verneda i la Pau,912,South America,Male
+2008,Sant Martí,la Verneda i la Pau,..,Northern America,Female
+2008,Sant Martí,la Verneda i la Pau,..,Northern America,Male
+2008,Sant Martí,la Verneda i la Pau,..,Central Asia,Female
+2008,Sant Martí,la Verneda i la Pau,108,Eastern Asia,Female
+2008,Sant Martí,la Verneda i la Pau,116,Eastern Asia,Male
+2008,Sant Martí,la Verneda i la Pau,25,Southern Asia,Female
+2008,Sant Martí,la Verneda i la Pau,82,Southern Asia,Male
+2008,Sant Martí,la Verneda i la Pau,13,South-Eastern Asia,Female
+2008,Sant Martí,la Verneda i la Pau,5,South-Eastern Asia,Male
+2008,Sant Martí,la Verneda i la Pau,17,Western Asia,Female
+2008,Sant Martí,la Verneda i la Pau,22,Western Asia,Male
+2008,Sant Martí,la Verneda i la Pau,189,Eastern Europe,Female
+2008,Sant Martí,la Verneda i la Pau,159,Eastern Europe,Male
+2008,Sant Martí,la Verneda i la Pau,15,Northern Europe,Female
+2008,Sant Martí,la Verneda i la Pau,21,Northern Europe,Male
+2008,Sant Martí,la Verneda i la Pau,13603,Southern Europe,Female
+2008,Sant Martí,la Verneda i la Pau,12490,Southern Europe,Male
+2008,Sant Martí,la Verneda i la Pau,110,Western Europe,Female
+2008,Sant Martí,la Verneda i la Pau,93,Western Europe,Male
+2008,Sant Martí,la Verneda i la Pau,..,Australia and New Zealand,Male
+2008,Sant Martí,la Verneda i la Pau,..,Not available,Female
+2008,Sant Martí,la Verneda i la Pau,..,Not available,Male

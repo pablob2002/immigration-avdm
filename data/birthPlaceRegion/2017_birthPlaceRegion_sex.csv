@@ -1,0 +1,2660 @@
+Year_Reference,District,Neighborhood,Value,Birth_Place_Region,Sex
+2017,Ciutat Vella,el Raval,12,Eastern Africa,Female
+2017,Ciutat Vella,el Raval,15,Eastern Africa,Male
+2017,Ciutat Vella,el Raval,10,Middle Africa,Female
+2017,Ciutat Vella,el Raval,24,Middle Africa,Male
+2017,Ciutat Vella,el Raval,792,Northern Africa,Female
+2017,Ciutat Vella,el Raval,1073,Northern Africa,Male
+2017,Ciutat Vella,el Raval,5,Southern Africa,Female
+2017,Ciutat Vella,el Raval,11,Southern Africa,Male
+2017,Ciutat Vella,el Raval,65,Western Africa,Female
+2017,Ciutat Vella,el Raval,147,Western Africa,Male
+2017,Ciutat Vella,el Raval,321,Caribbean,Female
+2017,Ciutat Vella,el Raval,259,Caribbean,Male
+2017,Ciutat Vella,el Raval,314,Central America,Female
+2017,Ciutat Vella,el Raval,266,Central America,Male
+2017,Ciutat Vella,el Raval,2063,South America,Female
+2017,Ciutat Vella,el Raval,2067,South America,Male
+2017,Ciutat Vella,el Raval,128,Northern America,Female
+2017,Ciutat Vella,el Raval,155,Northern America,Male
+2017,Ciutat Vella,el Raval,12,Central Asia,Female
+2017,Ciutat Vella,el Raval,15,Central Asia,Male
+2017,Ciutat Vella,el Raval,214,Eastern Asia,Female
+2017,Ciutat Vella,el Raval,174,Eastern Asia,Male
+2017,Ciutat Vella,el Raval,2206,Southern Asia,Female
+2017,Ciutat Vella,el Raval,6900,Southern Asia,Male
+2017,Ciutat Vella,el Raval,3237,South-Eastern Asia,Female
+2017,Ciutat Vella,el Raval,2312,South-Eastern Asia,Male
+2017,Ciutat Vella,el Raval,158,Western Asia,Female
+2017,Ciutat Vella,el Raval,254,Western Asia,Male
+2017,Ciutat Vella,el Raval,536,Eastern Europe,Female
+2017,Ciutat Vella,el Raval,352,Eastern Europe,Male
+2017,Ciutat Vella,el Raval,377,Northern Europe,Female
+2017,Ciutat Vella,el Raval,379,Northern Europe,Male
+2017,Ciutat Vella,el Raval,10696,Southern Europe,Female
+2017,Ciutat Vella,el Raval,10810,Southern Europe,Male
+2017,Ciutat Vella,el Raval,731,Western Europe,Female
+2017,Ciutat Vella,el Raval,744,Western Europe,Male
+2017,Ciutat Vella,el Raval,29,Australia and New Zealand,Female
+2017,Ciutat Vella,el Raval,23,Australia and New Zealand,Male
+2017,Ciutat Vella,el Raval,9,Not available,Female
+2017,Ciutat Vella,el Raval,6,Not available,Male
+2017,Ciutat Vella,el Barri Gòtic,6,Eastern Africa,Female
+2017,Ciutat Vella,el Barri Gòtic,8,Eastern Africa,Male
+2017,Ciutat Vella,el Barri Gòtic,9,Middle Africa,Female
+2017,Ciutat Vella,el Barri Gòtic,6,Middle Africa,Male
+2017,Ciutat Vella,el Barri Gòtic,188,Northern Africa,Female
+2017,Ciutat Vella,el Barri Gòtic,305,Northern Africa,Male
+2017,Ciutat Vella,el Barri Gòtic,8,Southern Africa,Female
+2017,Ciutat Vella,el Barri Gòtic,5,Southern Africa,Male
+2017,Ciutat Vella,el Barri Gòtic,30,Western Africa,Female
+2017,Ciutat Vella,el Barri Gòtic,101,Western Africa,Male
+2017,Ciutat Vella,el Barri Gòtic,79,Caribbean,Female
+2017,Ciutat Vella,el Barri Gòtic,68,Caribbean,Male
+2017,Ciutat Vella,el Barri Gòtic,213,Central America,Female
+2017,Ciutat Vella,el Barri Gòtic,152,Central America,Male
+2017,Ciutat Vella,el Barri Gòtic,999,South America,Female
+2017,Ciutat Vella,el Barri Gòtic,1009,South America,Male
+2017,Ciutat Vella,el Barri Gòtic,137,Northern America,Female
+2017,Ciutat Vella,el Barri Gòtic,114,Northern America,Male
+2017,Ciutat Vella,el Barri Gòtic,14,Central Asia,Female
+2017,Ciutat Vella,el Barri Gòtic,7,Central Asia,Male
+2017,Ciutat Vella,el Barri Gòtic,110,Eastern Asia,Female
+2017,Ciutat Vella,el Barri Gòtic,98,Eastern Asia,Male
+2017,Ciutat Vella,el Barri Gòtic,222,Southern Asia,Female
+2017,Ciutat Vella,el Barri Gòtic,871,Southern Asia,Male
+2017,Ciutat Vella,el Barri Gòtic,249,South-Eastern Asia,Female
+2017,Ciutat Vella,el Barri Gòtic,149,South-Eastern Asia,Male
+2017,Ciutat Vella,el Barri Gòtic,77,Western Asia,Female
+2017,Ciutat Vella,el Barri Gòtic,130,Western Asia,Male
+2017,Ciutat Vella,el Barri Gòtic,310,Eastern Europe,Female
+2017,Ciutat Vella,el Barri Gòtic,229,Eastern Europe,Male
+2017,Ciutat Vella,el Barri Gòtic,314,Northern Europe,Female
+2017,Ciutat Vella,el Barri Gòtic,299,Northern Europe,Male
+2017,Ciutat Vella,el Barri Gòtic,4281,Southern Europe,Female
+2017,Ciutat Vella,el Barri Gòtic,4329,Southern Europe,Male
+2017,Ciutat Vella,el Barri Gòtic,522,Western Europe,Female
+2017,Ciutat Vella,el Barri Gòtic,536,Western Europe,Male
+2017,Ciutat Vella,el Barri Gòtic,25,Australia and New Zealand,Female
+2017,Ciutat Vella,el Barri Gòtic,20,Australia and New Zealand,Male
+2017,Ciutat Vella,el Barri Gòtic,7,Not available,Female
+2017,Ciutat Vella,el Barri Gòtic,..,Not available,Male
+2017,Ciutat Vella,la Barceloneta,..,Eastern Africa,Female
+2017,Ciutat Vella,la Barceloneta,7,Eastern Africa,Male
+2017,Ciutat Vella,la Barceloneta,..,Middle Africa,Female
+2017,Ciutat Vella,la Barceloneta,..,Middle Africa,Male
+2017,Ciutat Vella,la Barceloneta,181,Northern Africa,Female
+2017,Ciutat Vella,la Barceloneta,300,Northern Africa,Male
+2017,Ciutat Vella,la Barceloneta,5,Southern Africa,Female
+2017,Ciutat Vella,la Barceloneta,..,Southern Africa,Male
+2017,Ciutat Vella,la Barceloneta,10,Western Africa,Female
+2017,Ciutat Vella,la Barceloneta,33,Western Africa,Male
+2017,Ciutat Vella,la Barceloneta,86,Caribbean,Female
+2017,Ciutat Vella,la Barceloneta,77,Caribbean,Male
+2017,Ciutat Vella,la Barceloneta,110,Central America,Female
+2017,Ciutat Vella,la Barceloneta,99,Central America,Male
+2017,Ciutat Vella,la Barceloneta,834,South America,Female
+2017,Ciutat Vella,la Barceloneta,816,South America,Male
+2017,Ciutat Vella,la Barceloneta,74,Northern America,Female
+2017,Ciutat Vella,la Barceloneta,64,Northern America,Male
+2017,Ciutat Vella,la Barceloneta,6,Central Asia,Female
+2017,Ciutat Vella,la Barceloneta,..,Central Asia,Male
+2017,Ciutat Vella,la Barceloneta,47,Eastern Asia,Female
+2017,Ciutat Vella,la Barceloneta,29,Eastern Asia,Male
+2017,Ciutat Vella,la Barceloneta,112,Southern Asia,Female
+2017,Ciutat Vella,la Barceloneta,455,Southern Asia,Male
+2017,Ciutat Vella,la Barceloneta,26,South-Eastern Asia,Female
+2017,Ciutat Vella,la Barceloneta,19,South-Eastern Asia,Male
+2017,Ciutat Vella,la Barceloneta,66,Western Asia,Female
+2017,Ciutat Vella,la Barceloneta,59,Western Asia,Male
+2017,Ciutat Vella,la Barceloneta,355,Eastern Europe,Female
+2017,Ciutat Vella,la Barceloneta,214,Eastern Europe,Male
+2017,Ciutat Vella,la Barceloneta,238,Northern Europe,Female
+2017,Ciutat Vella,la Barceloneta,199,Northern Europe,Male
+2017,Ciutat Vella,la Barceloneta,5072,Southern Europe,Female
+2017,Ciutat Vella,la Barceloneta,4817,Southern Europe,Male
+2017,Ciutat Vella,la Barceloneta,339,Western Europe,Female
+2017,Ciutat Vella,la Barceloneta,295,Western Europe,Male
+2017,Ciutat Vella,la Barceloneta,19,Australia and New Zealand,Female
+2017,Ciutat Vella,la Barceloneta,17,Australia and New Zealand,Male
+2017,Ciutat Vella,la Barceloneta,..,Not available,Female
+2017,Ciutat Vella,la Barceloneta,..,Not available,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",8,Eastern Africa,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",10,Eastern Africa,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",7,Middle Africa,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",7,Middle Africa,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",321,Northern Africa,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",636,Northern Africa,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",7,Southern Africa,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",8,Southern Africa,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",22,Western Africa,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",146,Western Africa,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",238,Caribbean,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",172,Caribbean,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",243,Central America,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",217,Central America,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",1447,South America,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",1382,South America,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",169,Northern America,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",156,Northern America,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",10,Central Asia,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",9,Central Asia,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",231,Eastern Asia,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",195,Eastern Asia,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",158,Southern Asia,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",467,Southern Asia,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",254,South-Eastern Asia,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",167,South-Eastern Asia,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",109,Western Asia,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",110,Western Asia,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",408,Eastern Europe,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",217,Eastern Europe,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",421,Northern Europe,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",398,Northern Europe,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",6733,Southern Europe,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",6379,Southern Europe,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",672,Western Europe,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",707,Western Europe,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",30,Australia and New Zealand,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",41,Australia and New Zealand,Male
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",..,Melanesia,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",..,Not available,Female
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",7,Not available,Male
+2017,Eixample,el Fort Pienc,6,Eastern Africa,Female
+2017,Eixample,el Fort Pienc,8,Eastern Africa,Male
+2017,Eixample,el Fort Pienc,8,Middle Africa,Female
+2017,Eixample,el Fort Pienc,6,Middle Africa,Male
+2017,Eixample,el Fort Pienc,118,Northern Africa,Female
+2017,Eixample,el Fort Pienc,173,Northern Africa,Male
+2017,Eixample,el Fort Pienc,6,Southern Africa,Female
+2017,Eixample,el Fort Pienc,5,Southern Africa,Male
+2017,Eixample,el Fort Pienc,30,Western Africa,Female
+2017,Eixample,el Fort Pienc,67,Western Africa,Male
+2017,Eixample,el Fort Pienc,167,Caribbean,Female
+2017,Eixample,el Fort Pienc,127,Caribbean,Male
+2017,Eixample,el Fort Pienc,270,Central America,Female
+2017,Eixample,el Fort Pienc,175,Central America,Male
+2017,Eixample,el Fort Pienc,1828,South America,Female
+2017,Eixample,el Fort Pienc,1516,South America,Male
+2017,Eixample,el Fort Pienc,72,Northern America,Female
+2017,Eixample,el Fort Pienc,80,Northern America,Male
+2017,Eixample,el Fort Pienc,10,Central Asia,Female
+2017,Eixample,el Fort Pienc,7,Central Asia,Male
+2017,Eixample,el Fort Pienc,600,Eastern Asia,Female
+2017,Eixample,el Fort Pienc,528,Eastern Asia,Male
+2017,Eixample,el Fort Pienc,77,Southern Asia,Female
+2017,Eixample,el Fort Pienc,226,Southern Asia,Male
+2017,Eixample,el Fort Pienc,45,South-Eastern Asia,Female
+2017,Eixample,el Fort Pienc,26,South-Eastern Asia,Male
+2017,Eixample,el Fort Pienc,73,Western Asia,Female
+2017,Eixample,el Fort Pienc,76,Western Asia,Male
+2017,Eixample,el Fort Pienc,350,Eastern Europe,Female
+2017,Eixample,el Fort Pienc,216,Eastern Europe,Male
+2017,Eixample,el Fort Pienc,160,Northern Europe,Female
+2017,Eixample,el Fort Pienc,143,Northern Europe,Male
+2017,Eixample,el Fort Pienc,12718,Southern Europe,Female
+2017,Eixample,el Fort Pienc,11333,Southern Europe,Male
+2017,Eixample,el Fort Pienc,448,Western Europe,Female
+2017,Eixample,el Fort Pienc,403,Western Europe,Male
+2017,Eixample,el Fort Pienc,7,Australia and New Zealand,Female
+2017,Eixample,el Fort Pienc,7,Australia and New Zealand,Male
+2017,Eixample,el Fort Pienc,12,Not available,Female
+2017,Eixample,el Fort Pienc,10,Not available,Male
+2017,Eixample,la Sagrada Família,6,Eastern Africa,Female
+2017,Eixample,la Sagrada Família,11,Eastern Africa,Male
+2017,Eixample,la Sagrada Família,9,Middle Africa,Female
+2017,Eixample,la Sagrada Família,15,Middle Africa,Male
+2017,Eixample,la Sagrada Família,185,Northern Africa,Female
+2017,Eixample,la Sagrada Família,260,Northern Africa,Male
+2017,Eixample,la Sagrada Família,..,Southern Africa,Female
+2017,Eixample,la Sagrada Família,5,Southern Africa,Male
+2017,Eixample,la Sagrada Família,38,Western Africa,Female
+2017,Eixample,la Sagrada Família,59,Western Africa,Male
+2017,Eixample,la Sagrada Família,309,Caribbean,Female
+2017,Eixample,la Sagrada Família,244,Caribbean,Male
+2017,Eixample,la Sagrada Família,512,Central America,Female
+2017,Eixample,la Sagrada Família,277,Central America,Male
+2017,Eixample,la Sagrada Família,3492,South America,Female
+2017,Eixample,la Sagrada Família,2663,South America,Male
+2017,Eixample,la Sagrada Família,94,Northern America,Female
+2017,Eixample,la Sagrada Família,73,Northern America,Male
+2017,Eixample,la Sagrada Família,7,Central Asia,Female
+2017,Eixample,la Sagrada Família,6,Central Asia,Male
+2017,Eixample,la Sagrada Família,626,Eastern Asia,Female
+2017,Eixample,la Sagrada Família,508,Eastern Asia,Male
+2017,Eixample,la Sagrada Família,148,Southern Asia,Female
+2017,Eixample,la Sagrada Família,311,Southern Asia,Male
+2017,Eixample,la Sagrada Família,103,South-Eastern Asia,Female
+2017,Eixample,la Sagrada Família,58,South-Eastern Asia,Male
+2017,Eixample,la Sagrada Família,154,Western Asia,Female
+2017,Eixample,la Sagrada Família,180,Western Asia,Male
+2017,Eixample,la Sagrada Família,547,Eastern Europe,Female
+2017,Eixample,la Sagrada Família,283,Eastern Europe,Male
+2017,Eixample,la Sagrada Família,190,Northern Europe,Female
+2017,Eixample,la Sagrada Família,191,Northern Europe,Male
+2017,Eixample,la Sagrada Família,21089,Southern Europe,Female
+2017,Eixample,la Sagrada Família,18031,Southern Europe,Male
+2017,Eixample,la Sagrada Família,490,Western Europe,Female
+2017,Eixample,la Sagrada Família,447,Western Europe,Male
+2017,Eixample,la Sagrada Família,10,Australia and New Zealand,Female
+2017,Eixample,la Sagrada Família,12,Australia and New Zealand,Male
+2017,Eixample,la Sagrada Família,6,Not available,Female
+2017,Eixample,la Sagrada Família,6,Not available,Male
+2017,Eixample,la Dreta de l'Eixample,15,Eastern Africa,Female
+2017,Eixample,la Dreta de l'Eixample,17,Eastern Africa,Male
+2017,Eixample,la Dreta de l'Eixample,11,Middle Africa,Female
+2017,Eixample,la Dreta de l'Eixample,12,Middle Africa,Male
+2017,Eixample,la Dreta de l'Eixample,134,Northern Africa,Female
+2017,Eixample,la Dreta de l'Eixample,155,Northern Africa,Male
+2017,Eixample,la Dreta de l'Eixample,7,Southern Africa,Female
+2017,Eixample,la Dreta de l'Eixample,18,Southern Africa,Male
+2017,Eixample,la Dreta de l'Eixample,17,Western Africa,Female
+2017,Eixample,la Dreta de l'Eixample,39,Western Africa,Male
+2017,Eixample,la Dreta de l'Eixample,176,Caribbean,Female
+2017,Eixample,la Dreta de l'Eixample,140,Caribbean,Male
+2017,Eixample,la Dreta de l'Eixample,398,Central America,Female
+2017,Eixample,la Dreta de l'Eixample,285,Central America,Male
+2017,Eixample,la Dreta de l'Eixample,2243,South America,Female
+2017,Eixample,la Dreta de l'Eixample,1670,South America,Male
+2017,Eixample,la Dreta de l'Eixample,237,Northern America,Female
+2017,Eixample,la Dreta de l'Eixample,243,Northern America,Male
+2017,Eixample,la Dreta de l'Eixample,25,Central Asia,Female
+2017,Eixample,la Dreta de l'Eixample,13,Central Asia,Male
+2017,Eixample,la Dreta de l'Eixample,432,Eastern Asia,Female
+2017,Eixample,la Dreta de l'Eixample,352,Eastern Asia,Male
+2017,Eixample,la Dreta de l'Eixample,68,Southern Asia,Female
+2017,Eixample,la Dreta de l'Eixample,157,Southern Asia,Male
+2017,Eixample,la Dreta de l'Eixample,101,South-Eastern Asia,Female
+2017,Eixample,la Dreta de l'Eixample,65,South-Eastern Asia,Male
+2017,Eixample,la Dreta de l'Eixample,139,Western Asia,Female
+2017,Eixample,la Dreta de l'Eixample,178,Western Asia,Male
+2017,Eixample,la Dreta de l'Eixample,509,Eastern Europe,Female
+2017,Eixample,la Dreta de l'Eixample,245,Eastern Europe,Male
+2017,Eixample,la Dreta de l'Eixample,315,Northern Europe,Female
+2017,Eixample,la Dreta de l'Eixample,357,Northern Europe,Male
+2017,Eixample,la Dreta de l'Eixample,17993,Southern Europe,Female
+2017,Eixample,la Dreta de l'Eixample,15600,Southern Europe,Male
+2017,Eixample,la Dreta de l'Eixample,860,Western Europe,Female
+2017,Eixample,la Dreta de l'Eixample,894,Western Europe,Male
+2017,Eixample,la Dreta de l'Eixample,31,Australia and New Zealand,Female
+2017,Eixample,la Dreta de l'Eixample,45,Australia and New Zealand,Male
+2017,Eixample,la Dreta de l'Eixample,..,Melanesia,Female
+2017,Eixample,la Dreta de l'Eixample,..,Melanesia,Male
+2017,Eixample,la Dreta de l'Eixample,20,Not available,Female
+2017,Eixample,la Dreta de l'Eixample,6,Not available,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,12,Eastern Africa,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,15,Eastern Africa,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,11,Middle Africa,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,8,Middle Africa,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,135,Northern Africa,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,159,Northern Africa,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,..,Southern Africa,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,11,Southern Africa,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,15,Western Africa,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,35,Western Africa,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,199,Caribbean,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,155,Caribbean,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,444,Central America,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,293,Central America,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,2326,South America,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,2001,South America,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,179,Northern America,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,195,Northern America,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,20,Central Asia,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,11,Central Asia,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,461,Eastern Asia,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,336,Eastern Asia,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,96,Southern Asia,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,220,Southern Asia,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,339,South-Eastern Asia,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,195,South-Eastern Asia,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,114,Western Asia,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,138,Western Asia,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,439,Eastern Europe,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,246,Eastern Europe,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,245,Northern Europe,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,275,Northern Europe,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,17060,Southern Europe,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,14760,Southern Europe,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,600,Western Europe,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,649,Western Europe,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,13,Australia and New Zealand,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,18,Australia and New Zealand,Male
+2017,Eixample,l'Antiga Esquerra de l'Eixample,7,Not available,Female
+2017,Eixample,l'Antiga Esquerra de l'Eixample,5,Not available,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,16,Eastern Africa,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,15,Eastern Africa,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,20,Middle Africa,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,16,Middle Africa,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,199,Northern Africa,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,231,Northern Africa,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,8,Southern Africa,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,29,Western Africa,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,49,Western Africa,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,325,Caribbean,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,221,Caribbean,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,478,Central America,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,303,Central America,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,3501,South America,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,2826,South America,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,127,Northern America,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,118,Northern America,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,24,Central Asia,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,..,Central Asia,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,719,Eastern Asia,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,578,Eastern Asia,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,142,Southern Asia,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,300,Southern Asia,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,306,South-Eastern Asia,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,198,South-Eastern Asia,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,115,Western Asia,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,196,Western Asia,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,563,Eastern Europe,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,305,Eastern Europe,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,201,Northern Europe,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,195,Northern Europe,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,23981,Southern Europe,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,20970,Southern Europe,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,507,Western Europe,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,520,Western Europe,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,6,Australia and New Zealand,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,13,Australia and New Zealand,Male
+2017,Eixample,la Nova Esquerra de l'Eixample,8,Not available,Female
+2017,Eixample,la Nova Esquerra de l'Eixample,..,Not available,Male
+2017,Eixample,Sant Antoni,10,Eastern Africa,Female
+2017,Eixample,Sant Antoni,7,Eastern Africa,Male
+2017,Eixample,Sant Antoni,7,Middle Africa,Female
+2017,Eixample,Sant Antoni,11,Middle Africa,Male
+2017,Eixample,Sant Antoni,122,Northern Africa,Female
+2017,Eixample,Sant Antoni,178,Northern Africa,Male
+2017,Eixample,Sant Antoni,..,Southern Africa,Female
+2017,Eixample,Sant Antoni,..,Southern Africa,Male
+2017,Eixample,Sant Antoni,19,Western Africa,Female
+2017,Eixample,Sant Antoni,56,Western Africa,Male
+2017,Eixample,Sant Antoni,252,Caribbean,Female
+2017,Eixample,Sant Antoni,186,Caribbean,Male
+2017,Eixample,Sant Antoni,273,Central America,Female
+2017,Eixample,Sant Antoni,208,Central America,Male
+2017,Eixample,Sant Antoni,1889,South America,Female
+2017,Eixample,Sant Antoni,1630,South America,Male
+2017,Eixample,Sant Antoni,97,Northern America,Female
+2017,Eixample,Sant Antoni,92,Northern America,Male
+2017,Eixample,Sant Antoni,15,Central Asia,Female
+2017,Eixample,Sant Antoni,..,Central Asia,Male
+2017,Eixample,Sant Antoni,413,Eastern Asia,Female
+2017,Eixample,Sant Antoni,360,Eastern Asia,Male
+2017,Eixample,Sant Antoni,302,Southern Asia,Female
+2017,Eixample,Sant Antoni,668,Southern Asia,Male
+2017,Eixample,Sant Antoni,561,South-Eastern Asia,Female
+2017,Eixample,Sant Antoni,369,South-Eastern Asia,Male
+2017,Eixample,Sant Antoni,71,Western Asia,Female
+2017,Eixample,Sant Antoni,73,Western Asia,Male
+2017,Eixample,Sant Antoni,332,Eastern Europe,Female
+2017,Eixample,Sant Antoni,193,Eastern Europe,Male
+2017,Eixample,Sant Antoni,193,Northern Europe,Female
+2017,Eixample,Sant Antoni,217,Northern Europe,Male
+2017,Eixample,Sant Antoni,15220,Southern Europe,Female
+2017,Eixample,Sant Antoni,13478,Southern Europe,Male
+2017,Eixample,Sant Antoni,445,Western Europe,Female
+2017,Eixample,Sant Antoni,476,Western Europe,Male
+2017,Eixample,Sant Antoni,11,Australia and New Zealand,Female
+2017,Eixample,Sant Antoni,12,Australia and New Zealand,Male
+2017,Eixample,Sant Antoni,7,Not available,Female
+2017,Eixample,Sant Antoni,6,Not available,Male
+2017,Sants-Montjuïc,el Poble-sec,13,Eastern Africa,Female
+2017,Sants-Montjuïc,el Poble-sec,13,Eastern Africa,Male
+2017,Sants-Montjuïc,el Poble-sec,16,Middle Africa,Female
+2017,Sants-Montjuïc,el Poble-sec,14,Middle Africa,Male
+2017,Sants-Montjuïc,el Poble-sec,419,Northern Africa,Female
+2017,Sants-Montjuïc,el Poble-sec,626,Northern Africa,Male
+2017,Sants-Montjuïc,el Poble-sec,6,Southern Africa,Female
+2017,Sants-Montjuïc,el Poble-sec,6,Southern Africa,Male
+2017,Sants-Montjuïc,el Poble-sec,15,Western Africa,Female
+2017,Sants-Montjuïc,el Poble-sec,80,Western Africa,Male
+2017,Sants-Montjuïc,el Poble-sec,631,Caribbean,Female
+2017,Sants-Montjuïc,el Poble-sec,495,Caribbean,Male
+2017,Sants-Montjuïc,el Poble-sec,325,Central America,Female
+2017,Sants-Montjuïc,el Poble-sec,197,Central America,Male
+2017,Sants-Montjuïc,el Poble-sec,2092,South America,Female
+2017,Sants-Montjuïc,el Poble-sec,1837,South America,Male
+2017,Sants-Montjuïc,el Poble-sec,95,Northern America,Female
+2017,Sants-Montjuïc,el Poble-sec,89,Northern America,Male
+2017,Sants-Montjuïc,el Poble-sec,13,Central Asia,Female
+2017,Sants-Montjuïc,el Poble-sec,10,Central Asia,Male
+2017,Sants-Montjuïc,el Poble-sec,252,Eastern Asia,Female
+2017,Sants-Montjuïc,el Poble-sec,190,Eastern Asia,Male
+2017,Sants-Montjuïc,el Poble-sec,891,Southern Asia,Female
+2017,Sants-Montjuïc,el Poble-sec,2125,Southern Asia,Male
+2017,Sants-Montjuïc,el Poble-sec,984,South-Eastern Asia,Female
+2017,Sants-Montjuïc,el Poble-sec,733,South-Eastern Asia,Male
+2017,Sants-Montjuïc,el Poble-sec,94,Western Asia,Female
+2017,Sants-Montjuïc,el Poble-sec,104,Western Asia,Male
+2017,Sants-Montjuïc,el Poble-sec,409,Eastern Europe,Female
+2017,Sants-Montjuïc,el Poble-sec,247,Eastern Europe,Male
+2017,Sants-Montjuïc,el Poble-sec,242,Northern Europe,Female
+2017,Sants-Montjuïc,el Poble-sec,267,Northern Europe,Male
+2017,Sants-Montjuïc,el Poble-sec,13410,Southern Europe,Female
+2017,Sants-Montjuïc,el Poble-sec,12348,Southern Europe,Male
+2017,Sants-Montjuïc,el Poble-sec,563,Western Europe,Female
+2017,Sants-Montjuïc,el Poble-sec,504,Western Europe,Male
+2017,Sants-Montjuïc,el Poble-sec,11,Australia and New Zealand,Female
+2017,Sants-Montjuïc,el Poble-sec,17,Australia and New Zealand,Male
+2017,Sants-Montjuïc,el Poble-sec,..,Not available,Male
+2017,Sants-Montjuïc,la Marina del Prat Vermell,..,Northern Africa,Female
+2017,Sants-Montjuïc,la Marina del Prat Vermell,7,Northern Africa,Male
+2017,Sants-Montjuïc,la Marina del Prat Vermell,..,Western Africa,Female
+2017,Sants-Montjuïc,la Marina del Prat Vermell,..,Western Africa,Male
+2017,Sants-Montjuïc,la Marina del Prat Vermell,..,Caribbean,Female
+2017,Sants-Montjuïc,la Marina del Prat Vermell,..,Caribbean,Male
+2017,Sants-Montjuïc,la Marina del Prat Vermell,..,Central America,Female
+2017,Sants-Montjuïc,la Marina del Prat Vermell,..,Central America,Male
+2017,Sants-Montjuïc,la Marina del Prat Vermell,37,South America,Female
+2017,Sants-Montjuïc,la Marina del Prat Vermell,35,South America,Male
+2017,Sants-Montjuïc,la Marina del Prat Vermell,..,Central Asia,Male
+2017,Sants-Montjuïc,la Marina del Prat Vermell,6,Eastern Asia,Female
+2017,Sants-Montjuïc,la Marina del Prat Vermell,11,Eastern Asia,Male
+2017,Sants-Montjuïc,la Marina del Prat Vermell,..,Southern Asia,Female
+2017,Sants-Montjuïc,la Marina del Prat Vermell,..,Western Asia,Female
+2017,Sants-Montjuïc,la Marina del Prat Vermell,..,Western Asia,Male
+2017,Sants-Montjuïc,la Marina del Prat Vermell,5,Eastern Europe,Female
+2017,Sants-Montjuïc,la Marina del Prat Vermell,..,Eastern Europe,Male
+2017,Sants-Montjuïc,la Marina del Prat Vermell,481,Southern Europe,Female
+2017,Sants-Montjuïc,la Marina del Prat Vermell,529,Southern Europe,Male
+2017,Sants-Montjuïc,la Marina del Prat Vermell,8,Western Europe,Female
+2017,Sants-Montjuïc,la Marina del Prat Vermell,5,Western Europe,Male
+2017,Sants-Montjuïc,la Marina de Port,5,Eastern Africa,Female
+2017,Sants-Montjuïc,la Marina de Port,..,Eastern Africa,Male
+2017,Sants-Montjuïc,la Marina de Port,27,Middle Africa,Female
+2017,Sants-Montjuïc,la Marina de Port,11,Middle Africa,Male
+2017,Sants-Montjuïc,la Marina de Port,229,Northern Africa,Female
+2017,Sants-Montjuïc,la Marina de Port,240,Northern Africa,Male
+2017,Sants-Montjuïc,la Marina de Port,..,Southern Africa,Female
+2017,Sants-Montjuïc,la Marina de Port,..,Southern Africa,Male
+2017,Sants-Montjuïc,la Marina de Port,25,Western Africa,Female
+2017,Sants-Montjuïc,la Marina de Port,34,Western Africa,Male
+2017,Sants-Montjuïc,la Marina de Port,215,Caribbean,Female
+2017,Sants-Montjuïc,la Marina de Port,150,Caribbean,Male
+2017,Sants-Montjuïc,la Marina de Port,231,Central America,Female
+2017,Sants-Montjuïc,la Marina de Port,99,Central America,Male
+2017,Sants-Montjuïc,la Marina de Port,1417,South America,Female
+2017,Sants-Montjuïc,la Marina de Port,1146,South America,Male
+2017,Sants-Montjuïc,la Marina de Port,15,Northern America,Female
+2017,Sants-Montjuïc,la Marina de Port,8,Northern America,Male
+2017,Sants-Montjuïc,la Marina de Port,7,Central Asia,Female
+2017,Sants-Montjuïc,la Marina de Port,..,Central Asia,Male
+2017,Sants-Montjuïc,la Marina de Port,259,Eastern Asia,Female
+2017,Sants-Montjuïc,la Marina de Port,232,Eastern Asia,Male
+2017,Sants-Montjuïc,la Marina de Port,132,Southern Asia,Female
+2017,Sants-Montjuïc,la Marina de Port,306,Southern Asia,Male
+2017,Sants-Montjuïc,la Marina de Port,306,South-Eastern Asia,Female
+2017,Sants-Montjuïc,la Marina de Port,238,South-Eastern Asia,Male
+2017,Sants-Montjuïc,la Marina de Port,28,Western Asia,Female
+2017,Sants-Montjuïc,la Marina de Port,41,Western Asia,Male
+2017,Sants-Montjuïc,la Marina de Port,294,Eastern Europe,Female
+2017,Sants-Montjuïc,la Marina de Port,196,Eastern Europe,Male
+2017,Sants-Montjuïc,la Marina de Port,21,Northern Europe,Female
+2017,Sants-Montjuïc,la Marina de Port,19,Northern Europe,Male
+2017,Sants-Montjuïc,la Marina de Port,12570,Southern Europe,Female
+2017,Sants-Montjuïc,la Marina de Port,11908,Southern Europe,Male
+2017,Sants-Montjuïc,la Marina de Port,105,Western Europe,Female
+2017,Sants-Montjuïc,la Marina de Port,81,Western Europe,Male
+2017,Sants-Montjuïc,la Marina de Port,..,Australia and New Zealand,Female
+2017,Sants-Montjuïc,la Marina de Port,..,Australia and New Zealand,Male
+2017,Sants-Montjuïc,la Marina de Port,7,Not available,Female
+2017,Sants-Montjuïc,la Marina de Port,..,Not available,Male
+2017,Sants-Montjuïc,la Font de la Guatlla,..,Eastern Africa,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,..,Eastern Africa,Male
+2017,Sants-Montjuïc,la Font de la Guatlla,..,Middle Africa,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,..,Middle Africa,Male
+2017,Sants-Montjuïc,la Font de la Guatlla,57,Northern Africa,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,62,Northern Africa,Male
+2017,Sants-Montjuïc,la Font de la Guatlla,..,Southern Africa,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,11,Western Africa,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,23,Western Africa,Male
+2017,Sants-Montjuïc,la Font de la Guatlla,66,Caribbean,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,58,Caribbean,Male
+2017,Sants-Montjuïc,la Font de la Guatlla,47,Central America,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,38,Central America,Male
+2017,Sants-Montjuïc,la Font de la Guatlla,604,South America,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,488,South America,Male
+2017,Sants-Montjuïc,la Font de la Guatlla,8,Northern America,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,10,Northern America,Male
+2017,Sants-Montjuïc,la Font de la Guatlla,..,Central Asia,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,96,Eastern Asia,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,68,Eastern Asia,Male
+2017,Sants-Montjuïc,la Font de la Guatlla,79,Southern Asia,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,175,Southern Asia,Male
+2017,Sants-Montjuïc,la Font de la Guatlla,30,South-Eastern Asia,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,18,South-Eastern Asia,Male
+2017,Sants-Montjuïc,la Font de la Guatlla,32,Western Asia,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,41,Western Asia,Male
+2017,Sants-Montjuïc,la Font de la Guatlla,164,Eastern Europe,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,94,Eastern Europe,Male
+2017,Sants-Montjuïc,la Font de la Guatlla,43,Northern Europe,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,30,Northern Europe,Male
+2017,Sants-Montjuïc,la Font de la Guatlla,4182,Southern Europe,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,3700,Southern Europe,Male
+2017,Sants-Montjuïc,la Font de la Guatlla,80,Western Europe,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,97,Western Europe,Male
+2017,Sants-Montjuïc,la Font de la Guatlla,..,Australia and New Zealand,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,..,Australia and New Zealand,Male
+2017,Sants-Montjuïc,la Font de la Guatlla,..,Not available,Female
+2017,Sants-Montjuïc,la Font de la Guatlla,..,Not available,Male
+2017,Sants-Montjuïc,Hostafrancs,..,Eastern Africa,Female
+2017,Sants-Montjuïc,Hostafrancs,..,Eastern Africa,Male
+2017,Sants-Montjuïc,Hostafrancs,..,Middle Africa,Female
+2017,Sants-Montjuïc,Hostafrancs,..,Middle Africa,Male
+2017,Sants-Montjuïc,Hostafrancs,130,Northern Africa,Female
+2017,Sants-Montjuïc,Hostafrancs,130,Northern Africa,Male
+2017,Sants-Montjuïc,Hostafrancs,..,Southern Africa,Male
+2017,Sants-Montjuïc,Hostafrancs,18,Western Africa,Female
+2017,Sants-Montjuïc,Hostafrancs,18,Western Africa,Male
+2017,Sants-Montjuïc,Hostafrancs,113,Caribbean,Female
+2017,Sants-Montjuïc,Hostafrancs,83,Caribbean,Male
+2017,Sants-Montjuïc,Hostafrancs,113,Central America,Female
+2017,Sants-Montjuïc,Hostafrancs,65,Central America,Male
+2017,Sants-Montjuïc,Hostafrancs,963,South America,Female
+2017,Sants-Montjuïc,Hostafrancs,762,South America,Male
+2017,Sants-Montjuïc,Hostafrancs,25,Northern America,Female
+2017,Sants-Montjuïc,Hostafrancs,27,Northern America,Male
+2017,Sants-Montjuïc,Hostafrancs,7,Central Asia,Female
+2017,Sants-Montjuïc,Hostafrancs,..,Central Asia,Male
+2017,Sants-Montjuïc,Hostafrancs,145,Eastern Asia,Female
+2017,Sants-Montjuïc,Hostafrancs,134,Eastern Asia,Male
+2017,Sants-Montjuïc,Hostafrancs,141,Southern Asia,Female
+2017,Sants-Montjuïc,Hostafrancs,373,Southern Asia,Male
+2017,Sants-Montjuïc,Hostafrancs,84,South-Eastern Asia,Female
+2017,Sants-Montjuïc,Hostafrancs,60,South-Eastern Asia,Male
+2017,Sants-Montjuïc,Hostafrancs,44,Western Asia,Female
+2017,Sants-Montjuïc,Hostafrancs,57,Western Asia,Male
+2017,Sants-Montjuïc,Hostafrancs,191,Eastern Europe,Female
+2017,Sants-Montjuïc,Hostafrancs,102,Eastern Europe,Male
+2017,Sants-Montjuïc,Hostafrancs,44,Northern Europe,Female
+2017,Sants-Montjuïc,Hostafrancs,65,Northern Europe,Male
+2017,Sants-Montjuïc,Hostafrancs,6136,Southern Europe,Female
+2017,Sants-Montjuïc,Hostafrancs,5572,Southern Europe,Male
+2017,Sants-Montjuïc,Hostafrancs,157,Western Europe,Female
+2017,Sants-Montjuïc,Hostafrancs,158,Western Europe,Male
+2017,Sants-Montjuïc,Hostafrancs,5,Australia and New Zealand,Female
+2017,Sants-Montjuïc,Hostafrancs,7,Australia and New Zealand,Male
+2017,Sants-Montjuïc,Hostafrancs,..,Not available,Female
+2017,Sants-Montjuïc,Hostafrancs,..,Not available,Male
+2017,Sants-Montjuïc,la Bordeta,5,Eastern Africa,Female
+2017,Sants-Montjuïc,la Bordeta,7,Eastern Africa,Male
+2017,Sants-Montjuïc,la Bordeta,7,Middle Africa,Female
+2017,Sants-Montjuïc,la Bordeta,8,Middle Africa,Male
+2017,Sants-Montjuïc,la Bordeta,121,Northern Africa,Female
+2017,Sants-Montjuïc,la Bordeta,139,Northern Africa,Male
+2017,Sants-Montjuïc,la Bordeta,..,Southern Africa,Male
+2017,Sants-Montjuïc,la Bordeta,8,Western Africa,Female
+2017,Sants-Montjuïc,la Bordeta,27,Western Africa,Male
+2017,Sants-Montjuïc,la Bordeta,150,Caribbean,Female
+2017,Sants-Montjuïc,la Bordeta,104,Caribbean,Male
+2017,Sants-Montjuïc,la Bordeta,78,Central America,Female
+2017,Sants-Montjuïc,la Bordeta,53,Central America,Male
+2017,Sants-Montjuïc,la Bordeta,864,South America,Female
+2017,Sants-Montjuïc,la Bordeta,659,South America,Male
+2017,Sants-Montjuïc,la Bordeta,13,Northern America,Female
+2017,Sants-Montjuïc,la Bordeta,7,Northern America,Male
+2017,Sants-Montjuïc,la Bordeta,..,Central Asia,Female
+2017,Sants-Montjuïc,la Bordeta,125,Eastern Asia,Female
+2017,Sants-Montjuïc,la Bordeta,98,Eastern Asia,Male
+2017,Sants-Montjuïc,la Bordeta,99,Southern Asia,Female
+2017,Sants-Montjuïc,la Bordeta,201,Southern Asia,Male
+2017,Sants-Montjuïc,la Bordeta,41,South-Eastern Asia,Female
+2017,Sants-Montjuïc,la Bordeta,30,South-Eastern Asia,Male
+2017,Sants-Montjuïc,la Bordeta,36,Western Asia,Female
+2017,Sants-Montjuïc,la Bordeta,35,Western Asia,Male
+2017,Sants-Montjuïc,la Bordeta,121,Eastern Europe,Female
+2017,Sants-Montjuïc,la Bordeta,98,Eastern Europe,Male
+2017,Sants-Montjuïc,la Bordeta,21,Northern Europe,Female
+2017,Sants-Montjuïc,la Bordeta,26,Northern Europe,Male
+2017,Sants-Montjuïc,la Bordeta,8019,Southern Europe,Female
+2017,Sants-Montjuïc,la Bordeta,7145,Southern Europe,Male
+2017,Sants-Montjuïc,la Bordeta,100,Western Europe,Female
+2017,Sants-Montjuïc,la Bordeta,107,Western Europe,Male
+2017,Sants-Montjuïc,la Bordeta,..,Australia and New Zealand,Female
+2017,Sants-Montjuïc,la Bordeta,..,Australia and New Zealand,Male
+2017,Sants-Montjuïc,la Bordeta,..,Not available,Female
+2017,Sants-Montjuïc,la Bordeta,..,Not available,Male
+2017,Sants-Montjuïc,Sants - Badal,..,Eastern Africa,Female
+2017,Sants-Montjuïc,Sants - Badal,5,Eastern Africa,Male
+2017,Sants-Montjuïc,Sants - Badal,20,Middle Africa,Female
+2017,Sants-Montjuïc,Sants - Badal,15,Middle Africa,Male
+2017,Sants-Montjuïc,Sants - Badal,120,Northern Africa,Female
+2017,Sants-Montjuïc,Sants - Badal,127,Northern Africa,Male
+2017,Sants-Montjuïc,Sants - Badal,..,Southern Africa,Female
+2017,Sants-Montjuïc,Sants - Badal,..,Southern Africa,Male
+2017,Sants-Montjuïc,Sants - Badal,12,Western Africa,Female
+2017,Sants-Montjuïc,Sants - Badal,26,Western Africa,Male
+2017,Sants-Montjuïc,Sants - Badal,297,Caribbean,Female
+2017,Sants-Montjuïc,Sants - Badal,182,Caribbean,Male
+2017,Sants-Montjuïc,Sants - Badal,183,Central America,Female
+2017,Sants-Montjuïc,Sants - Badal,101,Central America,Male
+2017,Sants-Montjuïc,Sants - Badal,1635,South America,Female
+2017,Sants-Montjuïc,Sants - Badal,1181,South America,Male
+2017,Sants-Montjuïc,Sants - Badal,21,Northern America,Female
+2017,Sants-Montjuïc,Sants - Badal,19,Northern America,Male
+2017,Sants-Montjuïc,Sants - Badal,..,Central Asia,Female
+2017,Sants-Montjuïc,Sants - Badal,..,Central Asia,Male
+2017,Sants-Montjuïc,Sants - Badal,148,Eastern Asia,Female
+2017,Sants-Montjuïc,Sants - Badal,135,Eastern Asia,Male
+2017,Sants-Montjuïc,Sants - Badal,105,Southern Asia,Female
+2017,Sants-Montjuïc,Sants - Badal,329,Southern Asia,Male
+2017,Sants-Montjuïc,Sants - Badal,72,South-Eastern Asia,Female
+2017,Sants-Montjuïc,Sants - Badal,48,South-Eastern Asia,Male
+2017,Sants-Montjuïc,Sants - Badal,53,Western Asia,Female
+2017,Sants-Montjuïc,Sants - Badal,65,Western Asia,Male
+2017,Sants-Montjuïc,Sants - Badal,217,Eastern Europe,Female
+2017,Sants-Montjuïc,Sants - Badal,142,Eastern Europe,Male
+2017,Sants-Montjuïc,Sants - Badal,45,Northern Europe,Female
+2017,Sants-Montjuïc,Sants - Badal,36,Northern Europe,Male
+2017,Sants-Montjuïc,Sants - Badal,9743,Southern Europe,Female
+2017,Sants-Montjuïc,Sants - Badal,8681,Southern Europe,Male
+2017,Sants-Montjuïc,Sants - Badal,133,Western Europe,Female
+2017,Sants-Montjuïc,Sants - Badal,129,Western Europe,Male
+2017,Sants-Montjuïc,Sants - Badal,..,Australia and New Zealand,Female
+2017,Sants-Montjuïc,Sants - Badal,7,Australia and New Zealand,Male
+2017,Sants-Montjuïc,Sants - Badal,..,Not available,Female
+2017,Sants-Montjuïc,Sants - Badal,..,Not available,Male
+2017,Sants-Montjuïc,Sants,12,Eastern Africa,Female
+2017,Sants-Montjuïc,Sants,12,Eastern Africa,Male
+2017,Sants-Montjuïc,Sants,16,Middle Africa,Female
+2017,Sants-Montjuïc,Sants,15,Middle Africa,Male
+2017,Sants-Montjuïc,Sants,181,Northern Africa,Female
+2017,Sants-Montjuïc,Sants,278,Northern Africa,Male
+2017,Sants-Montjuïc,Sants,23,Western Africa,Female
+2017,Sants-Montjuïc,Sants,98,Western Africa,Male
+2017,Sants-Montjuïc,Sants,316,Caribbean,Female
+2017,Sants-Montjuïc,Sants,232,Caribbean,Male
+2017,Sants-Montjuïc,Sants,272,Central America,Female
+2017,Sants-Montjuïc,Sants,152,Central America,Male
+2017,Sants-Montjuïc,Sants,2247,South America,Female
+2017,Sants-Montjuïc,Sants,1772,South America,Male
+2017,Sants-Montjuïc,Sants,45,Northern America,Female
+2017,Sants-Montjuïc,Sants,54,Northern America,Male
+2017,Sants-Montjuïc,Sants,5,Central Asia,Female
+2017,Sants-Montjuïc,Sants,7,Central Asia,Male
+2017,Sants-Montjuïc,Sants,297,Eastern Asia,Female
+2017,Sants-Montjuïc,Sants,262,Eastern Asia,Male
+2017,Sants-Montjuïc,Sants,219,Southern Asia,Female
+2017,Sants-Montjuïc,Sants,499,Southern Asia,Male
+2017,Sants-Montjuïc,Sants,90,South-Eastern Asia,Female
+2017,Sants-Montjuïc,Sants,56,South-Eastern Asia,Male
+2017,Sants-Montjuïc,Sants,76,Western Asia,Female
+2017,Sants-Montjuïc,Sants,107,Western Asia,Male
+2017,Sants-Montjuïc,Sants,391,Eastern Europe,Female
+2017,Sants-Montjuïc,Sants,282,Eastern Europe,Male
+2017,Sants-Montjuïc,Sants,109,Northern Europe,Female
+2017,Sants-Montjuïc,Sants,103,Northern Europe,Male
+2017,Sants-Montjuïc,Sants,17191,Southern Europe,Female
+2017,Sants-Montjuïc,Sants,15152,Southern Europe,Male
+2017,Sants-Montjuïc,Sants,361,Western Europe,Female
+2017,Sants-Montjuïc,Sants,295,Western Europe,Male
+2017,Sants-Montjuïc,Sants,..,Australia and New Zealand,Female
+2017,Sants-Montjuïc,Sants,12,Australia and New Zealand,Male
+2017,Sants-Montjuïc,Sants,..,Not available,Female
+2017,Les Corts,les Corts,8,Eastern Africa,Female
+2017,Les Corts,les Corts,9,Eastern Africa,Male
+2017,Les Corts,les Corts,10,Middle Africa,Female
+2017,Les Corts,les Corts,8,Middle Africa,Male
+2017,Les Corts,les Corts,138,Northern Africa,Female
+2017,Les Corts,les Corts,156,Northern Africa,Male
+2017,Les Corts,les Corts,..,Southern Africa,Female
+2017,Les Corts,les Corts,..,Southern Africa,Male
+2017,Les Corts,les Corts,25,Western Africa,Female
+2017,Les Corts,les Corts,38,Western Africa,Male
+2017,Les Corts,les Corts,179,Caribbean,Female
+2017,Les Corts,les Corts,111,Caribbean,Male
+2017,Les Corts,les Corts,216,Central America,Female
+2017,Les Corts,les Corts,142,Central America,Male
+2017,Les Corts,les Corts,1665,South America,Female
+2017,Les Corts,les Corts,1165,South America,Male
+2017,Les Corts,les Corts,84,Northern America,Female
+2017,Les Corts,les Corts,85,Northern America,Male
+2017,Les Corts,les Corts,20,Central Asia,Female
+2017,Les Corts,les Corts,10,Central Asia,Male
+2017,Les Corts,les Corts,407,Eastern Asia,Female
+2017,Les Corts,les Corts,326,Eastern Asia,Male
+2017,Les Corts,les Corts,74,Southern Asia,Female
+2017,Les Corts,les Corts,178,Southern Asia,Male
+2017,Les Corts,les Corts,70,South-Eastern Asia,Female
+2017,Les Corts,les Corts,25,South-Eastern Asia,Male
+2017,Les Corts,les Corts,75,Western Asia,Female
+2017,Les Corts,les Corts,76,Western Asia,Male
+2017,Les Corts,les Corts,353,Eastern Europe,Female
+2017,Les Corts,les Corts,229,Eastern Europe,Male
+2017,Les Corts,les Corts,96,Northern Europe,Female
+2017,Les Corts,les Corts,93,Northern Europe,Male
+2017,Les Corts,les Corts,20908,Southern Europe,Female
+2017,Les Corts,les Corts,18470,Southern Europe,Male
+2017,Les Corts,les Corts,354,Western Europe,Female
+2017,Les Corts,les Corts,268,Western Europe,Male
+2017,Les Corts,les Corts,6,Australia and New Zealand,Female
+2017,Les Corts,les Corts,8,Australia and New Zealand,Male
+2017,Les Corts,les Corts,10,Not available,Female
+2017,Les Corts,les Corts,6,Not available,Male
+2017,Les Corts,la Maternitat i Sant Ramon,7,Eastern Africa,Female
+2017,Les Corts,la Maternitat i Sant Ramon,6,Eastern Africa,Male
+2017,Les Corts,la Maternitat i Sant Ramon,5,Middle Africa,Female
+2017,Les Corts,la Maternitat i Sant Ramon,..,Middle Africa,Male
+2017,Les Corts,la Maternitat i Sant Ramon,97,Northern Africa,Female
+2017,Les Corts,la Maternitat i Sant Ramon,85,Northern Africa,Male
+2017,Les Corts,la Maternitat i Sant Ramon,..,Southern Africa,Female
+2017,Les Corts,la Maternitat i Sant Ramon,..,Southern Africa,Male
+2017,Les Corts,la Maternitat i Sant Ramon,10,Western Africa,Female
+2017,Les Corts,la Maternitat i Sant Ramon,16,Western Africa,Male
+2017,Les Corts,la Maternitat i Sant Ramon,138,Caribbean,Female
+2017,Les Corts,la Maternitat i Sant Ramon,86,Caribbean,Male
+2017,Les Corts,la Maternitat i Sant Ramon,151,Central America,Female
+2017,Les Corts,la Maternitat i Sant Ramon,98,Central America,Male
+2017,Les Corts,la Maternitat i Sant Ramon,1030,South America,Female
+2017,Les Corts,la Maternitat i Sant Ramon,803,South America,Male
+2017,Les Corts,la Maternitat i Sant Ramon,30,Northern America,Female
+2017,Les Corts,la Maternitat i Sant Ramon,28,Northern America,Male
+2017,Les Corts,la Maternitat i Sant Ramon,5,Central Asia,Female
+2017,Les Corts,la Maternitat i Sant Ramon,5,Central Asia,Male
+2017,Les Corts,la Maternitat i Sant Ramon,132,Eastern Asia,Female
+2017,Les Corts,la Maternitat i Sant Ramon,135,Eastern Asia,Male
+2017,Les Corts,la Maternitat i Sant Ramon,52,Southern Asia,Female
+2017,Les Corts,la Maternitat i Sant Ramon,113,Southern Asia,Male
+2017,Les Corts,la Maternitat i Sant Ramon,28,South-Eastern Asia,Female
+2017,Les Corts,la Maternitat i Sant Ramon,8,South-Eastern Asia,Male
+2017,Les Corts,la Maternitat i Sant Ramon,29,Western Asia,Female
+2017,Les Corts,la Maternitat i Sant Ramon,48,Western Asia,Male
+2017,Les Corts,la Maternitat i Sant Ramon,170,Eastern Europe,Female
+2017,Les Corts,la Maternitat i Sant Ramon,90,Eastern Europe,Male
+2017,Les Corts,la Maternitat i Sant Ramon,38,Northern Europe,Female
+2017,Les Corts,la Maternitat i Sant Ramon,41,Northern Europe,Male
+2017,Les Corts,la Maternitat i Sant Ramon,10687,Southern Europe,Female
+2017,Les Corts,la Maternitat i Sant Ramon,9494,Southern Europe,Male
+2017,Les Corts,la Maternitat i Sant Ramon,166,Western Europe,Female
+2017,Les Corts,la Maternitat i Sant Ramon,136,Western Europe,Male
+2017,Les Corts,la Maternitat i Sant Ramon,..,Australia and New Zealand,Female
+2017,Les Corts,la Maternitat i Sant Ramon,..,Australia and New Zealand,Male
+2017,Les Corts,la Maternitat i Sant Ramon,..,Not available,Male
+2017,Les Corts,Pedralbes,6,Eastern Africa,Female
+2017,Les Corts,Pedralbes,5,Eastern Africa,Male
+2017,Les Corts,Pedralbes,..,Middle Africa,Female
+2017,Les Corts,Pedralbes,..,Middle Africa,Male
+2017,Les Corts,Pedralbes,52,Northern Africa,Female
+2017,Les Corts,Pedralbes,65,Northern Africa,Male
+2017,Les Corts,Pedralbes,..,Southern Africa,Female
+2017,Les Corts,Pedralbes,..,Southern Africa,Male
+2017,Les Corts,Pedralbes,7,Western Africa,Female
+2017,Les Corts,Pedralbes,6,Western Africa,Male
+2017,Les Corts,Pedralbes,42,Caribbean,Female
+2017,Les Corts,Pedralbes,17,Caribbean,Male
+2017,Les Corts,Pedralbes,87,Central America,Female
+2017,Les Corts,Pedralbes,54,Central America,Male
+2017,Les Corts,Pedralbes,423,South America,Female
+2017,Les Corts,Pedralbes,271,South America,Male
+2017,Les Corts,Pedralbes,53,Northern America,Female
+2017,Les Corts,Pedralbes,47,Northern America,Male
+2017,Les Corts,Pedralbes,5,Central Asia,Female
+2017,Les Corts,Pedralbes,..,Central Asia,Male
+2017,Les Corts,Pedralbes,105,Eastern Asia,Female
+2017,Les Corts,Pedralbes,73,Eastern Asia,Male
+2017,Les Corts,Pedralbes,36,Southern Asia,Female
+2017,Les Corts,Pedralbes,29,Southern Asia,Male
+2017,Les Corts,Pedralbes,50,South-Eastern Asia,Female
+2017,Les Corts,Pedralbes,23,South-Eastern Asia,Male
+2017,Les Corts,Pedralbes,36,Western Asia,Female
+2017,Les Corts,Pedralbes,47,Western Asia,Male
+2017,Les Corts,Pedralbes,179,Eastern Europe,Female
+2017,Les Corts,Pedralbes,129,Eastern Europe,Male
+2017,Les Corts,Pedralbes,59,Northern Europe,Female
+2017,Les Corts,Pedralbes,65,Northern Europe,Male
+2017,Les Corts,Pedralbes,5018,Southern Europe,Female
+2017,Les Corts,Pedralbes,4552,Southern Europe,Male
+2017,Les Corts,Pedralbes,278,Western Europe,Female
+2017,Les Corts,Pedralbes,281,Western Europe,Male
+2017,Les Corts,Pedralbes,..,Australia and New Zealand,Male
+2017,Les Corts,Pedralbes,..,Not available,Female
+2017,Les Corts,Pedralbes,..,Not available,Male
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Eastern Africa,Female
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Eastern Africa,Male
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Middle Africa,Male
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",6,Northern Africa,Female
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",13,Northern Africa,Male
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Southern Africa,Female
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Southern Africa,Male
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Western Africa,Female
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",7,Caribbean,Female
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",6,Caribbean,Male
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",15,Central America,Female
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",10,Central America,Male
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",146,South America,Female
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",105,South America,Male
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",26,Northern America,Female
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",18,Northern America,Male
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Central Asia,Female
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",10,Eastern Asia,Female
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Eastern Asia,Male
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Southern Asia,Female
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",6,Southern Asia,Male
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",8,South-Eastern Asia,Female
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,South-Eastern Asia,Male
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",9,Western Asia,Female
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",11,Western Asia,Male
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",55,Eastern Europe,Female
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",35,Eastern Europe,Male
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",44,Northern Europe,Female
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",39,Northern Europe,Male
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",1930,Southern Europe,Female
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",1978,Southern Europe,Male
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",92,Western Europe,Female
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",94,Western Europe,Male
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Australia and New Zealand,Female
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",..,Australia and New Zealand,Male
+2017,Sarrià-Sant Gervasi,Sarrià,11,Eastern Africa,Female
+2017,Sarrià-Sant Gervasi,Sarrià,10,Eastern Africa,Male
+2017,Sarrià-Sant Gervasi,Sarrià,8,Middle Africa,Female
+2017,Sarrià-Sant Gervasi,Sarrià,6,Middle Africa,Male
+2017,Sarrià-Sant Gervasi,Sarrià,69,Northern Africa,Female
+2017,Sarrià-Sant Gervasi,Sarrià,75,Northern Africa,Male
+2017,Sarrià-Sant Gervasi,Sarrià,..,Southern Africa,Female
+2017,Sarrià-Sant Gervasi,Sarrià,..,Southern Africa,Male
+2017,Sarrià-Sant Gervasi,Sarrià,9,Western Africa,Female
+2017,Sarrià-Sant Gervasi,Sarrià,15,Western Africa,Male
+2017,Sarrià-Sant Gervasi,Sarrià,47,Caribbean,Female
+2017,Sarrià-Sant Gervasi,Sarrià,25,Caribbean,Male
+2017,Sarrià-Sant Gervasi,Sarrià,135,Central America,Female
+2017,Sarrià-Sant Gervasi,Sarrià,63,Central America,Male
+2017,Sarrià-Sant Gervasi,Sarrià,606,South America,Female
+2017,Sarrià-Sant Gervasi,Sarrià,319,South America,Male
+2017,Sarrià-Sant Gervasi,Sarrià,144,Northern America,Female
+2017,Sarrià-Sant Gervasi,Sarrià,123,Northern America,Male
+2017,Sarrià-Sant Gervasi,Sarrià,6,Central Asia,Female
+2017,Sarrià-Sant Gervasi,Sarrià,..,Central Asia,Male
+2017,Sarrià-Sant Gervasi,Sarrià,163,Eastern Asia,Female
+2017,Sarrià-Sant Gervasi,Sarrià,142,Eastern Asia,Male
+2017,Sarrià-Sant Gervasi,Sarrià,37,Southern Asia,Female
+2017,Sarrià-Sant Gervasi,Sarrià,40,Southern Asia,Male
+2017,Sarrià-Sant Gervasi,Sarrià,47,South-Eastern Asia,Female
+2017,Sarrià-Sant Gervasi,Sarrià,19,South-Eastern Asia,Male
+2017,Sarrià-Sant Gervasi,Sarrià,45,Western Asia,Female
+2017,Sarrià-Sant Gervasi,Sarrià,50,Western Asia,Male
+2017,Sarrià-Sant Gervasi,Sarrià,182,Eastern Europe,Female
+2017,Sarrià-Sant Gervasi,Sarrià,149,Eastern Europe,Male
+2017,Sarrià-Sant Gervasi,Sarrià,104,Northern Europe,Female
+2017,Sarrià-Sant Gervasi,Sarrià,113,Northern Europe,Male
+2017,Sarrià-Sant Gervasi,Sarrià,11346,Southern Europe,Female
+2017,Sarrià-Sant Gervasi,Sarrià,10107,Southern Europe,Male
+2017,Sarrià-Sant Gervasi,Sarrià,449,Western Europe,Female
+2017,Sarrià-Sant Gervasi,Sarrià,409,Western Europe,Male
+2017,Sarrià-Sant Gervasi,Sarrià,..,Australia and New Zealand,Female
+2017,Sarrià-Sant Gervasi,Sarrià,5,Australia and New Zealand,Male
+2017,Sarrià-Sant Gervasi,Sarrià,10,Not available,Female
+2017,Sarrià-Sant Gervasi,Sarrià,6,Not available,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,..,Eastern Africa,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,..,Eastern Africa,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,..,Middle Africa,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,..,Middle Africa,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,33,Northern Africa,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,47,Northern Africa,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,..,Southern Africa,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,..,Southern Africa,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,..,Western Africa,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,7,Western Africa,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,31,Caribbean,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,10,Caribbean,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,105,Central America,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,51,Central America,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,392,South America,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,236,South America,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,134,Northern America,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,72,Northern America,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,..,Central Asia,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,..,Central Asia,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,77,Eastern Asia,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,67,Eastern Asia,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,24,Southern Asia,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,25,Southern Asia,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,59,South-Eastern Asia,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,16,South-Eastern Asia,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,31,Western Asia,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,32,Western Asia,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,85,Eastern Europe,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,58,Eastern Europe,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,41,Northern Europe,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,47,Northern Europe,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,7730,Southern Europe,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,6922,Southern Europe,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,195,Western Europe,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,139,Western Europe,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,5,Australia and New Zealand,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,..,Australia and New Zealand,Male
+2017,Sarrià-Sant Gervasi,les Tres Torres,..,Not available,Female
+2017,Sarrià-Sant Gervasi,les Tres Torres,..,Not available,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,9,Eastern Africa,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,8,Eastern Africa,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,7,Middle Africa,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,5,Middle Africa,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,68,Northern Africa,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,92,Northern Africa,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,..,Southern Africa,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,15,Western Africa,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,26,Western Africa,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,48,Caribbean,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,26,Caribbean,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,166,Central America,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,79,Central America,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,856,South America,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,529,South America,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,93,Northern America,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,73,Northern America,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,12,Central Asia,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,6,Central Asia,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,123,Eastern Asia,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,109,Eastern Asia,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,30,Southern Asia,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,99,Southern Asia,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,65,South-Eastern Asia,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,South-Eastern Asia,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,49,Western Asia,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,49,Western Asia,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,226,Eastern Europe,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,148,Eastern Europe,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,90,Northern Europe,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,81,Northern Europe,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,11809,Southern Europe,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,10313,Southern Europe,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,316,Western Europe,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,238,Western Europe,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,..,Australia and New Zealand,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,8,Australia and New Zealand,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,..,Not available,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,..,Not available,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,21,Eastern Africa,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,17,Eastern Africa,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,15,Middle Africa,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,6,Middle Africa,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,153,Northern Africa,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,155,Northern Africa,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,10,Southern Africa,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,6,Southern Africa,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,23,Western Africa,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,21,Western Africa,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,149,Caribbean,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,97,Caribbean,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,348,Central America,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,189,Central America,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,1721,South America,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,1007,South America,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,263,Northern America,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,223,Northern America,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,14,Central Asia,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,15,Central Asia,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,210,Eastern Asia,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,142,Eastern Asia,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,83,Southern Asia,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,132,Southern Asia,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,193,South-Eastern Asia,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,103,South-Eastern Asia,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,94,Western Asia,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,133,Western Asia,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,366,Eastern Europe,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,193,Eastern Europe,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,177,Northern Europe,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,181,Northern Europe,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,21762,Southern Europe,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,18369,Southern Europe,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,642,Western Europe,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,554,Western Europe,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,9,Australia and New Zealand,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,12,Australia and New Zealand,Male
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,..,Not available,Female
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,..,Not available,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,9,Eastern Africa,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,10,Eastern Africa,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,5,Middle Africa,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,8,Middle Africa,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,85,Northern Africa,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,104,Northern Africa,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,..,Southern Africa,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,..,Southern Africa,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,15,Western Africa,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,44,Western Africa,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,83,Caribbean,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,53,Caribbean,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,179,Central America,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,126,Central America,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,1338,South America,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,963,South America,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,105,Northern America,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,83,Northern America,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,10,Central Asia,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,6,Central Asia,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,144,Eastern Asia,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,98,Eastern Asia,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,48,Southern Asia,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,81,Southern Asia,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,41,South-Eastern Asia,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,13,South-Eastern Asia,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,43,Western Asia,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,42,Western Asia,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,248,Eastern Europe,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,133,Eastern Europe,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,125,Northern Europe,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,118,Northern Europe,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,13281,Southern Europe,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,11220,Southern Europe,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,349,Western Europe,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,281,Western Europe,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,5,Australia and New Zealand,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,9,Australia and New Zealand,Male
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,..,Not available,Female
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,..,Not available,Male
+2017,Gràcia,Vallcarca i els Penitents,6,Eastern Africa,Female
+2017,Gràcia,Vallcarca i els Penitents,..,Eastern Africa,Male
+2017,Gràcia,Vallcarca i els Penitents,..,Middle Africa,Female
+2017,Gràcia,Vallcarca i els Penitents,5,Middle Africa,Male
+2017,Gràcia,Vallcarca i els Penitents,44,Northern Africa,Female
+2017,Gràcia,Vallcarca i els Penitents,50,Northern Africa,Male
+2017,Gràcia,Vallcarca i els Penitents,12,Western Africa,Female
+2017,Gràcia,Vallcarca i els Penitents,13,Western Africa,Male
+2017,Gràcia,Vallcarca i els Penitents,72,Caribbean,Female
+2017,Gràcia,Vallcarca i els Penitents,40,Caribbean,Male
+2017,Gràcia,Vallcarca i els Penitents,84,Central America,Female
+2017,Gràcia,Vallcarca i els Penitents,52,Central America,Male
+2017,Gràcia,Vallcarca i els Penitents,713,South America,Female
+2017,Gràcia,Vallcarca i els Penitents,524,South America,Male
+2017,Gràcia,Vallcarca i els Penitents,41,Northern America,Female
+2017,Gràcia,Vallcarca i els Penitents,36,Northern America,Male
+2017,Gràcia,Vallcarca i els Penitents,..,Central Asia,Female
+2017,Gràcia,Vallcarca i els Penitents,60,Eastern Asia,Female
+2017,Gràcia,Vallcarca i els Penitents,44,Eastern Asia,Male
+2017,Gràcia,Vallcarca i els Penitents,32,Southern Asia,Female
+2017,Gràcia,Vallcarca i els Penitents,98,Southern Asia,Male
+2017,Gràcia,Vallcarca i els Penitents,15,South-Eastern Asia,Female
+2017,Gràcia,Vallcarca i els Penitents,6,South-Eastern Asia,Male
+2017,Gràcia,Vallcarca i els Penitents,26,Western Asia,Female
+2017,Gràcia,Vallcarca i els Penitents,15,Western Asia,Male
+2017,Gràcia,Vallcarca i els Penitents,165,Eastern Europe,Female
+2017,Gràcia,Vallcarca i els Penitents,111,Eastern Europe,Male
+2017,Gràcia,Vallcarca i els Penitents,75,Northern Europe,Female
+2017,Gràcia,Vallcarca i els Penitents,68,Northern Europe,Male
+2017,Gràcia,Vallcarca i els Penitents,6914,Southern Europe,Female
+2017,Gràcia,Vallcarca i els Penitents,6145,Southern Europe,Male
+2017,Gràcia,Vallcarca i els Penitents,189,Western Europe,Female
+2017,Gràcia,Vallcarca i els Penitents,149,Western Europe,Male
+2017,Gràcia,Vallcarca i els Penitents,..,Australia and New Zealand,Female
+2017,Gràcia,Vallcarca i els Penitents,7,Australia and New Zealand,Male
+2017,Gràcia,el Coll,..,Eastern Africa,Female
+2017,Gràcia,el Coll,..,Eastern Africa,Male
+2017,Gràcia,el Coll,..,Middle Africa,Female
+2017,Gràcia,el Coll,..,Middle Africa,Male
+2017,Gràcia,el Coll,31,Northern Africa,Female
+2017,Gràcia,el Coll,43,Northern Africa,Male
+2017,Gràcia,el Coll,..,Southern Africa,Male
+2017,Gràcia,el Coll,11,Western Africa,Female
+2017,Gràcia,el Coll,10,Western Africa,Male
+2017,Gràcia,el Coll,22,Caribbean,Female
+2017,Gràcia,el Coll,15,Caribbean,Male
+2017,Gràcia,el Coll,80,Central America,Female
+2017,Gràcia,el Coll,38,Central America,Male
+2017,Gràcia,el Coll,380,South America,Female
+2017,Gràcia,el Coll,282,South America,Male
+2017,Gràcia,el Coll,7,Northern America,Female
+2017,Gràcia,el Coll,12,Northern America,Male
+2017,Gràcia,el Coll,..,Central Asia,Female
+2017,Gràcia,el Coll,..,Central Asia,Male
+2017,Gràcia,el Coll,11,Eastern Asia,Female
+2017,Gràcia,el Coll,5,Eastern Asia,Male
+2017,Gràcia,el Coll,15,Southern Asia,Female
+2017,Gràcia,el Coll,43,Southern Asia,Male
+2017,Gràcia,el Coll,14,South-Eastern Asia,Female
+2017,Gràcia,el Coll,7,South-Eastern Asia,Male
+2017,Gràcia,el Coll,12,Western Asia,Female
+2017,Gràcia,el Coll,10,Western Asia,Male
+2017,Gràcia,el Coll,100,Eastern Europe,Female
+2017,Gràcia,el Coll,61,Eastern Europe,Male
+2017,Gràcia,el Coll,29,Northern Europe,Female
+2017,Gràcia,el Coll,26,Northern Europe,Male
+2017,Gràcia,el Coll,3147,Southern Europe,Female
+2017,Gràcia,el Coll,2851,Southern Europe,Male
+2017,Gràcia,el Coll,83,Western Europe,Female
+2017,Gràcia,el Coll,66,Western Europe,Male
+2017,Gràcia,el Coll,..,Australia and New Zealand,Female
+2017,Gràcia,el Coll,..,Australia and New Zealand,Male
+2017,Gràcia,la Salut,..,Eastern Africa,Female
+2017,Gràcia,la Salut,5,Eastern Africa,Male
+2017,Gràcia,la Salut,..,Middle Africa,Female
+2017,Gràcia,la Salut,..,Middle Africa,Male
+2017,Gràcia,la Salut,29,Northern Africa,Female
+2017,Gràcia,la Salut,97,Northern Africa,Male
+2017,Gràcia,la Salut,..,Southern Africa,Female
+2017,Gràcia,la Salut,..,Southern Africa,Male
+2017,Gràcia,la Salut,11,Western Africa,Female
+2017,Gràcia,la Salut,15,Western Africa,Male
+2017,Gràcia,la Salut,42,Caribbean,Female
+2017,Gràcia,la Salut,22,Caribbean,Male
+2017,Gràcia,la Salut,92,Central America,Female
+2017,Gràcia,la Salut,63,Central America,Male
+2017,Gràcia,la Salut,520,South America,Female
+2017,Gràcia,la Salut,377,South America,Male
+2017,Gràcia,la Salut,30,Northern America,Female
+2017,Gràcia,la Salut,18,Northern America,Male
+2017,Gràcia,la Salut,10,Central Asia,Female
+2017,Gràcia,la Salut,6,Central Asia,Male
+2017,Gràcia,la Salut,62,Eastern Asia,Female
+2017,Gràcia,la Salut,38,Eastern Asia,Male
+2017,Gràcia,la Salut,21,Southern Asia,Female
+2017,Gràcia,la Salut,59,Southern Asia,Male
+2017,Gràcia,la Salut,14,South-Eastern Asia,Female
+2017,Gràcia,la Salut,7,South-Eastern Asia,Male
+2017,Gràcia,la Salut,24,Western Asia,Female
+2017,Gràcia,la Salut,20,Western Asia,Male
+2017,Gràcia,la Salut,93,Eastern Europe,Female
+2017,Gràcia,la Salut,73,Eastern Europe,Male
+2017,Gràcia,la Salut,41,Northern Europe,Female
+2017,Gràcia,la Salut,39,Northern Europe,Male
+2017,Gràcia,la Salut,6021,Southern Europe,Female
+2017,Gràcia,la Salut,5119,Southern Europe,Male
+2017,Gràcia,la Salut,118,Western Europe,Female
+2017,Gràcia,la Salut,101,Western Europe,Male
+2017,Gràcia,la Salut,..,Australia and New Zealand,Female
+2017,Gràcia,la Salut,..,Australia and New Zealand,Male
+2017,Gràcia,la Salut,..,Not available,Female
+2017,Gràcia,la Salut,..,Not available,Male
+2017,Gràcia,la Vila de Gràcia,17,Eastern Africa,Female
+2017,Gràcia,la Vila de Gràcia,26,Eastern Africa,Male
+2017,Gràcia,la Vila de Gràcia,14,Middle Africa,Female
+2017,Gràcia,la Vila de Gràcia,14,Middle Africa,Male
+2017,Gràcia,la Vila de Gràcia,165,Northern Africa,Female
+2017,Gràcia,la Vila de Gràcia,218,Northern Africa,Male
+2017,Gràcia,la Vila de Gràcia,5,Southern Africa,Female
+2017,Gràcia,la Vila de Gràcia,10,Southern Africa,Male
+2017,Gràcia,la Vila de Gràcia,20,Western Africa,Female
+2017,Gràcia,la Vila de Gràcia,74,Western Africa,Male
+2017,Gràcia,la Vila de Gràcia,167,Caribbean,Female
+2017,Gràcia,la Vila de Gràcia,114,Caribbean,Male
+2017,Gràcia,la Vila de Gràcia,406,Central America,Female
+2017,Gràcia,la Vila de Gràcia,262,Central America,Male
+2017,Gràcia,la Vila de Gràcia,2565,South America,Female
+2017,Gràcia,la Vila de Gràcia,1966,South America,Male
+2017,Gràcia,la Vila de Gràcia,307,Northern America,Female
+2017,Gràcia,la Vila de Gràcia,239,Northern America,Male
+2017,Gràcia,la Vila de Gràcia,24,Central Asia,Female
+2017,Gràcia,la Vila de Gràcia,5,Central Asia,Male
+2017,Gràcia,la Vila de Gràcia,307,Eastern Asia,Female
+2017,Gràcia,la Vila de Gràcia,191,Eastern Asia,Male
+2017,Gràcia,la Vila de Gràcia,167,Southern Asia,Female
+2017,Gràcia,la Vila de Gràcia,454,Southern Asia,Male
+2017,Gràcia,la Vila de Gràcia,86,South-Eastern Asia,Female
+2017,Gràcia,la Vila de Gràcia,58,South-Eastern Asia,Male
+2017,Gràcia,la Vila de Gràcia,132,Western Asia,Female
+2017,Gràcia,la Vila de Gràcia,188,Western Asia,Male
+2017,Gràcia,la Vila de Gràcia,457,Eastern Europe,Female
+2017,Gràcia,la Vila de Gràcia,232,Eastern Europe,Male
+2017,Gràcia,la Vila de Gràcia,386,Northern Europe,Female
+2017,Gràcia,la Vila de Gràcia,355,Northern Europe,Male
+2017,Gràcia,la Vila de Gràcia,21571,Southern Europe,Female
+2017,Gràcia,la Vila de Gràcia,17883,Southern Europe,Male
+2017,Gràcia,la Vila de Gràcia,912,Western Europe,Female
+2017,Gràcia,la Vila de Gràcia,807,Western Europe,Male
+2017,Gràcia,la Vila de Gràcia,22,Australia and New Zealand,Female
+2017,Gràcia,la Vila de Gràcia,33,Australia and New Zealand,Male
+2017,Gràcia,la Vila de Gràcia,..,Melanesia,Male
+2017,Gràcia,la Vila de Gràcia,12,Not available,Female
+2017,Gràcia,la Vila de Gràcia,13,Not available,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,7,Eastern Africa,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,12,Eastern Africa,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,9,Middle Africa,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,9,Middle Africa,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,84,Northern Africa,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,93,Northern Africa,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,..,Southern Africa,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,6,Southern Africa,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,11,Western Africa,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,31,Western Africa,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,117,Caribbean,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,82,Caribbean,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,226,Central America,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,131,Central America,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,1429,South America,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,1123,South America,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,55,Northern America,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,53,Northern America,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,14,Central Asia,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,225,Eastern Asia,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,170,Eastern Asia,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,111,Southern Asia,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,185,Southern Asia,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,27,South-Eastern Asia,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,17,South-Eastern Asia,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,86,Western Asia,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,96,Western Asia,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,274,Eastern Europe,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,128,Eastern Europe,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,134,Northern Europe,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,150,Northern Europe,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,15541,Southern Europe,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,13113,Southern Europe,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,343,Western Europe,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,306,Western Europe,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,6,Australia and New Zealand,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,8,Australia and New Zealand,Male
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,..,Melanesia,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,11,Not available,Female
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,..,Not available,Male
+2017,Horta-Guinardó,el Baix Guinardó,5,Eastern Africa,Female
+2017,Horta-Guinardó,el Baix Guinardó,5,Eastern Africa,Male
+2017,Horta-Guinardó,el Baix Guinardó,6,Middle Africa,Female
+2017,Horta-Guinardó,el Baix Guinardó,5,Middle Africa,Male
+2017,Horta-Guinardó,el Baix Guinardó,73,Northern Africa,Female
+2017,Horta-Guinardó,el Baix Guinardó,81,Northern Africa,Male
+2017,Horta-Guinardó,el Baix Guinardó,..,Southern Africa,Male
+2017,Horta-Guinardó,el Baix Guinardó,27,Western Africa,Female
+2017,Horta-Guinardó,el Baix Guinardó,35,Western Africa,Male
+2017,Horta-Guinardó,el Baix Guinardó,119,Caribbean,Female
+2017,Horta-Guinardó,el Baix Guinardó,93,Caribbean,Male
+2017,Horta-Guinardó,el Baix Guinardó,178,Central America,Female
+2017,Horta-Guinardó,el Baix Guinardó,105,Central America,Male
+2017,Horta-Guinardó,el Baix Guinardó,1481,South America,Female
+2017,Horta-Guinardó,el Baix Guinardó,1126,South America,Male
+2017,Horta-Guinardó,el Baix Guinardó,26,Northern America,Female
+2017,Horta-Guinardó,el Baix Guinardó,23,Northern America,Male
+2017,Horta-Guinardó,el Baix Guinardó,5,Central Asia,Female
+2017,Horta-Guinardó,el Baix Guinardó,131,Eastern Asia,Female
+2017,Horta-Guinardó,el Baix Guinardó,105,Eastern Asia,Male
+2017,Horta-Guinardó,el Baix Guinardó,85,Southern Asia,Female
+2017,Horta-Guinardó,el Baix Guinardó,144,Southern Asia,Male
+2017,Horta-Guinardó,el Baix Guinardó,17,South-Eastern Asia,Female
+2017,Horta-Guinardó,el Baix Guinardó,12,South-Eastern Asia,Male
+2017,Horta-Guinardó,el Baix Guinardó,48,Western Asia,Female
+2017,Horta-Guinardó,el Baix Guinardó,70,Western Asia,Male
+2017,Horta-Guinardó,el Baix Guinardó,238,Eastern Europe,Female
+2017,Horta-Guinardó,el Baix Guinardó,131,Eastern Europe,Male
+2017,Horta-Guinardó,el Baix Guinardó,64,Northern Europe,Female
+2017,Horta-Guinardó,el Baix Guinardó,79,Northern Europe,Male
+2017,Horta-Guinardó,el Baix Guinardó,11214,Southern Europe,Female
+2017,Horta-Guinardó,el Baix Guinardó,9692,Southern Europe,Male
+2017,Horta-Guinardó,el Baix Guinardó,171,Western Europe,Female
+2017,Horta-Guinardó,el Baix Guinardó,132,Western Europe,Male
+2017,Horta-Guinardó,el Baix Guinardó,..,Australia and New Zealand,Female
+2017,Horta-Guinardó,el Baix Guinardó,..,Australia and New Zealand,Male
+2017,Horta-Guinardó,el Baix Guinardó,..,Not available,Female
+2017,Horta-Guinardó,Can Baró,..,Eastern Africa,Female
+2017,Horta-Guinardó,Can Baró,..,Eastern Africa,Male
+2017,Horta-Guinardó,Can Baró,..,Middle Africa,Female
+2017,Horta-Guinardó,Can Baró,..,Middle Africa,Male
+2017,Horta-Guinardó,Can Baró,17,Northern Africa,Female
+2017,Horta-Guinardó,Can Baró,32,Northern Africa,Male
+2017,Horta-Guinardó,Can Baró,..,Southern Africa,Male
+2017,Horta-Guinardó,Can Baró,..,Western Africa,Female
+2017,Horta-Guinardó,Can Baró,31,Western Africa,Male
+2017,Horta-Guinardó,Can Baró,42,Caribbean,Female
+2017,Horta-Guinardó,Can Baró,34,Caribbean,Male
+2017,Horta-Guinardó,Can Baró,73,Central America,Female
+2017,Horta-Guinardó,Can Baró,30,Central America,Male
+2017,Horta-Guinardó,Can Baró,399,South America,Female
+2017,Horta-Guinardó,Can Baró,324,South America,Male
+2017,Horta-Guinardó,Can Baró,8,Northern America,Female
+2017,Horta-Guinardó,Can Baró,12,Northern America,Male
+2017,Horta-Guinardó,Can Baró,..,Central Asia,Female
+2017,Horta-Guinardó,Can Baró,..,Central Asia,Male
+2017,Horta-Guinardó,Can Baró,53,Eastern Asia,Female
+2017,Horta-Guinardó,Can Baró,32,Eastern Asia,Male
+2017,Horta-Guinardó,Can Baró,27,Southern Asia,Female
+2017,Horta-Guinardó,Can Baró,58,Southern Asia,Male
+2017,Horta-Guinardó,Can Baró,7,South-Eastern Asia,Female
+2017,Horta-Guinardó,Can Baró,..,South-Eastern Asia,Male
+2017,Horta-Guinardó,Can Baró,14,Western Asia,Female
+2017,Horta-Guinardó,Can Baró,20,Western Asia,Male
+2017,Horta-Guinardó,Can Baró,105,Eastern Europe,Female
+2017,Horta-Guinardó,Can Baró,82,Eastern Europe,Male
+2017,Horta-Guinardó,Can Baró,30,Northern Europe,Female
+2017,Horta-Guinardó,Can Baró,22,Northern Europe,Male
+2017,Horta-Guinardó,Can Baró,3932,Southern Europe,Female
+2017,Horta-Guinardó,Can Baró,3475,Southern Europe,Male
+2017,Horta-Guinardó,Can Baró,71,Western Europe,Female
+2017,Horta-Guinardó,Can Baró,66,Western Europe,Male
+2017,Horta-Guinardó,Can Baró,..,Australia and New Zealand,Female
+2017,Horta-Guinardó,Can Baró,..,Australia and New Zealand,Male
+2017,Horta-Guinardó,el Guinardó,10,Eastern Africa,Female
+2017,Horta-Guinardó,el Guinardó,10,Eastern Africa,Male
+2017,Horta-Guinardó,el Guinardó,14,Middle Africa,Female
+2017,Horta-Guinardó,el Guinardó,14,Middle Africa,Male
+2017,Horta-Guinardó,el Guinardó,167,Northern Africa,Female
+2017,Horta-Guinardó,el Guinardó,151,Northern Africa,Male
+2017,Horta-Guinardó,el Guinardó,..,Southern Africa,Female
+2017,Horta-Guinardó,el Guinardó,..,Southern Africa,Male
+2017,Horta-Guinardó,el Guinardó,26,Western Africa,Female
+2017,Horta-Guinardó,el Guinardó,31,Western Africa,Male
+2017,Horta-Guinardó,el Guinardó,220,Caribbean,Female
+2017,Horta-Guinardó,el Guinardó,167,Caribbean,Male
+2017,Horta-Guinardó,el Guinardó,318,Central America,Female
+2017,Horta-Guinardó,el Guinardó,148,Central America,Male
+2017,Horta-Guinardó,el Guinardó,2224,South America,Female
+2017,Horta-Guinardó,el Guinardó,1704,South America,Male
+2017,Horta-Guinardó,el Guinardó,35,Northern America,Female
+2017,Horta-Guinardó,el Guinardó,35,Northern America,Male
+2017,Horta-Guinardó,el Guinardó,..,Central Asia,Female
+2017,Horta-Guinardó,el Guinardó,..,Central Asia,Male
+2017,Horta-Guinardó,el Guinardó,154,Eastern Asia,Female
+2017,Horta-Guinardó,el Guinardó,123,Eastern Asia,Male
+2017,Horta-Guinardó,el Guinardó,71,Southern Asia,Female
+2017,Horta-Guinardó,el Guinardó,175,Southern Asia,Male
+2017,Horta-Guinardó,el Guinardó,23,South-Eastern Asia,Female
+2017,Horta-Guinardó,el Guinardó,8,South-Eastern Asia,Male
+2017,Horta-Guinardó,el Guinardó,85,Western Asia,Female
+2017,Horta-Guinardó,el Guinardó,89,Western Asia,Male
+2017,Horta-Guinardó,el Guinardó,351,Eastern Europe,Female
+2017,Horta-Guinardó,el Guinardó,238,Eastern Europe,Male
+2017,Horta-Guinardó,el Guinardó,86,Northern Europe,Female
+2017,Horta-Guinardó,el Guinardó,86,Northern Europe,Male
+2017,Horta-Guinardó,el Guinardó,15443,Southern Europe,Female
+2017,Horta-Guinardó,el Guinardó,13851,Southern Europe,Male
+2017,Horta-Guinardó,el Guinardó,238,Western Europe,Female
+2017,Horta-Guinardó,el Guinardó,224,Western Europe,Male
+2017,Horta-Guinardó,el Guinardó,..,Australia and New Zealand,Female
+2017,Horta-Guinardó,el Guinardó,..,Australia and New Zealand,Male
+2017,Horta-Guinardó,el Guinardó,5,Not available,Female
+2017,Horta-Guinardó,el Guinardó,..,Not available,Male
+2017,Horta-Guinardó,la Font d'en Fargues,..,Eastern Africa,Female
+2017,Horta-Guinardó,la Font d'en Fargues,..,Eastern Africa,Male
+2017,Horta-Guinardó,la Font d'en Fargues,..,Middle Africa,Female
+2017,Horta-Guinardó,la Font d'en Fargues,..,Middle Africa,Male
+2017,Horta-Guinardó,la Font d'en Fargues,14,Northern Africa,Female
+2017,Horta-Guinardó,la Font d'en Fargues,21,Northern Africa,Male
+2017,Horta-Guinardó,la Font d'en Fargues,..,Western Africa,Female
+2017,Horta-Guinardó,la Font d'en Fargues,..,Western Africa,Male
+2017,Horta-Guinardó,la Font d'en Fargues,24,Caribbean,Female
+2017,Horta-Guinardó,la Font d'en Fargues,23,Caribbean,Male
+2017,Horta-Guinardó,la Font d'en Fargues,31,Central America,Female
+2017,Horta-Guinardó,la Font d'en Fargues,13,Central America,Male
+2017,Horta-Guinardó,la Font d'en Fargues,223,South America,Female
+2017,Horta-Guinardó,la Font d'en Fargues,172,South America,Male
+2017,Horta-Guinardó,la Font d'en Fargues,5,Northern America,Female
+2017,Horta-Guinardó,la Font d'en Fargues,8,Northern America,Male
+2017,Horta-Guinardó,la Font d'en Fargues,..,Central Asia,Female
+2017,Horta-Guinardó,la Font d'en Fargues,..,Central Asia,Male
+2017,Horta-Guinardó,la Font d'en Fargues,14,Eastern Asia,Female
+2017,Horta-Guinardó,la Font d'en Fargues,11,Eastern Asia,Male
+2017,Horta-Guinardó,la Font d'en Fargues,11,Southern Asia,Female
+2017,Horta-Guinardó,la Font d'en Fargues,20,Southern Asia,Male
+2017,Horta-Guinardó,la Font d'en Fargues,..,South-Eastern Asia,Female
+2017,Horta-Guinardó,la Font d'en Fargues,..,South-Eastern Asia,Male
+2017,Horta-Guinardó,la Font d'en Fargues,5,Western Asia,Female
+2017,Horta-Guinardó,la Font d'en Fargues,15,Western Asia,Male
+2017,Horta-Guinardó,la Font d'en Fargues,61,Eastern Europe,Female
+2017,Horta-Guinardó,la Font d'en Fargues,25,Eastern Europe,Male
+2017,Horta-Guinardó,la Font d'en Fargues,14,Northern Europe,Female
+2017,Horta-Guinardó,la Font d'en Fargues,14,Northern Europe,Male
+2017,Horta-Guinardó,la Font d'en Fargues,4463,Southern Europe,Female
+2017,Horta-Guinardó,la Font d'en Fargues,4073,Southern Europe,Male
+2017,Horta-Guinardó,la Font d'en Fargues,47,Western Europe,Female
+2017,Horta-Guinardó,la Font d'en Fargues,57,Western Europe,Male
+2017,Horta-Guinardó,la Font d'en Fargues,..,Australia and New Zealand,Female
+2017,Horta-Guinardó,el Carmel,..,Eastern Africa,Female
+2017,Horta-Guinardó,el Carmel,..,Eastern Africa,Male
+2017,Horta-Guinardó,el Carmel,8,Middle Africa,Female
+2017,Horta-Guinardó,el Carmel,12,Middle Africa,Male
+2017,Horta-Guinardó,el Carmel,157,Northern Africa,Female
+2017,Horta-Guinardó,el Carmel,182,Northern Africa,Male
+2017,Horta-Guinardó,el Carmel,20,Western Africa,Female
+2017,Horta-Guinardó,el Carmel,53,Western Africa,Male
+2017,Horta-Guinardó,el Carmel,158,Caribbean,Female
+2017,Horta-Guinardó,el Carmel,125,Caribbean,Male
+2017,Horta-Guinardó,el Carmel,310,Central America,Female
+2017,Horta-Guinardó,el Carmel,153,Central America,Male
+2017,Horta-Guinardó,el Carmel,1784,South America,Female
+2017,Horta-Guinardó,el Carmel,1484,South America,Male
+2017,Horta-Guinardó,el Carmel,13,Northern America,Female
+2017,Horta-Guinardó,el Carmel,13,Northern America,Male
+2017,Horta-Guinardó,el Carmel,11,Central Asia,Female
+2017,Horta-Guinardó,el Carmel,5,Central Asia,Male
+2017,Horta-Guinardó,el Carmel,98,Eastern Asia,Female
+2017,Horta-Guinardó,el Carmel,67,Eastern Asia,Male
+2017,Horta-Guinardó,el Carmel,84,Southern Asia,Female
+2017,Horta-Guinardó,el Carmel,243,Southern Asia,Male
+2017,Horta-Guinardó,el Carmel,24,South-Eastern Asia,Female
+2017,Horta-Guinardó,el Carmel,13,South-Eastern Asia,Male
+2017,Horta-Guinardó,el Carmel,91,Western Asia,Female
+2017,Horta-Guinardó,el Carmel,104,Western Asia,Male
+2017,Horta-Guinardó,el Carmel,308,Eastern Europe,Female
+2017,Horta-Guinardó,el Carmel,226,Eastern Europe,Male
+2017,Horta-Guinardó,el Carmel,40,Northern Europe,Female
+2017,Horta-Guinardó,el Carmel,42,Northern Europe,Male
+2017,Horta-Guinardó,el Carmel,13276,Southern Europe,Female
+2017,Horta-Guinardó,el Carmel,12242,Southern Europe,Male
+2017,Horta-Guinardó,el Carmel,100,Western Europe,Female
+2017,Horta-Guinardó,el Carmel,127,Western Europe,Male
+2017,Horta-Guinardó,el Carmel,..,Australia and New Zealand,Female
+2017,Horta-Guinardó,el Carmel,..,Australia and New Zealand,Male
+2017,Horta-Guinardó,el Carmel,..,Not available,Male
+2017,Horta-Guinardó,la Teixonera,..,Eastern Africa,Female
+2017,Horta-Guinardó,la Teixonera,6,Middle Africa,Female
+2017,Horta-Guinardó,la Teixonera,5,Middle Africa,Male
+2017,Horta-Guinardó,la Teixonera,43,Northern Africa,Female
+2017,Horta-Guinardó,la Teixonera,63,Northern Africa,Male
+2017,Horta-Guinardó,la Teixonera,11,Western Africa,Female
+2017,Horta-Guinardó,la Teixonera,13,Western Africa,Male
+2017,Horta-Guinardó,la Teixonera,82,Caribbean,Female
+2017,Horta-Guinardó,la Teixonera,70,Caribbean,Male
+2017,Horta-Guinardó,la Teixonera,124,Central America,Female
+2017,Horta-Guinardó,la Teixonera,63,Central America,Male
+2017,Horta-Guinardó,la Teixonera,622,South America,Female
+2017,Horta-Guinardó,la Teixonera,538,South America,Male
+2017,Horta-Guinardó,la Teixonera,..,Northern America,Female
+2017,Horta-Guinardó,la Teixonera,..,Northern America,Male
+2017,Horta-Guinardó,la Teixonera,20,Eastern Asia,Female
+2017,Horta-Guinardó,la Teixonera,19,Eastern Asia,Male
+2017,Horta-Guinardó,la Teixonera,62,Southern Asia,Female
+2017,Horta-Guinardó,la Teixonera,136,Southern Asia,Male
+2017,Horta-Guinardó,la Teixonera,13,South-Eastern Asia,Female
+2017,Horta-Guinardó,la Teixonera,..,South-Eastern Asia,Male
+2017,Horta-Guinardó,la Teixonera,14,Western Asia,Female
+2017,Horta-Guinardó,la Teixonera,29,Western Asia,Male
+2017,Horta-Guinardó,la Teixonera,114,Eastern Europe,Female
+2017,Horta-Guinardó,la Teixonera,87,Eastern Europe,Male
+2017,Horta-Guinardó,la Teixonera,11,Northern Europe,Female
+2017,Horta-Guinardó,la Teixonera,14,Northern Europe,Male
+2017,Horta-Guinardó,la Teixonera,4840,Southern Europe,Female
+2017,Horta-Guinardó,la Teixonera,4533,Southern Europe,Male
+2017,Horta-Guinardó,la Teixonera,47,Western Europe,Female
+2017,Horta-Guinardó,la Teixonera,42,Western Europe,Male
+2017,Horta-Guinardó,la Teixonera,..,Melanesia,Female
+2017,Horta-Guinardó,la Teixonera,..,Not available,Female
+2017,Horta-Guinardó,Sant Genís dels Agudells,5,Middle Africa,Female
+2017,Horta-Guinardó,Sant Genís dels Agudells,..,Middle Africa,Male
+2017,Horta-Guinardó,Sant Genís dels Agudells,33,Northern Africa,Female
+2017,Horta-Guinardó,Sant Genís dels Agudells,33,Northern Africa,Male
+2017,Horta-Guinardó,Sant Genís dels Agudells,..,Western Africa,Female
+2017,Horta-Guinardó,Sant Genís dels Agudells,12,Western Africa,Male
+2017,Horta-Guinardó,Sant Genís dels Agudells,50,Caribbean,Female
+2017,Horta-Guinardó,Sant Genís dels Agudells,38,Caribbean,Male
+2017,Horta-Guinardó,Sant Genís dels Agudells,72,Central America,Female
+2017,Horta-Guinardó,Sant Genís dels Agudells,30,Central America,Male
+2017,Horta-Guinardó,Sant Genís dels Agudells,395,South America,Female
+2017,Horta-Guinardó,Sant Genís dels Agudells,325,South America,Male
+2017,Horta-Guinardó,Sant Genís dels Agudells,13,Northern America,Female
+2017,Horta-Guinardó,Sant Genís dels Agudells,9,Northern America,Male
+2017,Horta-Guinardó,Sant Genís dels Agudells,..,Central Asia,Female
+2017,Horta-Guinardó,Sant Genís dels Agudells,..,Central Asia,Male
+2017,Horta-Guinardó,Sant Genís dels Agudells,13,Eastern Asia,Female
+2017,Horta-Guinardó,Sant Genís dels Agudells,17,Eastern Asia,Male
+2017,Horta-Guinardó,Sant Genís dels Agudells,8,Southern Asia,Female
+2017,Horta-Guinardó,Sant Genís dels Agudells,29,Southern Asia,Male
+2017,Horta-Guinardó,Sant Genís dels Agudells,..,South-Eastern Asia,Female
+2017,Horta-Guinardó,Sant Genís dels Agudells,..,South-Eastern Asia,Male
+2017,Horta-Guinardó,Sant Genís dels Agudells,17,Western Asia,Female
+2017,Horta-Guinardó,Sant Genís dels Agudells,23,Western Asia,Male
+2017,Horta-Guinardó,Sant Genís dels Agudells,62,Eastern Europe,Female
+2017,Horta-Guinardó,Sant Genís dels Agudells,41,Eastern Europe,Male
+2017,Horta-Guinardó,Sant Genís dels Agudells,15,Northern Europe,Female
+2017,Horta-Guinardó,Sant Genís dels Agudells,10,Northern Europe,Male
+2017,Horta-Guinardó,Sant Genís dels Agudells,2916,Southern Europe,Female
+2017,Horta-Guinardó,Sant Genís dels Agudells,2577,Southern Europe,Male
+2017,Horta-Guinardó,Sant Genís dels Agudells,38,Western Europe,Female
+2017,Horta-Guinardó,Sant Genís dels Agudells,33,Western Europe,Male
+2017,Horta-Guinardó,Sant Genís dels Agudells,..,Australia and New Zealand,Male
+2017,Horta-Guinardó,Sant Genís dels Agudells,..,Not available,Female
+2017,Horta-Guinardó,Montbau,..,Eastern Africa,Female
+2017,Horta-Guinardó,Montbau,..,Eastern Africa,Male
+2017,Horta-Guinardó,Montbau,..,Middle Africa,Female
+2017,Horta-Guinardó,Montbau,24,Northern Africa,Female
+2017,Horta-Guinardó,Montbau,21,Northern Africa,Male
+2017,Horta-Guinardó,Montbau,..,Southern Africa,Female
+2017,Horta-Guinardó,Montbau,..,Western Africa,Female
+2017,Horta-Guinardó,Montbau,10,Western Africa,Male
+2017,Horta-Guinardó,Montbau,20,Caribbean,Female
+2017,Horta-Guinardó,Montbau,12,Caribbean,Male
+2017,Horta-Guinardó,Montbau,44,Central America,Female
+2017,Horta-Guinardó,Montbau,15,Central America,Male
+2017,Horta-Guinardó,Montbau,256,South America,Female
+2017,Horta-Guinardó,Montbau,212,South America,Male
+2017,Horta-Guinardó,Montbau,..,Northern America,Female
+2017,Horta-Guinardó,Montbau,..,Northern America,Male
+2017,Horta-Guinardó,Montbau,12,Eastern Asia,Female
+2017,Horta-Guinardó,Montbau,10,Eastern Asia,Male
+2017,Horta-Guinardó,Montbau,8,Southern Asia,Female
+2017,Horta-Guinardó,Montbau,23,Southern Asia,Male
+2017,Horta-Guinardó,Montbau,..,South-Eastern Asia,Female
+2017,Horta-Guinardó,Montbau,10,Western Asia,Female
+2017,Horta-Guinardó,Montbau,11,Western Asia,Male
+2017,Horta-Guinardó,Montbau,47,Eastern Europe,Female
+2017,Horta-Guinardó,Montbau,33,Eastern Europe,Male
+2017,Horta-Guinardó,Montbau,7,Northern Europe,Female
+2017,Horta-Guinardó,Montbau,5,Northern Europe,Male
+2017,Horta-Guinardó,Montbau,2368,Southern Europe,Female
+2017,Horta-Guinardó,Montbau,1911,Southern Europe,Male
+2017,Horta-Guinardó,Montbau,16,Western Europe,Female
+2017,Horta-Guinardó,Montbau,17,Western Europe,Male
+2017,Horta-Guinardó,la Vall d'Hebron,8,Eastern Africa,Female
+2017,Horta-Guinardó,la Vall d'Hebron,..,Eastern Africa,Male
+2017,Horta-Guinardó,la Vall d'Hebron,..,Middle Africa,Male
+2017,Horta-Guinardó,la Vall d'Hebron,11,Northern Africa,Female
+2017,Horta-Guinardó,la Vall d'Hebron,10,Northern Africa,Male
+2017,Horta-Guinardó,la Vall d'Hebron,..,Western Africa,Female
+2017,Horta-Guinardó,la Vall d'Hebron,..,Western Africa,Male
+2017,Horta-Guinardó,la Vall d'Hebron,17,Caribbean,Female
+2017,Horta-Guinardó,la Vall d'Hebron,18,Caribbean,Male
+2017,Horta-Guinardó,la Vall d'Hebron,21,Central America,Female
+2017,Horta-Guinardó,la Vall d'Hebron,14,Central America,Male
+2017,Horta-Guinardó,la Vall d'Hebron,258,South America,Female
+2017,Horta-Guinardó,la Vall d'Hebron,207,South America,Male
+2017,Horta-Guinardó,la Vall d'Hebron,..,Northern America,Female
+2017,Horta-Guinardó,la Vall d'Hebron,..,Northern America,Male
+2017,Horta-Guinardó,la Vall d'Hebron,..,Central Asia,Female
+2017,Horta-Guinardó,la Vall d'Hebron,..,Central Asia,Male
+2017,Horta-Guinardó,la Vall d'Hebron,9,Eastern Asia,Female
+2017,Horta-Guinardó,la Vall d'Hebron,5,Eastern Asia,Male
+2017,Horta-Guinardó,la Vall d'Hebron,..,Southern Asia,Female
+2017,Horta-Guinardó,la Vall d'Hebron,8,Southern Asia,Male
+2017,Horta-Guinardó,la Vall d'Hebron,..,South-Eastern Asia,Female
+2017,Horta-Guinardó,la Vall d'Hebron,..,South-Eastern Asia,Male
+2017,Horta-Guinardó,la Vall d'Hebron,11,Western Asia,Female
+2017,Horta-Guinardó,la Vall d'Hebron,10,Western Asia,Male
+2017,Horta-Guinardó,la Vall d'Hebron,62,Eastern Europe,Female
+2017,Horta-Guinardó,la Vall d'Hebron,48,Eastern Europe,Male
+2017,Horta-Guinardó,la Vall d'Hebron,..,Northern Europe,Female
+2017,Horta-Guinardó,la Vall d'Hebron,..,Northern Europe,Male
+2017,Horta-Guinardó,la Vall d'Hebron,2611,Southern Europe,Female
+2017,Horta-Guinardó,la Vall d'Hebron,2380,Southern Europe,Male
+2017,Horta-Guinardó,la Vall d'Hebron,25,Western Europe,Female
+2017,Horta-Guinardó,la Vall d'Hebron,30,Western Europe,Male
+2017,Horta-Guinardó,la Vall d'Hebron,..,Australia and New Zealand,Female
+2017,Horta-Guinardó,la Clota,..,Northern Africa,Male
+2017,Horta-Guinardó,la Clota,..,Caribbean,Female
+2017,Horta-Guinardó,la Clota,..,Caribbean,Male
+2017,Horta-Guinardó,la Clota,..,Central America,Female
+2017,Horta-Guinardó,la Clota,29,South America,Female
+2017,Horta-Guinardó,la Clota,17,South America,Male
+2017,Horta-Guinardó,la Clota,..,Southern Asia,Female
+2017,Horta-Guinardó,la Clota,22,Southern Asia,Male
+2017,Horta-Guinardó,la Clota,..,Western Asia,Female
+2017,Horta-Guinardó,la Clota,5,Western Asia,Male
+2017,Horta-Guinardó,la Clota,..,Eastern Europe,Female
+2017,Horta-Guinardó,la Clota,..,Eastern Europe,Male
+2017,Horta-Guinardó,la Clota,..,Northern Europe,Female
+2017,Horta-Guinardó,la Clota,253,Southern Europe,Female
+2017,Horta-Guinardó,la Clota,261,Southern Europe,Male
+2017,Horta-Guinardó,la Clota,..,Western Europe,Female
+2017,Horta-Guinardó,la Clota,..,Western Europe,Male
+2017,Horta-Guinardó,Horta,..,Eastern Africa,Female
+2017,Horta-Guinardó,Horta,6,Eastern Africa,Male
+2017,Horta-Guinardó,Horta,12,Middle Africa,Female
+2017,Horta-Guinardó,Horta,10,Middle Africa,Male
+2017,Horta-Guinardó,Horta,72,Northern Africa,Female
+2017,Horta-Guinardó,Horta,172,Northern Africa,Male
+2017,Horta-Guinardó,Horta,..,Southern Africa,Female
+2017,Horta-Guinardó,Horta,..,Southern Africa,Male
+2017,Horta-Guinardó,Horta,14,Western Africa,Female
+2017,Horta-Guinardó,Horta,43,Western Africa,Male
+2017,Horta-Guinardó,Horta,254,Caribbean,Female
+2017,Horta-Guinardó,Horta,118,Caribbean,Male
+2017,Horta-Guinardó,Horta,218,Central America,Female
+2017,Horta-Guinardó,Horta,92,Central America,Male
+2017,Horta-Guinardó,Horta,934,South America,Female
+2017,Horta-Guinardó,Horta,693,South America,Male
+2017,Horta-Guinardó,Horta,13,Northern America,Female
+2017,Horta-Guinardó,Horta,13,Northern America,Male
+2017,Horta-Guinardó,Horta,..,Central Asia,Female
+2017,Horta-Guinardó,Horta,..,Central Asia,Male
+2017,Horta-Guinardó,Horta,70,Eastern Asia,Female
+2017,Horta-Guinardó,Horta,51,Eastern Asia,Male
+2017,Horta-Guinardó,Horta,26,Southern Asia,Female
+2017,Horta-Guinardó,Horta,131,Southern Asia,Male
+2017,Horta-Guinardó,Horta,75,South-Eastern Asia,Female
+2017,Horta-Guinardó,Horta,45,South-Eastern Asia,Male
+2017,Horta-Guinardó,Horta,67,Western Asia,Female
+2017,Horta-Guinardó,Horta,72,Western Asia,Male
+2017,Horta-Guinardó,Horta,222,Eastern Europe,Female
+2017,Horta-Guinardó,Horta,183,Eastern Europe,Male
+2017,Horta-Guinardó,Horta,26,Northern Europe,Female
+2017,Horta-Guinardó,Horta,35,Northern Europe,Male
+2017,Horta-Guinardó,Horta,12063,Southern Europe,Female
+2017,Horta-Guinardó,Horta,10779,Southern Europe,Male
+2017,Horta-Guinardó,Horta,114,Western Europe,Female
+2017,Horta-Guinardó,Horta,103,Western Europe,Male
+2017,Horta-Guinardó,Horta,..,Australia and New Zealand,Female
+2017,Horta-Guinardó,Horta,..,Australia and New Zealand,Male
+2017,Nou Barris,Vilapicina i la Torre Llobeta,..,Eastern Africa,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,..,Eastern Africa,Male
+2017,Nou Barris,Vilapicina i la Torre Llobeta,5,Middle Africa,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,5,Middle Africa,Male
+2017,Nou Barris,Vilapicina i la Torre Llobeta,76,Northern Africa,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,93,Northern Africa,Male
+2017,Nou Barris,Vilapicina i la Torre Llobeta,..,Southern Africa,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,12,Western Africa,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,24,Western Africa,Male
+2017,Nou Barris,Vilapicina i la Torre Llobeta,234,Caribbean,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,167,Caribbean,Male
+2017,Nou Barris,Vilapicina i la Torre Llobeta,214,Central America,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,97,Central America,Male
+2017,Nou Barris,Vilapicina i la Torre Llobeta,1554,South America,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,1182,South America,Male
+2017,Nou Barris,Vilapicina i la Torre Llobeta,16,Northern America,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,9,Northern America,Male
+2017,Nou Barris,Vilapicina i la Torre Llobeta,..,Central Asia,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,..,Central Asia,Male
+2017,Nou Barris,Vilapicina i la Torre Llobeta,169,Eastern Asia,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,149,Eastern Asia,Male
+2017,Nou Barris,Vilapicina i la Torre Llobeta,50,Southern Asia,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,156,Southern Asia,Male
+2017,Nou Barris,Vilapicina i la Torre Llobeta,20,South-Eastern Asia,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,13,South-Eastern Asia,Male
+2017,Nou Barris,Vilapicina i la Torre Llobeta,96,Western Asia,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,96,Western Asia,Male
+2017,Nou Barris,Vilapicina i la Torre Llobeta,194,Eastern Europe,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,146,Eastern Europe,Male
+2017,Nou Barris,Vilapicina i la Torre Llobeta,22,Northern Europe,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,24,Northern Europe,Male
+2017,Nou Barris,Vilapicina i la Torre Llobeta,11049,Southern Europe,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,9555,Southern Europe,Male
+2017,Nou Barris,Vilapicina i la Torre Llobeta,108,Western Europe,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,66,Western Europe,Male
+2017,Nou Barris,Vilapicina i la Torre Llobeta,..,Australia and New Zealand,Female
+2017,Nou Barris,Vilapicina i la Torre Llobeta,..,Not available,Male
+2017,Nou Barris,Porta,6,Eastern Africa,Female
+2017,Nou Barris,Porta,..,Eastern Africa,Male
+2017,Nou Barris,Porta,15,Middle Africa,Female
+2017,Nou Barris,Porta,7,Middle Africa,Male
+2017,Nou Barris,Porta,145,Northern Africa,Female
+2017,Nou Barris,Porta,172,Northern Africa,Male
+2017,Nou Barris,Porta,45,Western Africa,Female
+2017,Nou Barris,Porta,52,Western Africa,Male
+2017,Nou Barris,Porta,284,Caribbean,Female
+2017,Nou Barris,Porta,190,Caribbean,Male
+2017,Nou Barris,Porta,287,Central America,Female
+2017,Nou Barris,Porta,120,Central America,Male
+2017,Nou Barris,Porta,1547,South America,Female
+2017,Nou Barris,Porta,1169,South America,Male
+2017,Nou Barris,Porta,14,Northern America,Female
+2017,Nou Barris,Porta,5,Northern America,Male
+2017,Nou Barris,Porta,5,Central Asia,Female
+2017,Nou Barris,Porta,..,Central Asia,Male
+2017,Nou Barris,Porta,119,Eastern Asia,Female
+2017,Nou Barris,Porta,95,Eastern Asia,Male
+2017,Nou Barris,Porta,69,Southern Asia,Female
+2017,Nou Barris,Porta,160,Southern Asia,Male
+2017,Nou Barris,Porta,21,South-Eastern Asia,Female
+2017,Nou Barris,Porta,16,South-Eastern Asia,Male
+2017,Nou Barris,Porta,170,Western Asia,Female
+2017,Nou Barris,Porta,161,Western Asia,Male
+2017,Nou Barris,Porta,213,Eastern Europe,Female
+2017,Nou Barris,Porta,151,Eastern Europe,Male
+2017,Nou Barris,Porta,27,Northern Europe,Female
+2017,Nou Barris,Porta,17,Northern Europe,Male
+2017,Nou Barris,Porta,10330,Southern Europe,Female
+2017,Nou Barris,Porta,9252,Southern Europe,Male
+2017,Nou Barris,Porta,89,Western Europe,Female
+2017,Nou Barris,Porta,86,Western Europe,Male
+2017,Nou Barris,Porta,..,Australia and New Zealand,Male
+2017,Nou Barris,Porta,..,Not available,Male
+2017,Nou Barris,el Turó de la Peira,..,Eastern Africa,Male
+2017,Nou Barris,el Turó de la Peira,..,Middle Africa,Female
+2017,Nou Barris,el Turó de la Peira,..,Middle Africa,Male
+2017,Nou Barris,el Turó de la Peira,120,Northern Africa,Female
+2017,Nou Barris,el Turó de la Peira,108,Northern Africa,Male
+2017,Nou Barris,el Turó de la Peira,..,Southern Africa,Female
+2017,Nou Barris,el Turó de la Peira,15,Western Africa,Female
+2017,Nou Barris,el Turó de la Peira,30,Western Africa,Male
+2017,Nou Barris,el Turó de la Peira,421,Caribbean,Female
+2017,Nou Barris,el Turó de la Peira,345,Caribbean,Male
+2017,Nou Barris,el Turó de la Peira,145,Central America,Female
+2017,Nou Barris,el Turó de la Peira,52,Central America,Male
+2017,Nou Barris,el Turó de la Peira,1482,South America,Female
+2017,Nou Barris,el Turó de la Peira,1096,South America,Male
+2017,Nou Barris,el Turó de la Peira,5,Northern America,Female
+2017,Nou Barris,el Turó de la Peira,5,Northern America,Male
+2017,Nou Barris,el Turó de la Peira,..,Central Asia,Female
+2017,Nou Barris,el Turó de la Peira,63,Eastern Asia,Female
+2017,Nou Barris,el Turó de la Peira,45,Eastern Asia,Male
+2017,Nou Barris,el Turó de la Peira,101,Southern Asia,Female
+2017,Nou Barris,el Turó de la Peira,281,Southern Asia,Male
+2017,Nou Barris,el Turó de la Peira,..,South-Eastern Asia,Female
+2017,Nou Barris,el Turó de la Peira,112,Western Asia,Female
+2017,Nou Barris,el Turó de la Peira,110,Western Asia,Male
+2017,Nou Barris,el Turó de la Peira,129,Eastern Europe,Female
+2017,Nou Barris,el Turó de la Peira,68,Eastern Europe,Male
+2017,Nou Barris,el Turó de la Peira,12,Northern Europe,Female
+2017,Nou Barris,el Turó de la Peira,13,Northern Europe,Male
+2017,Nou Barris,el Turó de la Peira,5647,Southern Europe,Female
+2017,Nou Barris,el Turó de la Peira,4957,Southern Europe,Male
+2017,Nou Barris,el Turó de la Peira,50,Western Europe,Female
+2017,Nou Barris,el Turó de la Peira,39,Western Europe,Male
+2017,Nou Barris,el Turó de la Peira,..,Australia and New Zealand,Male
+2017,Nou Barris,Can Peguera,..,Middle Africa,Male
+2017,Nou Barris,Can Peguera,24,Northern Africa,Female
+2017,Nou Barris,Can Peguera,20,Northern Africa,Male
+2017,Nou Barris,Can Peguera,..,Western Africa,Female
+2017,Nou Barris,Can Peguera,..,Western Africa,Male
+2017,Nou Barris,Can Peguera,13,Caribbean,Female
+2017,Nou Barris,Can Peguera,10,Caribbean,Male
+2017,Nou Barris,Can Peguera,7,Central America,Female
+2017,Nou Barris,Can Peguera,..,Central America,Male
+2017,Nou Barris,Can Peguera,78,South America,Female
+2017,Nou Barris,Can Peguera,56,South America,Male
+2017,Nou Barris,Can Peguera,..,Northern America,Female
+2017,Nou Barris,Can Peguera,..,Northern America,Male
+2017,Nou Barris,Can Peguera,..,Eastern Asia,Female
+2017,Nou Barris,Can Peguera,..,Eastern Asia,Male
+2017,Nou Barris,Can Peguera,5,Southern Asia,Female
+2017,Nou Barris,Can Peguera,9,Southern Asia,Male
+2017,Nou Barris,Can Peguera,..,South-Eastern Asia,Female
+2017,Nou Barris,Can Peguera,..,Western Asia,Female
+2017,Nou Barris,Can Peguera,..,Western Asia,Male
+2017,Nou Barris,Can Peguera,15,Eastern Europe,Female
+2017,Nou Barris,Can Peguera,9,Eastern Europe,Male
+2017,Nou Barris,Can Peguera,..,Northern Europe,Female
+2017,Nou Barris,Can Peguera,..,Northern Europe,Male
+2017,Nou Barris,Can Peguera,1034,Southern Europe,Female
+2017,Nou Barris,Can Peguera,952,Southern Europe,Male
+2017,Nou Barris,Can Peguera,7,Western Europe,Female
+2017,Nou Barris,Can Peguera,..,Western Europe,Male
+2017,Nou Barris,la Guineueta,..,Eastern Africa,Female
+2017,Nou Barris,la Guineueta,..,Eastern Africa,Male
+2017,Nou Barris,la Guineueta,..,Middle Africa,Female
+2017,Nou Barris,la Guineueta,..,Middle Africa,Male
+2017,Nou Barris,la Guineueta,53,Northern Africa,Female
+2017,Nou Barris,la Guineueta,43,Northern Africa,Male
+2017,Nou Barris,la Guineueta,..,Western Africa,Female
+2017,Nou Barris,la Guineueta,16,Western Africa,Male
+2017,Nou Barris,la Guineueta,74,Caribbean,Female
+2017,Nou Barris,la Guineueta,45,Caribbean,Male
+2017,Nou Barris,la Guineueta,128,Central America,Female
+2017,Nou Barris,la Guineueta,35,Central America,Male
+2017,Nou Barris,la Guineueta,589,South America,Female
+2017,Nou Barris,la Guineueta,436,South America,Male
+2017,Nou Barris,la Guineueta,5,Northern America,Female
+2017,Nou Barris,la Guineueta,5,Northern America,Male
+2017,Nou Barris,la Guineueta,..,Central Asia,Male
+2017,Nou Barris,la Guineueta,43,Eastern Asia,Female
+2017,Nou Barris,la Guineueta,32,Eastern Asia,Male
+2017,Nou Barris,la Guineueta,15,Southern Asia,Female
+2017,Nou Barris,la Guineueta,30,Southern Asia,Male
+2017,Nou Barris,la Guineueta,9,South-Eastern Asia,Female
+2017,Nou Barris,la Guineueta,5,South-Eastern Asia,Male
+2017,Nou Barris,la Guineueta,36,Western Asia,Female
+2017,Nou Barris,la Guineueta,36,Western Asia,Male
+2017,Nou Barris,la Guineueta,118,Eastern Europe,Female
+2017,Nou Barris,la Guineueta,73,Eastern Europe,Male
+2017,Nou Barris,la Guineueta,9,Northern Europe,Female
+2017,Nou Barris,la Guineueta,7,Northern Europe,Male
+2017,Nou Barris,la Guineueta,7052,Southern Europe,Female
+2017,Nou Barris,la Guineueta,6245,Southern Europe,Male
+2017,Nou Barris,la Guineueta,56,Western Europe,Female
+2017,Nou Barris,la Guineueta,38,Western Europe,Male
+2017,Nou Barris,Canyelles,..,Eastern Africa,Female
+2017,Nou Barris,Canyelles,..,Eastern Africa,Male
+2017,Nou Barris,Canyelles,..,Middle Africa,Female
+2017,Nou Barris,Canyelles,..,Middle Africa,Male
+2017,Nou Barris,Canyelles,14,Northern Africa,Female
+2017,Nou Barris,Canyelles,19,Northern Africa,Male
+2017,Nou Barris,Canyelles,6,Western Africa,Female
+2017,Nou Barris,Canyelles,15,Western Africa,Male
+2017,Nou Barris,Canyelles,22,Caribbean,Female
+2017,Nou Barris,Canyelles,12,Caribbean,Male
+2017,Nou Barris,Canyelles,31,Central America,Female
+2017,Nou Barris,Canyelles,16,Central America,Male
+2017,Nou Barris,Canyelles,115,South America,Female
+2017,Nou Barris,Canyelles,97,South America,Male
+2017,Nou Barris,Canyelles,..,Central Asia,Female
+2017,Nou Barris,Canyelles,5,Eastern Asia,Female
+2017,Nou Barris,Canyelles,..,Eastern Asia,Male
+2017,Nou Barris,Canyelles,..,Southern Asia,Female
+2017,Nou Barris,Canyelles,12,Southern Asia,Male
+2017,Nou Barris,Canyelles,..,South-Eastern Asia,Female
+2017,Nou Barris,Canyelles,..,South-Eastern Asia,Male
+2017,Nou Barris,Canyelles,7,Western Asia,Female
+2017,Nou Barris,Canyelles,10,Western Asia,Male
+2017,Nou Barris,Canyelles,34,Eastern Europe,Female
+2017,Nou Barris,Canyelles,24,Eastern Europe,Male
+2017,Nou Barris,Canyelles,..,Northern Europe,Female
+2017,Nou Barris,Canyelles,..,Northern Europe,Male
+2017,Nou Barris,Canyelles,3315,Southern Europe,Female
+2017,Nou Barris,Canyelles,3055,Southern Europe,Male
+2017,Nou Barris,Canyelles,20,Western Europe,Female
+2017,Nou Barris,Canyelles,13,Western Europe,Male
+2017,Nou Barris,Canyelles,..,Australia and New Zealand,Female
+2017,Nou Barris,les Roquetes,..,Eastern Africa,Female
+2017,Nou Barris,les Roquetes,31,Middle Africa,Female
+2017,Nou Barris,les Roquetes,13,Middle Africa,Male
+2017,Nou Barris,les Roquetes,107,Northern Africa,Female
+2017,Nou Barris,les Roquetes,163,Northern Africa,Male
+2017,Nou Barris,les Roquetes,44,Western Africa,Female
+2017,Nou Barris,les Roquetes,51,Western Africa,Male
+2017,Nou Barris,les Roquetes,117,Caribbean,Female
+2017,Nou Barris,les Roquetes,90,Caribbean,Male
+2017,Nou Barris,les Roquetes,631,Central America,Female
+2017,Nou Barris,les Roquetes,343,Central America,Male
+2017,Nou Barris,les Roquetes,851,South America,Female
+2017,Nou Barris,les Roquetes,726,South America,Male
+2017,Nou Barris,les Roquetes,..,Northern America,Female
+2017,Nou Barris,les Roquetes,..,Northern America,Male
+2017,Nou Barris,les Roquetes,51,Eastern Asia,Female
+2017,Nou Barris,les Roquetes,40,Eastern Asia,Male
+2017,Nou Barris,les Roquetes,88,Southern Asia,Female
+2017,Nou Barris,les Roquetes,263,Southern Asia,Male
+2017,Nou Barris,les Roquetes,16,South-Eastern Asia,Female
+2017,Nou Barris,les Roquetes,11,South-Eastern Asia,Male
+2017,Nou Barris,les Roquetes,32,Western Asia,Female
+2017,Nou Barris,les Roquetes,37,Western Asia,Male
+2017,Nou Barris,les Roquetes,198,Eastern Europe,Female
+2017,Nou Barris,les Roquetes,166,Eastern Europe,Male
+2017,Nou Barris,les Roquetes,9,Northern Europe,Female
+2017,Nou Barris,les Roquetes,14,Northern Europe,Male
+2017,Nou Barris,les Roquetes,5876,Southern Europe,Female
+2017,Nou Barris,les Roquetes,5580,Southern Europe,Male
+2017,Nou Barris,les Roquetes,38,Western Europe,Female
+2017,Nou Barris,les Roquetes,36,Western Europe,Male
+2017,Nou Barris,les Roquetes,..,Not available,Male
+2017,Nou Barris,Verdun,..,Eastern Africa,Female
+2017,Nou Barris,Verdun,20,Middle Africa,Female
+2017,Nou Barris,Verdun,9,Middle Africa,Male
+2017,Nou Barris,Verdun,68,Northern Africa,Female
+2017,Nou Barris,Verdun,77,Northern Africa,Male
+2017,Nou Barris,Verdun,23,Western Africa,Female
+2017,Nou Barris,Verdun,24,Western Africa,Male
+2017,Nou Barris,Verdun,155,Caribbean,Female
+2017,Nou Barris,Verdun,113,Caribbean,Male
+2017,Nou Barris,Verdun,418,Central America,Female
+2017,Nou Barris,Verdun,212,Central America,Male
+2017,Nou Barris,Verdun,695,South America,Female
+2017,Nou Barris,Verdun,591,South America,Male
+2017,Nou Barris,Verdun,..,Northern America,Female
+2017,Nou Barris,Verdun,..,Northern America,Male
+2017,Nou Barris,Verdun,..,Central Asia,Female
+2017,Nou Barris,Verdun,51,Eastern Asia,Female
+2017,Nou Barris,Verdun,50,Eastern Asia,Male
+2017,Nou Barris,Verdun,36,Southern Asia,Female
+2017,Nou Barris,Verdun,135,Southern Asia,Male
+2017,Nou Barris,Verdun,16,South-Eastern Asia,Female
+2017,Nou Barris,Verdun,9,South-Eastern Asia,Male
+2017,Nou Barris,Verdun,49,Western Asia,Female
+2017,Nou Barris,Verdun,55,Western Asia,Male
+2017,Nou Barris,Verdun,116,Eastern Europe,Female
+2017,Nou Barris,Verdun,70,Eastern Europe,Male
+2017,Nou Barris,Verdun,5,Northern Europe,Female
+2017,Nou Barris,Verdun,10,Northern Europe,Male
+2017,Nou Barris,Verdun,4918,Southern Europe,Female
+2017,Nou Barris,Verdun,4356,Southern Europe,Male
+2017,Nou Barris,Verdun,39,Western Europe,Female
+2017,Nou Barris,Verdun,40,Western Europe,Male
+2017,Nou Barris,Verdun,..,Not available,Female
+2017,Nou Barris,Verdun,..,Not available,Male
+2017,Nou Barris,la Prosperitat,..,Eastern Africa,Female
+2017,Nou Barris,la Prosperitat,..,Eastern Africa,Male
+2017,Nou Barris,la Prosperitat,26,Middle Africa,Female
+2017,Nou Barris,la Prosperitat,9,Middle Africa,Male
+2017,Nou Barris,la Prosperitat,108,Northern Africa,Female
+2017,Nou Barris,la Prosperitat,128,Northern Africa,Male
+2017,Nou Barris,la Prosperitat,..,Southern Africa,Male
+2017,Nou Barris,la Prosperitat,61,Western Africa,Female
+2017,Nou Barris,la Prosperitat,65,Western Africa,Male
+2017,Nou Barris,la Prosperitat,200,Caribbean,Female
+2017,Nou Barris,la Prosperitat,149,Caribbean,Male
+2017,Nou Barris,la Prosperitat,521,Central America,Female
+2017,Nou Barris,la Prosperitat,188,Central America,Male
+2017,Nou Barris,la Prosperitat,1421,South America,Female
+2017,Nou Barris,la Prosperitat,1157,South America,Male
+2017,Nou Barris,la Prosperitat,5,Northern America,Female
+2017,Nou Barris,la Prosperitat,8,Northern America,Male
+2017,Nou Barris,la Prosperitat,..,Central Asia,Female
+2017,Nou Barris,la Prosperitat,6,Central Asia,Male
+2017,Nou Barris,la Prosperitat,148,Eastern Asia,Female
+2017,Nou Barris,la Prosperitat,144,Eastern Asia,Male
+2017,Nou Barris,la Prosperitat,74,Southern Asia,Female
+2017,Nou Barris,la Prosperitat,208,Southern Asia,Male
+2017,Nou Barris,la Prosperitat,27,South-Eastern Asia,Female
+2017,Nou Barris,la Prosperitat,18,South-Eastern Asia,Male
+2017,Nou Barris,la Prosperitat,127,Western Asia,Female
+2017,Nou Barris,la Prosperitat,136,Western Asia,Male
+2017,Nou Barris,la Prosperitat,182,Eastern Europe,Female
+2017,Nou Barris,la Prosperitat,133,Eastern Europe,Male
+2017,Nou Barris,la Prosperitat,13,Northern Europe,Female
+2017,Nou Barris,la Prosperitat,21,Northern Europe,Male
+2017,Nou Barris,la Prosperitat,11010,Southern Europe,Female
+2017,Nou Barris,la Prosperitat,9936,Southern Europe,Male
+2017,Nou Barris,la Prosperitat,89,Western Europe,Female
+2017,Nou Barris,la Prosperitat,87,Western Europe,Male
+2017,Nou Barris,la Prosperitat,..,Australia and New Zealand,Female
+2017,Nou Barris,la Prosperitat,..,Not available,Male
+2017,Nou Barris,la Trinitat Nova,..,Eastern Africa,Female
+2017,Nou Barris,la Trinitat Nova,..,Eastern Africa,Male
+2017,Nou Barris,la Trinitat Nova,16,Middle Africa,Female
+2017,Nou Barris,la Trinitat Nova,7,Middle Africa,Male
+2017,Nou Barris,la Trinitat Nova,67,Northern Africa,Female
+2017,Nou Barris,la Trinitat Nova,92,Northern Africa,Male
+2017,Nou Barris,la Trinitat Nova,22,Western Africa,Female
+2017,Nou Barris,la Trinitat Nova,57,Western Africa,Male
+2017,Nou Barris,la Trinitat Nova,62,Caribbean,Female
+2017,Nou Barris,la Trinitat Nova,54,Caribbean,Male
+2017,Nou Barris,la Trinitat Nova,147,Central America,Female
+2017,Nou Barris,la Trinitat Nova,58,Central America,Male
+2017,Nou Barris,la Trinitat Nova,392,South America,Female
+2017,Nou Barris,la Trinitat Nova,326,South America,Male
+2017,Nou Barris,la Trinitat Nova,..,Northern America,Male
+2017,Nou Barris,la Trinitat Nova,..,Central Asia,Female
+2017,Nou Barris,la Trinitat Nova,18,Eastern Asia,Female
+2017,Nou Barris,la Trinitat Nova,13,Eastern Asia,Male
+2017,Nou Barris,la Trinitat Nova,78,Southern Asia,Female
+2017,Nou Barris,la Trinitat Nova,162,Southern Asia,Male
+2017,Nou Barris,la Trinitat Nova,..,South-Eastern Asia,Female
+2017,Nou Barris,la Trinitat Nova,61,Western Asia,Female
+2017,Nou Barris,la Trinitat Nova,66,Western Asia,Male
+2017,Nou Barris,la Trinitat Nova,76,Eastern Europe,Female
+2017,Nou Barris,la Trinitat Nova,47,Eastern Europe,Male
+2017,Nou Barris,la Trinitat Nova,..,Northern Europe,Female
+2017,Nou Barris,la Trinitat Nova,..,Northern Europe,Male
+2017,Nou Barris,la Trinitat Nova,2848,Southern Europe,Female
+2017,Nou Barris,la Trinitat Nova,2549,Southern Europe,Male
+2017,Nou Barris,la Trinitat Nova,18,Western Europe,Female
+2017,Nou Barris,la Trinitat Nova,24,Western Europe,Male
+2017,Nou Barris,Torre Baró,..,Middle Africa,Female
+2017,Nou Barris,Torre Baró,6,Middle Africa,Male
+2017,Nou Barris,Torre Baró,65,Northern Africa,Female
+2017,Nou Barris,Torre Baró,72,Northern Africa,Male
+2017,Nou Barris,Torre Baró,10,Western Africa,Female
+2017,Nou Barris,Torre Baró,23,Western Africa,Male
+2017,Nou Barris,Torre Baró,19,Caribbean,Female
+2017,Nou Barris,Torre Baró,18,Caribbean,Male
+2017,Nou Barris,Torre Baró,29,Central America,Female
+2017,Nou Barris,Torre Baró,13,Central America,Male
+2017,Nou Barris,Torre Baró,174,South America,Female
+2017,Nou Barris,Torre Baró,127,South America,Male
+2017,Nou Barris,Torre Baró,..,Northern America,Female
+2017,Nou Barris,Torre Baró,..,Northern America,Male
+2017,Nou Barris,Torre Baró,..,Eastern Asia,Female
+2017,Nou Barris,Torre Baró,..,Eastern Asia,Male
+2017,Nou Barris,Torre Baró,18,Southern Asia,Female
+2017,Nou Barris,Torre Baró,17,Southern Asia,Male
+2017,Nou Barris,Torre Baró,..,South-Eastern Asia,Female
+2017,Nou Barris,Torre Baró,6,South-Eastern Asia,Male
+2017,Nou Barris,Torre Baró,..,Western Asia,Female
+2017,Nou Barris,Torre Baró,..,Western Asia,Male
+2017,Nou Barris,Torre Baró,23,Eastern Europe,Female
+2017,Nou Barris,Torre Baró,26,Eastern Europe,Male
+2017,Nou Barris,Torre Baró,..,Northern Europe,Male
+2017,Nou Barris,Torre Baró,1092,Southern Europe,Female
+2017,Nou Barris,Torre Baró,1091,Southern Europe,Male
+2017,Nou Barris,Torre Baró,..,Western Europe,Female
+2017,Nou Barris,Torre Baró,7,Western Europe,Male
+2017,Nou Barris,Ciutat Meridiana,..,Eastern Africa,Female
+2017,Nou Barris,Ciutat Meridiana,..,Eastern Africa,Male
+2017,Nou Barris,Ciutat Meridiana,24,Middle Africa,Female
+2017,Nou Barris,Ciutat Meridiana,8,Middle Africa,Male
+2017,Nou Barris,Ciutat Meridiana,155,Northern Africa,Female
+2017,Nou Barris,Ciutat Meridiana,220,Northern Africa,Male
+2017,Nou Barris,Ciutat Meridiana,131,Western Africa,Female
+2017,Nou Barris,Ciutat Meridiana,210,Western Africa,Male
+2017,Nou Barris,Ciutat Meridiana,250,Caribbean,Female
+2017,Nou Barris,Ciutat Meridiana,200,Caribbean,Male
+2017,Nou Barris,Ciutat Meridiana,364,Central America,Female
+2017,Nou Barris,Ciutat Meridiana,183,Central America,Male
+2017,Nou Barris,Ciutat Meridiana,687,South America,Female
+2017,Nou Barris,Ciutat Meridiana,663,South America,Male
+2017,Nou Barris,Ciutat Meridiana,..,Central Asia,Female
+2017,Nou Barris,Ciutat Meridiana,..,Central Asia,Male
+2017,Nou Barris,Ciutat Meridiana,18,Eastern Asia,Female
+2017,Nou Barris,Ciutat Meridiana,19,Eastern Asia,Male
+2017,Nou Barris,Ciutat Meridiana,159,Southern Asia,Female
+2017,Nou Barris,Ciutat Meridiana,325,Southern Asia,Male
+2017,Nou Barris,Ciutat Meridiana,8,South-Eastern Asia,Female
+2017,Nou Barris,Ciutat Meridiana,8,South-Eastern Asia,Male
+2017,Nou Barris,Ciutat Meridiana,28,Western Asia,Female
+2017,Nou Barris,Ciutat Meridiana,32,Western Asia,Male
+2017,Nou Barris,Ciutat Meridiana,122,Eastern Europe,Female
+2017,Nou Barris,Ciutat Meridiana,103,Eastern Europe,Male
+2017,Nou Barris,Ciutat Meridiana,6,Northern Europe,Female
+2017,Nou Barris,Ciutat Meridiana,..,Northern Europe,Male
+2017,Nou Barris,Ciutat Meridiana,3284,Southern Europe,Female
+2017,Nou Barris,Ciutat Meridiana,3110,Southern Europe,Male
+2017,Nou Barris,Ciutat Meridiana,28,Western Europe,Female
+2017,Nou Barris,Ciutat Meridiana,13,Western Europe,Male
+2017,Nou Barris,Vallbona,18,Northern Africa,Female
+2017,Nou Barris,Vallbona,25,Northern Africa,Male
+2017,Nou Barris,Vallbona,..,Western Africa,Female
+2017,Nou Barris,Vallbona,..,Western Africa,Male
+2017,Nou Barris,Vallbona,10,Caribbean,Female
+2017,Nou Barris,Vallbona,7,Caribbean,Male
+2017,Nou Barris,Vallbona,7,Central America,Female
+2017,Nou Barris,Vallbona,7,Central America,Male
+2017,Nou Barris,Vallbona,48,South America,Female
+2017,Nou Barris,Vallbona,31,South America,Male
+2017,Nou Barris,Vallbona,..,Northern America,Female
+2017,Nou Barris,Vallbona,7,Eastern Asia,Female
+2017,Nou Barris,Vallbona,7,Eastern Asia,Male
+2017,Nou Barris,Vallbona,20,Southern Asia,Female
+2017,Nou Barris,Vallbona,27,Southern Asia,Male
+2017,Nou Barris,Vallbona,..,Western Asia,Male
+2017,Nou Barris,Vallbona,8,Eastern Europe,Female
+2017,Nou Barris,Vallbona,9,Eastern Europe,Male
+2017,Nou Barris,Vallbona,..,Northern Europe,Male
+2017,Nou Barris,Vallbona,577,Southern Europe,Female
+2017,Nou Barris,Vallbona,557,Southern Europe,Male
+2017,Nou Barris,Vallbona,..,Western Europe,Female
+2017,Nou Barris,Vallbona,..,Western Europe,Male
+2017,Sant Andreu,la Trinitat Vella,7,Middle Africa,Female
+2017,Sant Andreu,la Trinitat Vella,7,Middle Africa,Male
+2017,Sant Andreu,la Trinitat Vella,242,Northern Africa,Female
+2017,Sant Andreu,la Trinitat Vella,365,Northern Africa,Male
+2017,Sant Andreu,la Trinitat Vella,45,Western Africa,Female
+2017,Sant Andreu,la Trinitat Vella,99,Western Africa,Male
+2017,Sant Andreu,la Trinitat Vella,113,Caribbean,Female
+2017,Sant Andreu,la Trinitat Vella,90,Caribbean,Male
+2017,Sant Andreu,la Trinitat Vella,108,Central America,Female
+2017,Sant Andreu,la Trinitat Vella,49,Central America,Male
+2017,Sant Andreu,la Trinitat Vella,650,South America,Female
+2017,Sant Andreu,la Trinitat Vella,574,South America,Male
+2017,Sant Andreu,la Trinitat Vella,..,Northern America,Female
+2017,Sant Andreu,la Trinitat Vella,..,Northern America,Male
+2017,Sant Andreu,la Trinitat Vella,..,Central Asia,Female
+2017,Sant Andreu,la Trinitat Vella,..,Central Asia,Male
+2017,Sant Andreu,la Trinitat Vella,30,Eastern Asia,Female
+2017,Sant Andreu,la Trinitat Vella,28,Eastern Asia,Male
+2017,Sant Andreu,la Trinitat Vella,252,Southern Asia,Female
+2017,Sant Andreu,la Trinitat Vella,643,Southern Asia,Male
+2017,Sant Andreu,la Trinitat Vella,14,South-Eastern Asia,Female
+2017,Sant Andreu,la Trinitat Vella,..,South-Eastern Asia,Male
+2017,Sant Andreu,la Trinitat Vella,32,Western Asia,Female
+2017,Sant Andreu,la Trinitat Vella,41,Western Asia,Male
+2017,Sant Andreu,la Trinitat Vella,99,Eastern Europe,Female
+2017,Sant Andreu,la Trinitat Vella,105,Eastern Europe,Male
+2017,Sant Andreu,la Trinitat Vella,5,Northern Europe,Female
+2017,Sant Andreu,la Trinitat Vella,8,Northern Europe,Male
+2017,Sant Andreu,la Trinitat Vella,3226,Southern Europe,Female
+2017,Sant Andreu,la Trinitat Vella,3111,Southern Europe,Male
+2017,Sant Andreu,la Trinitat Vella,21,Western Europe,Female
+2017,Sant Andreu,la Trinitat Vella,30,Western Europe,Male
+2017,Sant Andreu,la Trinitat Vella,..,Australia and New Zealand,Female
+2017,Sant Andreu,Baró de Viver,..,Middle Africa,Female
+2017,Sant Andreu,Baró de Viver,50,Northern Africa,Female
+2017,Sant Andreu,Baró de Viver,60,Northern Africa,Male
+2017,Sant Andreu,Baró de Viver,..,Western Africa,Female
+2017,Sant Andreu,Baró de Viver,6,Western Africa,Male
+2017,Sant Andreu,Baró de Viver,11,Caribbean,Female
+2017,Sant Andreu,Baró de Viver,8,Caribbean,Male
+2017,Sant Andreu,Baró de Viver,8,Central America,Female
+2017,Sant Andreu,Baró de Viver,..,Central America,Male
+2017,Sant Andreu,Baró de Viver,97,South America,Female
+2017,Sant Andreu,Baró de Viver,78,South America,Male
+2017,Sant Andreu,Baró de Viver,..,Northern America,Female
+2017,Sant Andreu,Baró de Viver,6,Eastern Asia,Female
+2017,Sant Andreu,Baró de Viver,..,Eastern Asia,Male
+2017,Sant Andreu,Baró de Viver,5,Southern Asia,Female
+2017,Sant Andreu,Baró de Viver,9,Southern Asia,Male
+2017,Sant Andreu,Baró de Viver,..,South-Eastern Asia,Female
+2017,Sant Andreu,Baró de Viver,..,South-Eastern Asia,Male
+2017,Sant Andreu,Baró de Viver,6,Western Asia,Female
+2017,Sant Andreu,Baró de Viver,6,Western Asia,Male
+2017,Sant Andreu,Baró de Viver,25,Eastern Europe,Female
+2017,Sant Andreu,Baró de Viver,12,Eastern Europe,Male
+2017,Sant Andreu,Baró de Viver,..,Northern Europe,Male
+2017,Sant Andreu,Baró de Viver,1085,Southern Europe,Female
+2017,Sant Andreu,Baró de Viver,1037,Southern Europe,Male
+2017,Sant Andreu,Baró de Viver,8,Western Europe,Female
+2017,Sant Andreu,Baró de Viver,6,Western Europe,Male
+2017,Sant Andreu,el Bon Pastor,..,Eastern Africa,Female
+2017,Sant Andreu,el Bon Pastor,..,Eastern Africa,Male
+2017,Sant Andreu,el Bon Pastor,..,Middle Africa,Female
+2017,Sant Andreu,el Bon Pastor,9,Middle Africa,Male
+2017,Sant Andreu,el Bon Pastor,81,Northern Africa,Female
+2017,Sant Andreu,el Bon Pastor,121,Northern Africa,Male
+2017,Sant Andreu,el Bon Pastor,23,Western Africa,Female
+2017,Sant Andreu,el Bon Pastor,56,Western Africa,Male
+2017,Sant Andreu,el Bon Pastor,43,Caribbean,Female
+2017,Sant Andreu,el Bon Pastor,36,Caribbean,Male
+2017,Sant Andreu,el Bon Pastor,100,Central America,Female
+2017,Sant Andreu,el Bon Pastor,39,Central America,Male
+2017,Sant Andreu,el Bon Pastor,552,South America,Female
+2017,Sant Andreu,el Bon Pastor,482,South America,Male
+2017,Sant Andreu,el Bon Pastor,..,Northern America,Female
+2017,Sant Andreu,el Bon Pastor,..,Northern America,Male
+2017,Sant Andreu,el Bon Pastor,..,Central Asia,Female
+2017,Sant Andreu,el Bon Pastor,40,Eastern Asia,Female
+2017,Sant Andreu,el Bon Pastor,36,Eastern Asia,Male
+2017,Sant Andreu,el Bon Pastor,57,Southern Asia,Female
+2017,Sant Andreu,el Bon Pastor,228,Southern Asia,Male
+2017,Sant Andreu,el Bon Pastor,15,South-Eastern Asia,Female
+2017,Sant Andreu,el Bon Pastor,10,South-Eastern Asia,Male
+2017,Sant Andreu,el Bon Pastor,37,Western Asia,Female
+2017,Sant Andreu,el Bon Pastor,35,Western Asia,Male
+2017,Sant Andreu,el Bon Pastor,103,Eastern Europe,Female
+2017,Sant Andreu,el Bon Pastor,97,Eastern Europe,Male
+2017,Sant Andreu,el Bon Pastor,..,Northern Europe,Female
+2017,Sant Andreu,el Bon Pastor,5,Northern Europe,Male
+2017,Sant Andreu,el Bon Pastor,5222,Southern Europe,Female
+2017,Sant Andreu,el Bon Pastor,5063,Southern Europe,Male
+2017,Sant Andreu,el Bon Pastor,36,Western Europe,Female
+2017,Sant Andreu,el Bon Pastor,41,Western Europe,Male
+2017,Sant Andreu,Sant Andreu,14,Eastern Africa,Female
+2017,Sant Andreu,Sant Andreu,8,Eastern Africa,Male
+2017,Sant Andreu,Sant Andreu,20,Middle Africa,Female
+2017,Sant Andreu,Sant Andreu,16,Middle Africa,Male
+2017,Sant Andreu,Sant Andreu,209,Northern Africa,Female
+2017,Sant Andreu,Sant Andreu,225,Northern Africa,Male
+2017,Sant Andreu,Sant Andreu,..,Southern Africa,Male
+2017,Sant Andreu,Sant Andreu,23,Western Africa,Female
+2017,Sant Andreu,Sant Andreu,58,Western Africa,Male
+2017,Sant Andreu,Sant Andreu,268,Caribbean,Female
+2017,Sant Andreu,Sant Andreu,158,Caribbean,Male
+2017,Sant Andreu,Sant Andreu,270,Central America,Female
+2017,Sant Andreu,Sant Andreu,118,Central America,Male
+2017,Sant Andreu,Sant Andreu,1850,South America,Female
+2017,Sant Andreu,Sant Andreu,1448,South America,Male
+2017,Sant Andreu,Sant Andreu,24,Northern America,Female
+2017,Sant Andreu,Sant Andreu,16,Northern America,Male
+2017,Sant Andreu,Sant Andreu,7,Central Asia,Female
+2017,Sant Andreu,Sant Andreu,..,Central Asia,Male
+2017,Sant Andreu,Sant Andreu,229,Eastern Asia,Female
+2017,Sant Andreu,Sant Andreu,185,Eastern Asia,Male
+2017,Sant Andreu,Sant Andreu,103,Southern Asia,Female
+2017,Sant Andreu,Sant Andreu,210,Southern Asia,Male
+2017,Sant Andreu,Sant Andreu,30,South-Eastern Asia,Female
+2017,Sant Andreu,Sant Andreu,15,South-Eastern Asia,Male
+2017,Sant Andreu,Sant Andreu,72,Western Asia,Female
+2017,Sant Andreu,Sant Andreu,90,Western Asia,Male
+2017,Sant Andreu,Sant Andreu,302,Eastern Europe,Female
+2017,Sant Andreu,Sant Andreu,221,Eastern Europe,Male
+2017,Sant Andreu,Sant Andreu,52,Northern Europe,Female
+2017,Sant Andreu,Sant Andreu,52,Northern Europe,Male
+2017,Sant Andreu,Sant Andreu,26534,Southern Europe,Female
+2017,Sant Andreu,Sant Andreu,23982,Southern Europe,Male
+2017,Sant Andreu,Sant Andreu,231,Western Europe,Female
+2017,Sant Andreu,Sant Andreu,172,Western Europe,Male
+2017,Sant Andreu,Sant Andreu,..,Australia and New Zealand,Female
+2017,Sant Andreu,Sant Andreu,..,Australia and New Zealand,Male
+2017,Sant Andreu,Sant Andreu,..,Not available,Female
+2017,Sant Andreu,la Sagrera,..,Eastern Africa,Female
+2017,Sant Andreu,la Sagrera,10,Middle Africa,Female
+2017,Sant Andreu,la Sagrera,11,Middle Africa,Male
+2017,Sant Andreu,la Sagrera,91,Northern Africa,Female
+2017,Sant Andreu,la Sagrera,101,Northern Africa,Male
+2017,Sant Andreu,la Sagrera,..,Southern Africa,Female
+2017,Sant Andreu,la Sagrera,16,Western Africa,Female
+2017,Sant Andreu,la Sagrera,46,Western Africa,Male
+2017,Sant Andreu,la Sagrera,267,Caribbean,Female
+2017,Sant Andreu,la Sagrera,164,Caribbean,Male
+2017,Sant Andreu,la Sagrera,215,Central America,Female
+2017,Sant Andreu,la Sagrera,104,Central America,Male
+2017,Sant Andreu,la Sagrera,1778,South America,Female
+2017,Sant Andreu,la Sagrera,1348,South America,Male
+2017,Sant Andreu,la Sagrera,17,Northern America,Female
+2017,Sant Andreu,la Sagrera,17,Northern America,Male
+2017,Sant Andreu,la Sagrera,8,Central Asia,Female
+2017,Sant Andreu,la Sagrera,..,Central Asia,Male
+2017,Sant Andreu,la Sagrera,228,Eastern Asia,Female
+2017,Sant Andreu,la Sagrera,198,Eastern Asia,Male
+2017,Sant Andreu,la Sagrera,40,Southern Asia,Female
+2017,Sant Andreu,la Sagrera,106,Southern Asia,Male
+2017,Sant Andreu,la Sagrera,41,South-Eastern Asia,Female
+2017,Sant Andreu,la Sagrera,23,South-Eastern Asia,Male
+2017,Sant Andreu,la Sagrera,86,Western Asia,Female
+2017,Sant Andreu,la Sagrera,95,Western Asia,Male
+2017,Sant Andreu,la Sagrera,255,Eastern Europe,Female
+2017,Sant Andreu,la Sagrera,150,Eastern Europe,Male
+2017,Sant Andreu,la Sagrera,27,Northern Europe,Female
+2017,Sant Andreu,la Sagrera,33,Northern Europe,Male
+2017,Sant Andreu,la Sagrera,12317,Southern Europe,Female
+2017,Sant Andreu,la Sagrera,11094,Southern Europe,Male
+2017,Sant Andreu,la Sagrera,100,Western Europe,Female
+2017,Sant Andreu,la Sagrera,128,Western Europe,Male
+2017,Sant Andreu,la Sagrera,..,Australia and New Zealand,Female
+2017,Sant Andreu,la Sagrera,..,Australia and New Zealand,Male
+2017,Sant Andreu,la Sagrera,..,Not available,Female
+2017,Sant Andreu,la Sagrera,..,Not available,Male
+2017,Sant Andreu,el Congrés i els Indians,..,Eastern Africa,Female
+2017,Sant Andreu,el Congrés i els Indians,..,Eastern Africa,Male
+2017,Sant Andreu,el Congrés i els Indians,..,Middle Africa,Female
+2017,Sant Andreu,el Congrés i els Indians,..,Middle Africa,Male
+2017,Sant Andreu,el Congrés i els Indians,53,Northern Africa,Female
+2017,Sant Andreu,el Congrés i els Indians,66,Northern Africa,Male
+2017,Sant Andreu,el Congrés i els Indians,5,Western Africa,Female
+2017,Sant Andreu,el Congrés i els Indians,20,Western Africa,Male
+2017,Sant Andreu,el Congrés i els Indians,101,Caribbean,Female
+2017,Sant Andreu,el Congrés i els Indians,79,Caribbean,Male
+2017,Sant Andreu,el Congrés i els Indians,93,Central America,Female
+2017,Sant Andreu,el Congrés i els Indians,47,Central America,Male
+2017,Sant Andreu,el Congrés i els Indians,783,South America,Female
+2017,Sant Andreu,el Congrés i els Indians,571,South America,Male
+2017,Sant Andreu,el Congrés i els Indians,13,Northern America,Female
+2017,Sant Andreu,el Congrés i els Indians,8,Northern America,Male
+2017,Sant Andreu,el Congrés i els Indians,..,Central Asia,Female
+2017,Sant Andreu,el Congrés i els Indians,..,Central Asia,Male
+2017,Sant Andreu,el Congrés i els Indians,116,Eastern Asia,Female
+2017,Sant Andreu,el Congrés i els Indians,74,Eastern Asia,Male
+2017,Sant Andreu,el Congrés i els Indians,24,Southern Asia,Female
+2017,Sant Andreu,el Congrés i els Indians,64,Southern Asia,Male
+2017,Sant Andreu,el Congrés i els Indians,..,South-Eastern Asia,Female
+2017,Sant Andreu,el Congrés i els Indians,..,South-Eastern Asia,Male
+2017,Sant Andreu,el Congrés i els Indians,68,Western Asia,Female
+2017,Sant Andreu,el Congrés i els Indians,56,Western Asia,Male
+2017,Sant Andreu,el Congrés i els Indians,148,Eastern Europe,Female
+2017,Sant Andreu,el Congrés i els Indians,108,Eastern Europe,Male
+2017,Sant Andreu,el Congrés i els Indians,19,Northern Europe,Female
+2017,Sant Andreu,el Congrés i els Indians,18,Northern Europe,Male
+2017,Sant Andreu,el Congrés i els Indians,6156,Southern Europe,Female
+2017,Sant Andreu,el Congrés i els Indians,5304,Southern Europe,Male
+2017,Sant Andreu,el Congrés i els Indians,66,Western Europe,Female
+2017,Sant Andreu,el Congrés i els Indians,57,Western Europe,Male
+2017,Sant Andreu,el Congrés i els Indians,..,Australia and New Zealand,Female
+2017,Sant Andreu,el Congrés i els Indians,..,Australia and New Zealand,Male
+2017,Sant Andreu,el Congrés i els Indians,..,Not available,Female
+2017,Sant Andreu,el Congrés i els Indians,..,Not available,Male
+2017,Sant Andreu,Navas,..,Eastern Africa,Female
+2017,Sant Andreu,Navas,5,Eastern Africa,Male
+2017,Sant Andreu,Navas,6,Middle Africa,Female
+2017,Sant Andreu,Navas,..,Middle Africa,Male
+2017,Sant Andreu,Navas,81,Northern Africa,Female
+2017,Sant Andreu,Navas,96,Northern Africa,Male
+2017,Sant Andreu,Navas,..,Southern Africa,Female
+2017,Sant Andreu,Navas,..,Southern Africa,Male
+2017,Sant Andreu,Navas,31,Western Africa,Female
+2017,Sant Andreu,Navas,65,Western Africa,Male
+2017,Sant Andreu,Navas,185,Caribbean,Female
+2017,Sant Andreu,Navas,145,Caribbean,Male
+2017,Sant Andreu,Navas,113,Central America,Female
+2017,Sant Andreu,Navas,62,Central America,Male
+2017,Sant Andreu,Navas,1355,South America,Female
+2017,Sant Andreu,Navas,1027,South America,Male
+2017,Sant Andreu,Navas,17,Northern America,Female
+2017,Sant Andreu,Navas,13,Northern America,Male
+2017,Sant Andreu,Navas,..,Central Asia,Female
+2017,Sant Andreu,Navas,..,Central Asia,Male
+2017,Sant Andreu,Navas,235,Eastern Asia,Female
+2017,Sant Andreu,Navas,233,Eastern Asia,Male
+2017,Sant Andreu,Navas,33,Southern Asia,Female
+2017,Sant Andreu,Navas,86,Southern Asia,Male
+2017,Sant Andreu,Navas,25,South-Eastern Asia,Female
+2017,Sant Andreu,Navas,18,South-Eastern Asia,Male
+2017,Sant Andreu,Navas,71,Western Asia,Female
+2017,Sant Andreu,Navas,68,Western Asia,Male
+2017,Sant Andreu,Navas,218,Eastern Europe,Female
+2017,Sant Andreu,Navas,135,Eastern Europe,Male
+2017,Sant Andreu,Navas,37,Northern Europe,Female
+2017,Sant Andreu,Navas,28,Northern Europe,Male
+2017,Sant Andreu,Navas,9274,Southern Europe,Female
+2017,Sant Andreu,Navas,8289,Southern Europe,Male
+2017,Sant Andreu,Navas,100,Western Europe,Female
+2017,Sant Andreu,Navas,95,Western Europe,Male
+2017,Sant Andreu,Navas,..,Australia and New Zealand,Female
+2017,Sant Andreu,Navas,..,Australia and New Zealand,Male
+2017,Sant Andreu,Navas,..,Not available,Female
+2017,Sant Andreu,Navas,..,Not available,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,..,Eastern Africa,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,5,Eastern Africa,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,7,Middle Africa,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,11,Middle Africa,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,180,Northern Africa,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,276,Northern Africa,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,..,Southern Africa,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,..,Southern Africa,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,18,Western Africa,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,69,Western Africa,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,339,Caribbean,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,210,Caribbean,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,233,Central America,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,119,Central America,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,2436,South America,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,1926,South America,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,34,Northern America,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,31,Northern America,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,..,Central Asia,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,..,Central Asia,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,327,Eastern Asia,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,264,Eastern Asia,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,99,Southern Asia,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,269,Southern Asia,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,68,South-Eastern Asia,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,32,South-Eastern Asia,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,88,Western Asia,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,102,Western Asia,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,343,Eastern Europe,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,221,Eastern Europe,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,106,Northern Europe,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,124,Northern Europe,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,15771,Southern Europe,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,13946,Southern Europe,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,288,Western Europe,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,271,Western Europe,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,..,Australia and New Zealand,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,5,Australia and New Zealand,Male
+2017,Sant Martí,el Camp de l'Arpa del Clot,7,Not available,Female
+2017,Sant Martí,el Camp de l'Arpa del Clot,..,Not available,Male
+2017,Sant Martí,el Clot,..,Eastern Africa,Female
+2017,Sant Martí,el Clot,12,Eastern Africa,Male
+2017,Sant Martí,el Clot,7,Middle Africa,Female
+2017,Sant Martí,el Clot,6,Middle Africa,Male
+2017,Sant Martí,el Clot,150,Northern Africa,Female
+2017,Sant Martí,el Clot,227,Northern Africa,Male
+2017,Sant Martí,el Clot,..,Southern Africa,Female
+2017,Sant Martí,el Clot,..,Southern Africa,Male
+2017,Sant Martí,el Clot,20,Western Africa,Female
+2017,Sant Martí,el Clot,44,Western Africa,Male
+2017,Sant Martí,el Clot,112,Caribbean,Female
+2017,Sant Martí,el Clot,83,Caribbean,Male
+2017,Sant Martí,el Clot,171,Central America,Female
+2017,Sant Martí,el Clot,86,Central America,Male
+2017,Sant Martí,el Clot,1303,South America,Female
+2017,Sant Martí,el Clot,1084,South America,Male
+2017,Sant Martí,el Clot,27,Northern America,Female
+2017,Sant Martí,el Clot,27,Northern America,Male
+2017,Sant Martí,el Clot,..,Central Asia,Female
+2017,Sant Martí,el Clot,..,Central Asia,Male
+2017,Sant Martí,el Clot,268,Eastern Asia,Female
+2017,Sant Martí,el Clot,175,Eastern Asia,Male
+2017,Sant Martí,el Clot,52,Southern Asia,Female
+2017,Sant Martí,el Clot,151,Southern Asia,Male
+2017,Sant Martí,el Clot,23,South-Eastern Asia,Female
+2017,Sant Martí,el Clot,10,South-Eastern Asia,Male
+2017,Sant Martí,el Clot,72,Western Asia,Female
+2017,Sant Martí,el Clot,76,Western Asia,Male
+2017,Sant Martí,el Clot,253,Eastern Europe,Female
+2017,Sant Martí,el Clot,184,Eastern Europe,Male
+2017,Sant Martí,el Clot,52,Northern Europe,Female
+2017,Sant Martí,el Clot,67,Northern Europe,Male
+2017,Sant Martí,el Clot,11435,Southern Europe,Female
+2017,Sant Martí,el Clot,10540,Southern Europe,Male
+2017,Sant Martí,el Clot,174,Western Europe,Female
+2017,Sant Martí,el Clot,180,Western Europe,Male
+2017,Sant Martí,el Clot,..,Australia and New Zealand,Male
+2017,Sant Martí,el Clot,..,Not available,Female
+2017,Sant Martí,el Clot,..,Not available,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,..,Eastern Africa,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,..,Eastern Africa,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,5,Middle Africa,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,6,Middle Africa,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,98,Northern Africa,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,151,Northern Africa,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,..,Southern Africa,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,..,Southern Africa,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,12,Western Africa,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,48,Western Africa,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,82,Caribbean,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,57,Caribbean,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,91,Central America,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,55,Central America,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,742,South America,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,678,South America,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,56,Northern America,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,57,Northern America,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,11,Central Asia,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,13,Central Asia,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,170,Eastern Asia,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,143,Eastern Asia,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,41,Southern Asia,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,103,Southern Asia,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,24,South-Eastern Asia,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,14,South-Eastern Asia,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,48,Western Asia,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,67,Western Asia,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,206,Eastern Europe,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,150,Eastern Europe,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,77,Northern Europe,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,110,Northern Europe,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,5997,Southern Europe,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,5479,Southern Europe,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,179,Western Europe,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,205,Western Europe,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,..,Australia and New Zealand,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,6,Australia and New Zealand,Male
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,..,Not available,Female
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,6,Not available,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,..,Eastern Africa,Female
+2017,Sant Martí,la Vila Olímpica del Poblenou,6,Eastern Africa,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,..,Middle Africa,Female
+2017,Sant Martí,la Vila Olímpica del Poblenou,..,Middle Africa,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,38,Northern Africa,Female
+2017,Sant Martí,la Vila Olímpica del Poblenou,35,Northern Africa,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,..,Southern Africa,Female
+2017,Sant Martí,la Vila Olímpica del Poblenou,..,Western Africa,Female
+2017,Sant Martí,la Vila Olímpica del Poblenou,..,Western Africa,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,26,Caribbean,Female
+2017,Sant Martí,la Vila Olímpica del Poblenou,16,Caribbean,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,49,Central America,Female
+2017,Sant Martí,la Vila Olímpica del Poblenou,49,Central America,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,302,South America,Female
+2017,Sant Martí,la Vila Olímpica del Poblenou,268,South America,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,52,Northern America,Female
+2017,Sant Martí,la Vila Olímpica del Poblenou,44,Northern America,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,..,Central Asia,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,58,Eastern Asia,Female
+2017,Sant Martí,la Vila Olímpica del Poblenou,28,Eastern Asia,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,18,Southern Asia,Female
+2017,Sant Martí,la Vila Olímpica del Poblenou,27,Southern Asia,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,9,South-Eastern Asia,Female
+2017,Sant Martí,la Vila Olímpica del Poblenou,..,South-Eastern Asia,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,16,Western Asia,Female
+2017,Sant Martí,la Vila Olímpica del Poblenou,25,Western Asia,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,147,Eastern Europe,Female
+2017,Sant Martí,la Vila Olímpica del Poblenou,92,Eastern Europe,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,50,Northern Europe,Female
+2017,Sant Martí,la Vila Olímpica del Poblenou,75,Northern Europe,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,3870,Southern Europe,Female
+2017,Sant Martí,la Vila Olímpica del Poblenou,3750,Southern Europe,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,140,Western Europe,Female
+2017,Sant Martí,la Vila Olímpica del Poblenou,176,Western Europe,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,5,Australia and New Zealand,Female
+2017,Sant Martí,la Vila Olímpica del Poblenou,7,Australia and New Zealand,Male
+2017,Sant Martí,la Vila Olímpica del Poblenou,..,Not available,Female
+2017,Sant Martí,el Poblenou,17,Eastern Africa,Female
+2017,Sant Martí,el Poblenou,10,Eastern Africa,Male
+2017,Sant Martí,el Poblenou,6,Middle Africa,Female
+2017,Sant Martí,el Poblenou,10,Middle Africa,Male
+2017,Sant Martí,el Poblenou,124,Northern Africa,Female
+2017,Sant Martí,el Poblenou,186,Northern Africa,Male
+2017,Sant Martí,el Poblenou,..,Southern Africa,Female
+2017,Sant Martí,el Poblenou,5,Southern Africa,Male
+2017,Sant Martí,el Poblenou,15,Western Africa,Female
+2017,Sant Martí,el Poblenou,50,Western Africa,Male
+2017,Sant Martí,el Poblenou,121,Caribbean,Female
+2017,Sant Martí,el Poblenou,83,Caribbean,Male
+2017,Sant Martí,el Poblenou,172,Central America,Female
+2017,Sant Martí,el Poblenou,109,Central America,Male
+2017,Sant Martí,el Poblenou,1350,South America,Female
+2017,Sant Martí,el Poblenou,1145,South America,Male
+2017,Sant Martí,el Poblenou,82,Northern America,Female
+2017,Sant Martí,el Poblenou,66,Northern America,Male
+2017,Sant Martí,el Poblenou,14,Central Asia,Female
+2017,Sant Martí,el Poblenou,7,Central Asia,Male
+2017,Sant Martí,el Poblenou,202,Eastern Asia,Female
+2017,Sant Martí,el Poblenou,175,Eastern Asia,Male
+2017,Sant Martí,el Poblenou,133,Southern Asia,Female
+2017,Sant Martí,el Poblenou,379,Southern Asia,Male
+2017,Sant Martí,el Poblenou,32,South-Eastern Asia,Female
+2017,Sant Martí,el Poblenou,17,South-Eastern Asia,Male
+2017,Sant Martí,el Poblenou,73,Western Asia,Female
+2017,Sant Martí,el Poblenou,90,Western Asia,Male
+2017,Sant Martí,el Poblenou,370,Eastern Europe,Female
+2017,Sant Martí,el Poblenou,254,Eastern Europe,Male
+2017,Sant Martí,el Poblenou,195,Northern Europe,Female
+2017,Sant Martí,el Poblenou,244,Northern Europe,Male
+2017,Sant Martí,el Poblenou,14041,Southern Europe,Female
+2017,Sant Martí,el Poblenou,13156,Southern Europe,Male
+2017,Sant Martí,el Poblenou,480,Western Europe,Female
+2017,Sant Martí,el Poblenou,490,Western Europe,Male
+2017,Sant Martí,el Poblenou,9,Australia and New Zealand,Female
+2017,Sant Martí,el Poblenou,15,Australia and New Zealand,Male
+2017,Sant Martí,el Poblenou,..,Not available,Female
+2017,Sant Martí,el Poblenou,..,Not available,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,..,Eastern Africa,Female
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,..,Eastern Africa,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,..,Middle Africa,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,78,Northern Africa,Female
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,90,Northern Africa,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,..,Southern Africa,Female
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,..,Southern Africa,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,6,Western Africa,Female
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,23,Western Africa,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,33,Caribbean,Female
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,30,Caribbean,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,46,Central America,Female
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,35,Central America,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,531,South America,Female
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,403,South America,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,27,Northern America,Female
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,23,Northern America,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,11,Central Asia,Female
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,9,Central Asia,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,95,Eastern Asia,Female
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,72,Eastern Asia,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,24,Southern Asia,Female
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,41,Southern Asia,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,22,South-Eastern Asia,Female
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,8,South-Eastern Asia,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,37,Western Asia,Female
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,54,Western Asia,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,322,Eastern Europe,Female
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,236,Eastern Europe,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,60,Northern Europe,Female
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,85,Northern Europe,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,5492,Southern Europe,Female
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,5401,Southern Europe,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,155,Western Europe,Female
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,199,Western Europe,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,..,Australia and New Zealand,Female
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,5,Australia and New Zealand,Male
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,..,Not available,Male
+2017,Sant Martí,el Besòs i el Maresme,..,Eastern Africa,Female
+2017,Sant Martí,el Besòs i el Maresme,..,Eastern Africa,Male
+2017,Sant Martí,el Besòs i el Maresme,..,Middle Africa,Female
+2017,Sant Martí,el Besòs i el Maresme,12,Middle Africa,Male
+2017,Sant Martí,el Besòs i el Maresme,257,Northern Africa,Female
+2017,Sant Martí,el Besòs i el Maresme,343,Northern Africa,Male
+2017,Sant Martí,el Besòs i el Maresme,42,Western Africa,Female
+2017,Sant Martí,el Besòs i el Maresme,233,Western Africa,Male
+2017,Sant Martí,el Besòs i el Maresme,166,Caribbean,Female
+2017,Sant Martí,el Besòs i el Maresme,150,Caribbean,Male
+2017,Sant Martí,el Besòs i el Maresme,193,Central America,Female
+2017,Sant Martí,el Besòs i el Maresme,83,Central America,Male
+2017,Sant Martí,el Besòs i el Maresme,1065,South America,Female
+2017,Sant Martí,el Besòs i el Maresme,848,South America,Male
+2017,Sant Martí,el Besòs i el Maresme,13,Northern America,Female
+2017,Sant Martí,el Besòs i el Maresme,10,Northern America,Male
+2017,Sant Martí,el Besòs i el Maresme,19,Central Asia,Female
+2017,Sant Martí,el Besòs i el Maresme,23,Central Asia,Male
+2017,Sant Martí,el Besòs i el Maresme,165,Eastern Asia,Female
+2017,Sant Martí,el Besòs i el Maresme,147,Eastern Asia,Male
+2017,Sant Martí,el Besòs i el Maresme,590,Southern Asia,Female
+2017,Sant Martí,el Besòs i el Maresme,1654,Southern Asia,Male
+2017,Sant Martí,el Besòs i el Maresme,16,South-Eastern Asia,Female
+2017,Sant Martí,el Besòs i el Maresme,13,South-Eastern Asia,Male
+2017,Sant Martí,el Besòs i el Maresme,63,Western Asia,Female
+2017,Sant Martí,el Besòs i el Maresme,63,Western Asia,Male
+2017,Sant Martí,el Besòs i el Maresme,488,Eastern Europe,Female
+2017,Sant Martí,el Besòs i el Maresme,341,Eastern Europe,Male
+2017,Sant Martí,el Besòs i el Maresme,31,Northern Europe,Female
+2017,Sant Martí,el Besòs i el Maresme,19,Northern Europe,Male
+2017,Sant Martí,el Besòs i el Maresme,8235,Southern Europe,Female
+2017,Sant Martí,el Besòs i el Maresme,7634,Southern Europe,Male
+2017,Sant Martí,el Besòs i el Maresme,58,Western Europe,Female
+2017,Sant Martí,el Besòs i el Maresme,79,Western Europe,Male
+2017,Sant Martí,el Besòs i el Maresme,..,Australia and New Zealand,Female
+2017,Sant Martí,el Besòs i el Maresme,..,Not available,Female
+2017,Sant Martí,el Besòs i el Maresme,..,Not available,Male
+2017,Sant Martí,Provençals del Poblenou,6,Eastern Africa,Male
+2017,Sant Martí,Provençals del Poblenou,..,Middle Africa,Female
+2017,Sant Martí,Provençals del Poblenou,8,Middle Africa,Male
+2017,Sant Martí,Provençals del Poblenou,150,Northern Africa,Female
+2017,Sant Martí,Provençals del Poblenou,173,Northern Africa,Male
+2017,Sant Martí,Provençals del Poblenou,..,Southern Africa,Female
+2017,Sant Martí,Provençals del Poblenou,..,Southern Africa,Male
+2017,Sant Martí,Provençals del Poblenou,15,Western Africa,Female
+2017,Sant Martí,Provençals del Poblenou,48,Western Africa,Male
+2017,Sant Martí,Provençals del Poblenou,110,Caribbean,Female
+2017,Sant Martí,Provençals del Poblenou,87,Caribbean,Male
+2017,Sant Martí,Provençals del Poblenou,107,Central America,Female
+2017,Sant Martí,Provençals del Poblenou,48,Central America,Male
+2017,Sant Martí,Provençals del Poblenou,764,South America,Female
+2017,Sant Martí,Provençals del Poblenou,676,South America,Male
+2017,Sant Martí,Provençals del Poblenou,13,Northern America,Female
+2017,Sant Martí,Provençals del Poblenou,18,Northern America,Male
+2017,Sant Martí,Provençals del Poblenou,..,Central Asia,Female
+2017,Sant Martí,Provençals del Poblenou,..,Central Asia,Male
+2017,Sant Martí,Provençals del Poblenou,139,Eastern Asia,Female
+2017,Sant Martí,Provençals del Poblenou,98,Eastern Asia,Male
+2017,Sant Martí,Provençals del Poblenou,87,Southern Asia,Female
+2017,Sant Martí,Provençals del Poblenou,175,Southern Asia,Male
+2017,Sant Martí,Provençals del Poblenou,9,South-Eastern Asia,Female
+2017,Sant Martí,Provençals del Poblenou,..,South-Eastern Asia,Male
+2017,Sant Martí,Provençals del Poblenou,57,Western Asia,Female
+2017,Sant Martí,Provençals del Poblenou,71,Western Asia,Male
+2017,Sant Martí,Provençals del Poblenou,228,Eastern Europe,Female
+2017,Sant Martí,Provençals del Poblenou,159,Eastern Europe,Male
+2017,Sant Martí,Provençals del Poblenou,45,Northern Europe,Female
+2017,Sant Martí,Provençals del Poblenou,50,Northern Europe,Male
+2017,Sant Martí,Provençals del Poblenou,8761,Southern Europe,Female
+2017,Sant Martí,Provençals del Poblenou,8124,Southern Europe,Male
+2017,Sant Martí,Provençals del Poblenou,128,Western Europe,Female
+2017,Sant Martí,Provençals del Poblenou,151,Western Europe,Male
+2017,Sant Martí,Provençals del Poblenou,..,Australia and New Zealand,Female
+2017,Sant Martí,Provençals del Poblenou,..,Australia and New Zealand,Male
+2017,Sant Martí,Sant Martí de Provençals,..,Eastern Africa,Female
+2017,Sant Martí,Sant Martí de Provençals,..,Eastern Africa,Male
+2017,Sant Martí,Sant Martí de Provençals,10,Middle Africa,Female
+2017,Sant Martí,Sant Martí de Provençals,10,Middle Africa,Male
+2017,Sant Martí,Sant Martí de Provençals,72,Northern Africa,Female
+2017,Sant Martí,Sant Martí de Provençals,91,Northern Africa,Male
+2017,Sant Martí,Sant Martí de Provençals,15,Western Africa,Female
+2017,Sant Martí,Sant Martí de Provençals,25,Western Africa,Male
+2017,Sant Martí,Sant Martí de Provençals,235,Caribbean,Female
+2017,Sant Martí,Sant Martí de Provençals,154,Caribbean,Male
+2017,Sant Martí,Sant Martí de Provençals,139,Central America,Female
+2017,Sant Martí,Sant Martí de Provençals,66,Central America,Male
+2017,Sant Martí,Sant Martí de Provençals,1111,South America,Female
+2017,Sant Martí,Sant Martí de Provençals,893,South America,Male
+2017,Sant Martí,Sant Martí de Provençals,36,Northern America,Female
+2017,Sant Martí,Sant Martí de Provençals,103,Northern America,Male
+2017,Sant Martí,Sant Martí de Provençals,..,Central Asia,Female
+2017,Sant Martí,Sant Martí de Provençals,..,Central Asia,Male
+2017,Sant Martí,Sant Martí de Provençals,266,Eastern Asia,Female
+2017,Sant Martí,Sant Martí de Provençals,235,Eastern Asia,Male
+2017,Sant Martí,Sant Martí de Provençals,41,Southern Asia,Female
+2017,Sant Martí,Sant Martí de Provençals,101,Southern Asia,Male
+2017,Sant Martí,Sant Martí de Provençals,20,South-Eastern Asia,Female
+2017,Sant Martí,Sant Martí de Provençals,9,South-Eastern Asia,Male
+2017,Sant Martí,Sant Martí de Provençals,45,Western Asia,Female
+2017,Sant Martí,Sant Martí de Provençals,50,Western Asia,Male
+2017,Sant Martí,Sant Martí de Provençals,257,Eastern Europe,Female
+2017,Sant Martí,Sant Martí de Provençals,194,Eastern Europe,Male
+2017,Sant Martí,Sant Martí de Provençals,30,Northern Europe,Female
+2017,Sant Martí,Sant Martí de Provençals,19,Northern Europe,Male
+2017,Sant Martí,Sant Martí de Provençals,11483,Southern Europe,Female
+2017,Sant Martí,Sant Martí de Provençals,10280,Southern Europe,Male
+2017,Sant Martí,Sant Martí de Provençals,96,Western Europe,Female
+2017,Sant Martí,Sant Martí de Provençals,89,Western Europe,Male
+2017,Sant Martí,Sant Martí de Provençals,..,Australia and New Zealand,Male
+2017,Sant Martí,Sant Martí de Provençals,..,Not available,Male
+2017,Sant Martí,la Verneda i la Pau,6,Eastern Africa,Female
+2017,Sant Martí,la Verneda i la Pau,6,Eastern Africa,Male
+2017,Sant Martí,la Verneda i la Pau,..,Middle Africa,Female
+2017,Sant Martí,la Verneda i la Pau,9,Middle Africa,Male
+2017,Sant Martí,la Verneda i la Pau,118,Northern Africa,Female
+2017,Sant Martí,la Verneda i la Pau,132,Northern Africa,Male
+2017,Sant Martí,la Verneda i la Pau,..,Southern Africa,Female
+2017,Sant Martí,la Verneda i la Pau,..,Southern Africa,Male
+2017,Sant Martí,la Verneda i la Pau,24,Western Africa,Female
+2017,Sant Martí,la Verneda i la Pau,71,Western Africa,Male
+2017,Sant Martí,la Verneda i la Pau,197,Caribbean,Female
+2017,Sant Martí,la Verneda i la Pau,124,Caribbean,Male
+2017,Sant Martí,la Verneda i la Pau,129,Central America,Female
+2017,Sant Martí,la Verneda i la Pau,59,Central America,Male
+2017,Sant Martí,la Verneda i la Pau,1184,South America,Female
+2017,Sant Martí,la Verneda i la Pau,916,South America,Male
+2017,Sant Martí,la Verneda i la Pau,..,Northern America,Female
+2017,Sant Martí,la Verneda i la Pau,..,Northern America,Male
+2017,Sant Martí,la Verneda i la Pau,..,Central Asia,Male
+2017,Sant Martí,la Verneda i la Pau,261,Eastern Asia,Female
+2017,Sant Martí,la Verneda i la Pau,249,Eastern Asia,Male
+2017,Sant Martí,la Verneda i la Pau,80,Southern Asia,Female
+2017,Sant Martí,la Verneda i la Pau,179,Southern Asia,Male
+2017,Sant Martí,la Verneda i la Pau,24,South-Eastern Asia,Female
+2017,Sant Martí,la Verneda i la Pau,14,South-Eastern Asia,Male
+2017,Sant Martí,la Verneda i la Pau,65,Western Asia,Female
+2017,Sant Martí,la Verneda i la Pau,60,Western Asia,Male
+2017,Sant Martí,la Verneda i la Pau,290,Eastern Europe,Female
+2017,Sant Martí,la Verneda i la Pau,213,Eastern Europe,Male
+2017,Sant Martí,la Verneda i la Pau,25,Northern Europe,Female
+2017,Sant Martí,la Verneda i la Pau,24,Northern Europe,Male
+2017,Sant Martí,la Verneda i la Pau,12585,Southern Europe,Female
+2017,Sant Martí,la Verneda i la Pau,11486,Southern Europe,Male
+2017,Sant Martí,la Verneda i la Pau,90,Western Europe,Female
+2017,Sant Martí,la Verneda i la Pau,89,Western Europe,Male
+2017,Sant Martí,la Verneda i la Pau,..,Australia and New Zealand,Male
+2017,Sant Martí,la Verneda i la Pau,..,Not available,Female
+2017,Sant Martí,la Verneda i la Pau,..,Not available,Male
