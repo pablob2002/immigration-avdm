@@ -210,8 +210,12 @@ __marimo__/
 .DS_Store
 **/.DS_Store
 
-# data folders
+# data folders and files
 data_original/
 data/
 *.csv
 *.gpkg
+
+# images produced
+*.png
+*.gif
