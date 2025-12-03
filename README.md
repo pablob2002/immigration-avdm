@@ -110,4 +110,5 @@
 
 ### Sara directory
 
-### sergi directory
+### Sergi Directory
+This directory contains a single .ipynb file which creates all the figures necessary for the "Is the immigration in Barcelona the cause of the Spain-born citizens’ emigration?" mini article. The csv files containing the data generated is stored in the data folder (local), with a folder name "sergi_data_frames". Apart from that, another folder is created inside the Sergi directory called "figures_sergi" containing all the generated figures in .png and .pdf format.
