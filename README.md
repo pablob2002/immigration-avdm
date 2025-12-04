@@ -135,7 +135,7 @@ the unemployment rate in the province of Barcelona (right axis)**
    CSV file name (a): unemployment_rate_province_BCN.csv
    | Field (Original)  | English Term       | Description |
    |-------------------|--------------------|-------------|
-   | Periodo           | Period             | Time period |
+   | Periodo           | Period             | Time period (Year+Quarter) |
    | Tasa    | Rate  | Type of rate (in this case only unemployment)|
    |Total | Total | Unemployment rate (%) |
    |Year_decimal | Year_decimal | Year + (Quarter-1)/4)-0.5 |
