@@ -1,6 +1,5 @@
 # immigration-avdm
 
-
 ## Contributors:
 
 - Pablo Barquín Soria
@@ -8,6 +7,8 @@
 - Alba López Rivas
 - Sergi Martínez Galindo
 - Alejandro Palacios Garrido
+
+## Introduction
 
 ## Data information
 
@@ -97,8 +98,6 @@
 
 ### Where to store the data locally
 
-### Data generation
-
 ## Code excution
 
 ### Alba directory
@@ -114,12 +113,36 @@ This directory contains a single .ipynb file which creates all the figures neces
 
 There are three types of plots generated (and its corresponding data frames):
 1. **Scatter plot by world region to analyze the influence of the variation of the immigrant percentage in the total Spain-born population by neighborhood**  
-   CSV file name: (world_region)_(district/neighborhood/city)_scatter.csv  
+   CSV file name: (world_region)_(district/neighborhood/city)_scatter.csv
+   | Field            | Description |
+   |------------------|-------------|
+   | Neighborhood  | Neighborhood name |
+   | District | District name |
+   |Year_Reference | Year (i) |
+   |Pop_Spain_diff | Difference in the Spain-born population between year (i+period) and year (i) |
+   |Perc_Outside_diff | Difference in the foreign-born (world_region) population percentage between year (i) and year (i-period) |
 
 3. **Bar plot comparing the evolution of the difference between consecutive years of a certain immigrant group and the Spain-born population for a certain district, neighbourhood, or city.**  
    CSV file name: bars_(world_region)_(district/neighborhood/city).csv  
-   
+   | Field            | Description |
+   |------------------|-------------|
+   | District/Neighborhood  | District or Neighborhood name (all rows the same). This column does not appear if the data frame corresponds to the whole city. |
+   |Year_Reference | Year (i) |
+   |D_ESP | Difference in the Spain-born population between year (i) and year (i-1) |
+   |D_WR | Difference in the foreign-born (world_region) population between year (i) and year (i-1) |
 4. **Double y-axis graphics comparing the variation of the Spain-born and the Latin America-born population between consecutive years for the city of Barcelona (left axis) with the time evolution of
 the unemployment rate in the province of Barcelona (right axis)**  
-   CSV file name (a): unemployment_rate_province_BCN.csv  
-   CSV file name (b): LATAM_BCN_difference.csv  
+   CSV file name (a): unemployment_rate_province_BCN.csv
+   | Field (Original)  | English Term       | Description |
+   |-------------------|--------------------|-------------|
+   | Periodo           | Period             | Time period |
+   | Tasa    | Rate  | Type of rate (in this case only unemployment)|
+   |Total | Total | Unemployment rate (%) |
+   |Year_decimal | Year_decimal | Year + (Quarter-1)/4)-0.5 |
+   
+   CSV file name (b): LATAM_BCN_difference.csv
+   | Field            | Description |
+   |------------------|-------------|
+   |Year_Reference | Year (i) |
+   |D_ESP | Difference in the Spain-born population between year (i) and year (i-1) |
+   |D_WR | Difference in the Latin american population between year (i) and year (i-1) | 
