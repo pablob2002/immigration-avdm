@@ -225,4 +225,8 @@ data/
 =======
 .DS_Store
 
+# images used in notebooks
+imagenes_sara/
+
 >>>>>>> d75356e (Guardo cambios locales antes de hacer pull)
+
