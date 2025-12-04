@@ -110,16 +110,16 @@
 ### Sara directory
 
 ### Sergi Directory
-This directory contains a single .ipynb file which creates all the figures necessary for the "Is the immigration in Barcelona the cause of the Spain-born citizens’ emigration?" mini article. The csv files containing the data generated are stored in the data folder (local), with a folder name "sergi_data_frames". Apart from that, another folder (local) is created inside the Sergi directory called "figures_sergi" containing all the generated figures in .png and .pdf format. The data sets used are 1, 2 and 6.
+This directory contains a single .ipynb file which creates all the figures necessary for the "Is the immigration in Barcelona the cause of the Spain-born citizens’ emigration?" mini article. The csv files containing the data generated are stored in the data folder (local), with a folder name "sergi_data_frames". Apart from that, another folder (local) is created inside the Sergi directory called "figures_sergi" containing all the generated figures in .png and .pdf format. The data sets used are 1, 2 and 6.  
 
 There are three types of plots generated (and its corresponding data frames):
-1. **Scatter plot by world region to analyze the influence of the variation of the immigrant percentage in the total Spain-born population by neighborhood**
-   CSV file name: (world_region)_(district/neighborhood/city)_scatter.csv
+1. **Scatter plot by world region to analyze the influence of the variation of the immigrant percentage in the total Spain-born population by neighborhood**  
+   CSV file name: (world_region)_(district/neighborhood/city)_scatter.csv  
 
-3. **Bar plot comparing the evolution of the difference between consecutive years of a certain immigrant group and the Spain-born population for a certain district, neighbourhood, or city.**
-   CSV file name: bars_(world_region)_(district/neighborhood/city).csv 
+3. **Bar plot comparing the evolution of the difference between consecutive years of a certain immigrant group and the Spain-born population for a certain district, neighbourhood, or city.**  
+   CSV file name: bars_(world_region)_(district/neighborhood/city).csv  
    
 4. **Double y-axis graphics comparing the variation of the Spain-born and the Latin America-born population between consecutive years for the city of Barcelona (left axis) with the time evolution of
-the unemployment rate in the province of Barcelona (right axis)**
-   CSV file name (a): unemployment_rate_province_BCN.csv
-   CSV file name (b): LATAM_BCN_difference.csv
+the unemployment rate in the province of Barcelona (right axis)**  
+   CSV file name (a): unemployment_rate_province_BCN.csv  
+   CSV file name (b): LATAM_BCN_difference.csv  
