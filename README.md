@@ -129,7 +129,7 @@ We used the following generated data frames in each plot:
    | Field (Original)  | English Term       | Description |
    |-------------------|--------------------|-------------|
    | año           | Year             | Year at first of January |
-   | barrios de Barcelona    | Barcelona's neighborhoods  | Type of rate (in this case only unemployment)|
+   | barrios de Barcelona    | Barcelona's neighborhoods  | Neighborhood name |
    | extranjeros de países de renta baja o media (%) | Foreigners from low- and middle-income countries (%) | Percentage in the neighborhood |
    | población ocupada (%) | Employed population (%) | Percentage in the neighborhood |
    | renta media por persona (€) | Average income per person (€) | Amount in the neighborhood |
