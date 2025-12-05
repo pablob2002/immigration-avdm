@@ -285,17 +285,17 @@ The code generates several visualizations stored in ../data/outputs/good/ (if th
 
 **Generated Data Frames**:
 neighborhood_population_summary.csv (1997-2025): Yearly population statistics by neighborhood.
-| Field | Description |
-|-------|-------------|
-| Year_Reference | Year (January 1st) |
-| District | District name |
-| Neighborhood | Neighborhood name |
-| total_population | Total population |
-| spain_population | Spain-born population |
-| outside_spain | Foreign-born population |
-| eu_population | EU-born population (excluding Spain) |
-| world_population | Non-EU foreign-born population |
-| pct_outside_spain | Percentage of foreign-born population |
+| Field | Description | Type |
+|-------|-------------|------|
+| Year_Reference | Year (January 1st) | numeric |
+| District | District name | str |
+| Neighborhood | Neighborhood name | str |
+| total_population | Total population | numeric |
+| spain_population | Spain-born population | numeric |
+| outside_spain | Foreign-born population | numeric |
+| eu_population | EU-born population (excluding Spain) | numeric |
+| world_population | Non-EU foreign-born population | numeric |
+| pct_outside_spain | Percentage of foreign-born population | numeric |
 
 ### Sara directory
 This directory contains all the codes used in the creation of the mini article "Assessing the Socioeconomic and Educational Effects of Immigration in Barcelona".  It consist of four .ipynb files: 0_data_process.ipynb does a first cleaning and process of the datasets that are going to be used (3,4 and 5) in the creation of the different figures, saving them in a folder (local) called "generated_data"; and the other three correspond to the generation of the figures themselves, that we are going to discuss next. Two other folders (local) are added to Sara directory: one with the name "outputs", to save the results of the plots; and other named "images", where the files legend1.png and legend2.png have to be saved for them to be used as a legend in the bubble chart. These can be found in the link to the repository's drive.
@@ -352,35 +352,35 @@ This directory contains a single .ipynb file which creates all the figures neces
 There are three types of plots generated (and its corresponding data frames):
 1. **Scatter plot by world region to analyze the influence of the variation of the immigrant percentage in the total Spain-born population by neighborhood**  
    CSV file name: (world_region)_(district/neighborhood/city)_scatter.csv
-   | Field            | Description |
-   |------------------|-------------|
-   | Neighborhood  | Neighborhood name |
-   | District | District name |
-   |Year_Reference | Year (i) |
-   |Pop_Spain_diff | Difference in the Spain-born population between year (i+period) and year (i) |
-   |Perc_Outside_diff | Difference in the foreign-born (world_region) population percentage between year (i) and year (i-period) |
+   | Field            | Description | Type |
+   |------------------|-------------|------|
+   | Neighborhood  | Neighborhood name | str |
+   | District | District name | str |
+   |Year_Reference | Year (January 1st) (i) | numeric |
+   |Pop_Spain_diff | Difference in the Spain-born population between year (i+period) and year (i) | numeric |
+   |Perc_Outside_diff | Difference in the foreign-born (world_region) population percentage between year (i) and year (i-period) | numeric |
 
 3. **Bar plot comparing the evolution of the difference between consecutive years of a certain immigrant group and the Spain-born population for a certain district, neighbourhood, or city.**  
    CSV file name: bars_(world_region)_(district/neighborhood/city).csv  
-   | Field            | Description |
-   |------------------|-------------|
-   | District/Neighborhood  | District or Neighborhood name (all rows the same). This column does not appear if the data frame corresponds to the whole city. |
-   |Year_Reference | Year (i) |
-   |D_ESP | Difference in the Spain-born population between year (i) and year (i-1) |
-   |D_WR | Difference in the foreign-born (world_region) population between year (i) and year (i-1) |
+   | Field            | Description | Type |
+   |------------------|-------------|------|
+   | District/Neighborhood  | District or Neighborhood name (all rows the same). This column does not appear if the data frame corresponds to the whole city. | str |
+   |Year_Reference |Year (January 1st) (i) | numeric |
+   |D_ESP | Difference in the Spain-born population between year (i) and year (i-1) | numeric |
+   |D_WR | Difference in the foreign-born (world_region) population between year (i) and year (i-1) | numeric |
 4. **Double y-axis graphics comparing the variation of the Spain-born and the Latin America-born population between consecutive years for the city of Barcelona (left axis) with the time evolution of
 the unemployment rate in the province of Barcelona (right axis)**  
    CSV file name (a): unemployment_rate_province_BCN.csv
-   | Field (Original)  | English Term       | Description |
-   |-------------------|--------------------|-------------|
-   | Periodo           | Period             | Time period (Year+Quarter) |
-   | Tasa    | Rate  | Type of rate (in this case only unemployment)|
-   |Total | Total | Unemployment rate (%) |
-   |Year_decimal | Year_decimal | Year + (Quarter-1)/4)-0.5 |
+   | Field (Original)  | English Term       | Description | Type |
+   |-------------------|--------------------|-------------|------|
+   | Periodo           | Period             | Time period (Year+Quarter) | str |
+   | Tasa    | Rate  | Type of rate (in this case only unemployment)| str |
+   |Total | Total | Unemployment rate (%) | numeric |
+   |Year_decimal | Year_decimal | Year + (Quarter-1)/4)-0.5 | numeric |
    
    CSV file name (b): LATAM_BCN_difference.csv
-   | Field            | Description |
-   |------------------|-------------|
-   |Year_Reference | Year (i) |
-   |D_ESP | Difference in the Spain-born population between year (i) and year (i-1) |
-   |D_WR | Difference in the Latin american population between year (i) and year (i-1) | 
+   | Field            | Description | Type |
+   |------------------|-------------|------|
+   |Year_Reference | Year (January 1st) (i) | numeric |
+   |D_ESP | Difference in the Spain-born population between year (i) and year (i-1) | numeric |
+   |D_WR | Difference in the Latin american population between year (i) and year (i-1) | numeric |
