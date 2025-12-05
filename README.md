@@ -227,6 +227,46 @@ where <...> has to be substituted with the desired output.
 
 
 ### Pablo directory
+### Pablo directory
+This directory contains code for analyzing immigration patterns in Barcelona by geographical region and birthplace. The analysis focuses on three main aspects: overall immigration trends, gender distribution in Asian immigration, and spatial distribution of Southern Asian immigration.
+
+There are six **notebooks** in this directory: 
+- 0_merged_data.ipynb - Data Preparation. It merges yearly CSV files from two main datasets into consolidated files:
+   + merged_birthPlaceRegion_sex.csv: Population by UN geographical region of birth and sex
+   + merged_birthPlace_spain_v_outside.csv: Population by birthplace (Spain vs. outside Spain)
+- 0_0_Percentage_immigration_neighborhood.ipynb - Immigration by neighborhood. It creates maps of Barcelona showing the immigration percentage per neighborhood through time from 1997-2025.
+- 1_Total_immigration_temporal.ipynb - Overall Immigration Trends. It analyzes the evolution of Barcelona's population by origin (Spain-born vs. foreign-born) from 1997-2025.
+- 1_Percentage_total_city_2025.ipynb - Regional Distribution. It creates a donut chart showing Barcelona's 2025 population distribution by region of birth, separating Spain-born from other Southern European populations.
+- 2_Gender_distribution_Population.ipynb - Gender Analysis. It compares the gender distribution of immigrants from Southern Asia and Eastern Asia over time (1997-2025) with linear and logarithmic scales.
+- 3_Heat_map_SouthAsia.ipynb - Spatial Distribution. It analyzes the distribution of Southern Asian immigrants across Barcelona's districts and neighborhoods, with comparisons to Latin American immigration patterns.
+
+**Data Sets Used**:
+There were two datasets used:
+- Dataset 1: Population by geographical region of birth and sex (UN regions)
+- Dataset 2: Population by birthplace and sex (Spain vs. outside Spain)
+
+**Outputs**:
+The code generates several visualizations stored in ../data/outputs/good/ (if this folder does not exist it is created):
+
+- Population Evolution (1997-2025): Stacked area chart showing Spain-born vs. foreign-born population growth with percentage labels.
+- Regional Distribution Donut Chart: Visual breakdown of Barcelona's 2025 population by region of birth.
+- Gender Distribution Comparison: 2×2 panel plot comparing male/female immigration from Southern and Eastern Asia.
+- Heatmap and Stacked Area Charts: District-level heatmap of Southern Asian population (linear and log scales) and Neighborhood-level stacked area chart for Ciutat Vella district
+- Comparative heatmap: Southern Asia vs. Latin America immigration
+
+**Generated Data Frames**:
+neighborhood_population_summary.csv (1997-2025): Yearly population statistics by neighborhood.
+| Field | Description |
+|-------|-------------|
+| Year_Reference | Year (January 1st) |
+| District | District name |
+| Neighborhood | Neighborhood name |
+| total_population | Total population |
+| spain_population | Spain-born population |
+| outside_spain | Foreign-born population |
+| eu_population | EU-born population (excluding Spain) |
+| world_population | Non-EU foreign-born population |
+| pct_outside_spain | Percentage of foreign-born population |
 
 ### Sara directory
 This directory contains all the codes used in the creation of the mini article "Assessing the Socioeconomic and Educational Effects of Immigration in Barcelona".  It consist of four .ipynb files: 0_data_process.ipynb does a first cleaning and process of the datasets that are going to be used (3,4 and 5) in the creation of the different figures, saving them in a folder (local) called "generated_data"; and the other three correspond to the generation of the figures themselves, that we are going to discuss next. Two other folders (local) are added to Sara directory: one with the name "outputs", to save the results of the plots; and other named "images", where the files legend1.png and legend2.png have to be saved for them to be used as a legend in the bubble chart. These can be found in the link to the repository's drive.
