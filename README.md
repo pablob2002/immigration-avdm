@@ -115,6 +115,15 @@ This project consists in a data analysis of the immigration (its characteristics
 7. **Dimensions of the data sets of the Municipal Register of inhabitants of the city of Barcelona**
    <https://opendata-ajuntament.barcelona.cat/data/dataset/pad-dimensions>
 
+   | Field | Description |
+   | ----- | ----------- |
+   | Codi_Dimensio | Identifier for the coded dimension |
+   | Desc_Dimensio | Dimension |
+   | Codi_Valor | Code associated to the value of the dimension |
+   | Desc_Valor_CA | Uncoded value of the dimension (catalan) |
+   | Desc_Valor_ES | Uncoded value of the dimension (spanish) |
+   | Desc_Valor_EN | Uncoded value of the dimension (english) |
+
 8. **Geometry**
    <>
 
