@@ -238,8 +238,6 @@ Similarity Between Neighborhoods (Excluding Spain)
 
 - `4_rent_diversity.png`: scatter plot representing the relation between the rent per capita and the SDI (including Spain) for each neighborhood of Barcelona in 2022. The plot includes the an exponential fit line and its confidence interval (95%).
 
----
-
 Although not implemented since we did not need to create files for this project, it could be easily implemented by adding a similar conditional saving mechanism after the DataFrame creation sections. In this case, we should use the `to_csv()` method of the pandas DataFrame to save the data in CSV format. 
 
 The functions used to compute the different analysis are explained in detail in the README.md file located inside the folder directory `immigration-avdm/Alba`. Nevertheless, a brief explanation of the main functions used in this notebook is provided below:
