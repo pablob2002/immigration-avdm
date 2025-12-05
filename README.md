@@ -1,5 +1,5 @@
 # immigration-avdm
-This repository contains all the codes used during the project corresponding to the Analysis and Visualization of Massive Data of the Master in Physics of Complex Systems and Biophysics in Universitat de Bareclona. 
+This repository contains all the codes used during the project corresponding to the Analysis and Visualization of Big Data of the Master in Physics of Complex Systems and Biophysics in Universitat de Bareclona. 
 
 ## Table of contents
 - [Contributors](#contributors)
@@ -113,7 +113,7 @@ This project consists in a data analysis of the immigration (its characteristics
    | Tasa de Empleo    | Employment Rate    | % employed |
 
 ### Data storage
-All the data corresponding to the original data sets can be found in a google drive folder (https://drive.google.com/drive/u/1/folders/1RcMc1dbqj3XbPj8vlShsVeRvFjJF8vma) 
+All the data corresponding to the original data sets can be found in a Google Drive folder (https://drive.google.com/drive/u/1/folders/1RcMc1dbqj3XbPj8vlShsVeRvFjJF8vma). In order to be able to execute the code you have to download the orginal_data folder into your local directory and follow the instructions in the "Uncode and reformat data" section. Apart from that, the Google Drive folder also contains the generated data frames during the developement of the project.
 
 ## Requirements
 
