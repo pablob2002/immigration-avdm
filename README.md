@@ -182,7 +182,7 @@ To solve this issues, the code *./Ale/0_reformat_data.ipynb* loads the data loca
 | Latin America | Caribbean, Central America, South America |
 | Asia | Southern Asia, South-Eastern Asia, Eastern Asia |
 | Europe | Eastern Europe, Northern Europe, Southern Europe |
-| NA-Aus-NZ | Northern America, Australia and New Zealand |
+| NAm-Aus-NZ | Northern America, Australia and New Zealand |
 
 ### Alba directory
 
