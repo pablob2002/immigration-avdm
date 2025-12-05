@@ -124,9 +124,28 @@ This project consists in a data analysis of the immigration (its characteristics
    | Desc_Valor_ES | Uncoded value of the dimension (spanish) |
    | Desc_Valor_EN | Uncoded value of the dimension (english) |
 
-8. **Geometry**
-   <>
+8. **Administrative units of the city of Barcelona**
+   <https://opendata-ajuntament.barcelona.cat/data/en/dataset/20170706-districtes-barris>
 
+   - *BarcelonaCiutat_Districtes.csv*
+
+      | Field | Description |
+      | ----- | ----------- |
+      | Codi_Districte | District identifier |
+      | nom_districte | District name |
+      | geometria_etrs89 | District geometry in *etrs89* format |
+      | geometria_wgs84 | District geometry in *wgs84* format |
+
+   - *BarcelonaCiutat_Barris.csv*
+
+      | Field | Description |
+      | ----- | ----------- |
+      | codi_Districte | District identifier |
+      | nom_districte | District name |
+      | codi_barri | Neighborhood identifier |
+      | nom_barri | Neighborhood name |
+      | geometria_etrs89 | Neighborhood geometry in *etrs89* format |
+      | geometria_wgs84 | Neighborhood geometry in *wgs84* format |
 
 
 ### Data storage
