@@ -208,15 +208,15 @@ This code will generate a folder inside this directory named `.Alba/img/`, where
 
 - `1_rent_per_capita_2022.png`: color map of the rent per capita (income) in the neighborhoods of Barcelona with a colorbar indicating the color scale in scientific notation with a color blindness friendly palette (viridis).
 
-- `1_rent_evolution.png`: plot conformed by 3 subplots in 1x3 axes. The first two subplots are colomaps of the rent per capita in 1997 and 2022, respectively, with a common colorbar again with scientific notation and color blindness friendly palette (viridis). The third subplot is another colormap indicating the percentage of variation of the rent per capita between 1997 and 2022, with its own colorbar and other color blindness friendly palette (coolwarm).
+- `1_rent_evolution.png`: plot conformed by 3 subplots in 1x3 axes. The first two subplots are colomaps of the rent per capita in 1997 and 2022, respectively, with a common colorbar again with scientific notation and color blindness friendly palette (viridis). The third subplot is another colormap indicating the percentage of variation of the rent per capita between 1997 and 2022, with its own colorbar and other color blindness friendly palette (plasma).
 
 **STUDY OF THE POPULATION**
 
 Diversity Calculation
 
-- `2_simpsons_index_comparison.png`: plot conformed by 2 subplots in 1x2 axes. The first two subplots are colormaps of the Simpson's Diversity Index (SDI) calculated including and excluding Spain as one of the nationalities group, respectively, with a common colorbar with a color blindness friendly palette (viridis). The third subplot is another colormap of the percentage difference between both SDI calculations, with its own colorbar and color blindness friendly palette (coolwarm).
+- `2_simpsons_index_comparison.png`: plot conformed by 2 subplots in 1x2 axes. The first two subplots are colormaps of the Simpson's Diversity Index (SDI) calculated including and excluding Spain as one of the nationalities group, respectively, with a common colorbar with a color blindness friendly palette (viridis). The third subplot is another colormap of the percentage difference between both SDI calculations, with its own colorbar and color blindness friendly palette (plasma).
 
-- `2_simpsons_index_comparison_evolution.png`: plot conformed by 6 subplots in 2x3 axes. The first row focuses on the scenario in which Spain is included as one of the nationalitys groups, while the second row focuses on the scenario in which Spain is excluded. On the other hand, the first row contains colormaps of the SDI in 1997 while the second row contains colormaps of the SDI in 2022. This 4 subplots share a common colorbar with a color blindness friendly palette (viridis). The last column contains colormaps of the percentage of variation of the SDI between 1997 and 2022 for both scenarios, again with a common colorbar and color blindness friendly palette (coolwarm).
+- `2_simpsons_index_comparison_evolution.png`: plot conformed by 6 subplots in 2x3 axes. The first row focuses on the scenario in which Spain is included as one of the nationalitys groups, while the second row focuses on the scenario in which Spain is excluded. On the other hand, the first row contains colormaps of the SDI in 1997 while the second row contains colormaps of the SDI in 2022. This 4 subplots share a common colorbar with a color blindness friendly palette (viridis). The last column contains colormaps of the percentage of variation of the SDI between 1997 and 2022 for both scenarios, again with a common colorbar and color blindness friendly palette (plasma).
 
 Similarity Between Neighborhoods (Including Spain)
 
@@ -330,7 +330,7 @@ The functions used to compute the different analysis are explained in detail in 
     | Neighborhood | Name of the neighborhood | String |
     | Geometry_etrs89 | Geometrical data in ETRS89 coordinate system | Geometry |
     | Percentage_Difference | Percentage difference value between df1 and df2 for that neighborhood | Float |
-- `df_difference(lecture_function, add_spain, initial_year, final_year)`: generates a GeoDataFrame with the percentage difference of the SDI between two years for each neighborhood of Barcelona, either including or excluding Spain as one of the nationalitys groups (depending on add_spain).
+- `df_difference(lecture_function, add_spain, initial_year, final_year)`: generates a GeoDataFrame with the difference of the SDI between two years for each neighborhood of Barcelona, either including or excluding Spain as one of the nationalitys groups (depending on add_spain).
 
     ⮑ Input: lecture_function (dictionary format with neighborhoods as keys), add_spain (bool), initial_year (int), final_year (int).
 
@@ -341,7 +341,7 @@ The functions used to compute the different analysis are explained in detail in 
     | District | Name of the district  | String |
     | Neighborhood | Name of the neighborhood | String |
     | Geometry_etrs89 | Geometrical data in ETRS89 coordinate system | Geometry |
-    | Diversity_difference | Percentage difference value of the SDI between the two years for that neighborhood | Float |
+    | Diversity_difference | Difference value of the SDI between the two years for that neighborhood | Float |
 
 
 The explanation of the rest of the functions used for the analysis can be found in the README.md file located inside the folder directory `immigration-avdm/Alba`.

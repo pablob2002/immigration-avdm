@@ -205,7 +205,7 @@ Let's now deepen into the **arquitecture behind the code**. Firstly, we need to 
 
     - **VISUALIZATION OF THE RESULTS**
 
-        To clarify difference between maps, we use function like `diference_df12(df1, df2)` or `df_difference(lecture_function, add_spain, initial_year, final_year)` or `df_difference_rent(Initial_year, Final_year, cmap = 'inferno')`, which computes the difference between two DataFrames (percentage difference) or two maps from different years.
+        To clarify difference between maps, we use function like `diference_df12(df1, df2)` or `df_difference(lecture_function, add_spain, initial_year, final_year)` or `df_difference_rent(Initial_year, Final_year, cmap = 'inferno')`, which computes the difference between two DataFrames or two maps from different years.
 
         To plot the maps, we define particular functions like `plot_difference(lecture_function, add_spain,ax, initial_year, final_year, cmap = 'coolwarm')` or `plot_difference_gdf12(ax, df1, df2, cmap='coolwarm', log_scale = False)`. These functions use the previous DataFrames or GeoDataFrames to create color maps with the desired information. The color bars are done by using ScalarMappable from matplotlib.
 
