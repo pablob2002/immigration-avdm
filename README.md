@@ -103,6 +103,73 @@
 ### Alba directory
 
 ### Ale directory
+There are two jupyter notebooks in this directory: 
+
+- *0_reformat_data.ipynb*, which is required to run most of the codes in this repository and was explained in section **Data translation**.
+- *1_density_and_diversity.ipynb*, a code to generate several plots that give an overview of the immigration situation in Barcelona, which acts as a motivation for our project while giving rise to some initial results.
+
+
+The latter can only be run after the first notebook since it works with datasets [1] and [2], which have coded values. It also requires an **additional Python library (Generativepy)** that cannot be installed through conda, so we used pip:
+
+```console
+conda activate ub-avbd
+pip install generativepy
+```
+
+The code will **generate a folder *./Ale/img/* with the final plots** of this study:
+
+1. **Density Comparison**: 2x2 axes containing (1997 and 2025) x (Total and Immigrant population densities) per neighborhood density colormaps with a single legend (colorbar) added as an extra axis, which has a logarithmic scale.
+2. **Dominant Group x Share**: bivariate colormap that reveals the most present immigrant group on each neighborhood in 2025 and the share it represents among immigrants.
+3. **Diversity Comparison**: 1x2 axes with colormaps of the total and immigrant diversities in 2025 resulting from the normalized Shannon Entropy indicator. The plot displays a single legend (colorbar) added as an extra axis.
+4. **Diversity Interpretation**: horizontal bars for three relevant neighborhoods that display high, medium and low diversity in 2025 (on the resulting spectrum). They illustrate the relevance of different population groups for each normalized Shannon Entropy. This gives an idea on how to interpret this diversity index, which is not an intuitive quantity.
+
+
+Although **not implemented** since we did not need to create files for this project, the treated **data** used for all plots **can be easily computed and exported to *.csv* files** (or any desired format) with two functions created.
+
+- `data_density(year)`: generates one of the DataFrames used in figure (1), which has all the information for the specified year.
+
+    | Field | Description |
+    | ----- | ----------- |
+    | District  | District name |
+    | Neighborhood | Neighborhood name |
+    | Geometry_etrs89 | Geometry of the neighborhood in etrs89 format |
+    | Population_Spain | Spanish population in the neighborhood |
+    | Population_outside_Spain | Immigrant population in the neighborhood |
+    | Total_Population | Spanish + Immigrant population in the neighborhood |
+    | Immigrant_percentage | Percentage of immigrants with respect to the total population in the neighborhood |
+    | Area_km2 | Area in square kilometers of the neighborhood |
+    | Population_density | Total population in a neighborhood divided by its area |
+    | Immigrant_density | Immigrant population in a neighborhood divided by its area |
+
+- `data_diversity(year)`: generates the DataFrame used in figures (2), (3) and (4), which has all the information for the desired year.
+
+    | Field | Description |
+    | ----- | ----------- |
+    | District  | District name |
+    | Neighborhood | Neighborhood name |
+    | <Group> | Immigration group's population in the neighborhood after rearranging original regions into a smaller set |
+    | Spain | Spanish population in the neighborhood |
+    | Total_Immigrants | Immigrant population in the neighborhood |
+    | Total_Population | Spanish + Immigrant population in the neighborhood |
+    | \<Group>_share | Population of the group divided by the immigrant population, both in the neighborhood |
+    | \<Group>_total_share | Population of the group divided by the total population, both in the neighborhood |
+    | Dominant_Group | Name of the biggest immigrant group in the neighborhood |
+    | Dominant_Group_Value | Population of the biggest immigrant group in the neighborhood |
+    | Dominant_Group_share | Population of the biggest immigrant group divided by the immigrant population, both in the neighborhood |
+    | Dominant_Group_total_share | Population of the biggest immigrant group divided by the total population, both in the neighborhood |
+    | Diversity | Shannon Entropy (diversity indicator) computed over the immigrant population groups in the neighborhood |
+    | Diversity_Norm | Shannon Entropy normalized by dividing over the logarithm of the number of immigrant groups considered |
+    | Diversity_Total | Shannon Entropy (diversity indicator) computed over the total population in the neighborhood |
+    | Diversity_Total_Norm | Shannon Entropy normalized by dividing over the logarithm of the number of immigrant groups considered + 1 for the Spanish population |
+
+
+Both functions return a DataFrame that can be exported as a *.csv*. Here is an **example** on how to use them:
+
+    df = data_density(2025)
+    df.to_csv('<directory>/<filename>.csv', index=False)
+
+where <...> has to be substituted with the desired output.
+
 
 ### Pablo directory
 
