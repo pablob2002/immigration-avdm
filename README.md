@@ -160,7 +160,7 @@ To solve this issues, the code *./Ale/0_reformat_data.ipynb* loads the data loca
 ### Ale directory
 There are two jupyter notebooks in this directory: 
 
-- *0_reformat_data.ipynb*, which is required to run most of the codes in this repository and was explained in section **Data translation**.
+- *0_reformat_data.ipynb*, which is required to run most of the codes in this repository and was explained in section **Uncode and reformat data**.
 - *1_density_and_diversity.ipynb*, a code to generate several plots that give an overview of the immigration situation in Barcelona, which acts as a motivation for our project while giving rise to some initial results.
 
 
