@@ -318,7 +318,7 @@ We used the following generated data frames in each plot:
    | group_continent | group_continent | Continent names with America and Oceania grouped |
 
 ### Sergi Directory
-This directory contains a single .ipynb file which creates all the figures necessary for the "Is the immigration in Barcelona the cause of the Spain-born citizens’ emigration?" mini article. The csv files containing the data generated are stored in the data folder (local), with a folder name "sergi_data_frames". Apart from that, another folder called "figures_sergi" (local) is created inside the Sergi directory containing all the generated figures in .png and .pdf format. The data sets used are 1, 2 and 6.  
+This directory contains a single .ipynb file which creates all the figures necessary for the "Is the immigration in Barcelona the cause of the Spain-born citizens’ emigration?" mini article. The csv files containing the data generated are stored in the data folder (local), in a created by the program folder called "sergi_data_frames". Apart from that, another folder called "figures_sergi" (local) is created inside the Sergi directory containing all the generated figures in .png and .pdf format. The data sets used are 1, 2 and 6.  
 
 There are three types of plots generated (and its corresponding data frames):
 1. **Scatter plot by world region to analyze the influence of the variation of the immigrant percentage in the total Spain-born population by neighborhood**  
